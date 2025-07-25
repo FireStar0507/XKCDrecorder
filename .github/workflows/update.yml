@@ -2,7 +2,7 @@ name: 更新XKCD漫画
 
 on:
   schedule:
-    - cron: '0 0,8,16 * * *'
+    - cron: '0 0 * * 2,4,6'
   push:
     branches: [main]
   workflow_dispatch:
