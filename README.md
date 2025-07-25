@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Solar Plexus
-No.64
-![图片不见了~~~](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+### Mail
+No.96
+![图片不见了~~~](https://imgs.xkcd.com/comics/mail.png)
 
-[原址](https://xkcd.com//64) [下载](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+[原址](https://xkcd.com//96) [下载](https://imgs.xkcd.com/comics/mail.png)
 
 
 
 ## 随机漫画
-### Just Alerting You
-No.15
-![图片不见了~~~](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
+### Wait For Me
+No.57
+![图片不见了~~~](https://imgs.xkcd.com/comics/wait_for_me.jpg)
 
-[原址](https://xkcd.com//15) [下载](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
-
-
-
-### Serenity is coming out tomorrow
-No.9
-![图片不见了~~~](https://imgs.xkcd.com/comics/firefly.jpg)
-
-[原址](https://xkcd.com//9) [下载](https://imgs.xkcd.com/comics/firefly.jpg)
+[原址](https://xkcd.com//57) [下载](https://imgs.xkcd.com/comics/wait_for_me.jpg)
 
 
 
-### Hobby
-No.53
-![图片不见了~~~](https://imgs.xkcd.com/comics/hobby.jpg)
+### Abusive Astronomy
+No.66
+![图片不见了~~~](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)
 
-[原址](https://xkcd.com//53) [下载](https://imgs.xkcd.com/comics/hobby.jpg)
+[原址](https://xkcd.com//66) [下载](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)
+
+
+
+### Su Doku
+No.74
+![图片不见了~~~](https://imgs.xkcd.com/comics/su_doku.jpg)
+
+[原址](https://xkcd.com//74) [下载](https://imgs.xkcd.com/comics/su_doku.jpg)
 
 
 
