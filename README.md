@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Pillar
-No.32
-![图片不见了~~~](https://imgs.xkcd.com/comics/pillar.jpg)
+### Solar Plexus
+No.64
+![图片不见了~~~](https://imgs.xkcd.com/comics/solar_plexus.jpg)
 
-[原址](https://xkcd.com//32) [下载](https://imgs.xkcd.com/comics/pillar.jpg)
+[原址](https://xkcd.com//64) [下载](https://imgs.xkcd.com/comics/solar_plexus.jpg)
 
 
 
 ## 随机漫画
-### Barrel - Part 4
-No.25
-![图片不见了~~~](https://imgs.xkcd.com/comics/barrel_part_4.jpg)
+### Just Alerting You
+No.15
+![图片不见了~~~](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
 
-[原址](https://xkcd.com//25) [下载](https://imgs.xkcd.com/comics/barrel_part_4.jpg)
-
-
-
-### Red spiders
-No.8
-![图片不见了~~~](https://imgs.xkcd.com/comics/red_spiders_small.jpg)
-
-[原址](https://xkcd.com//8) [下载](https://imgs.xkcd.com/comics/red_spiders_small.jpg)
+[原址](https://xkcd.com//15) [下载](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
 
 
 
-### Copyright
-No.14
-![图片不见了~~~](https://imgs.xkcd.com/comics/copyright.jpg)
+### Serenity is coming out tomorrow
+No.9
+![图片不见了~~~](https://imgs.xkcd.com/comics/firefly.jpg)
 
-[原址](https://xkcd.com//14) [下载](https://imgs.xkcd.com/comics/copyright.jpg)
+[原址](https://xkcd.com//9) [下载](https://imgs.xkcd.com/comics/firefly.jpg)
+
+
+
+### Hobby
+No.53
+![图片不见了~~~](https://imgs.xkcd.com/comics/hobby.jpg)
+
+[原址](https://xkcd.com//53) [下载](https://imgs.xkcd.com/comics/hobby.jpg)
 
 
 
