@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Mail
-No.96
-![图片不见了~~~](https://imgs.xkcd.com/comics/mail.png)
+### dPain over dt
+No.128
+![图片不见了~~~](https://imgs.xkcd.com/comics/dPain_over_dt.png)
 
-[原址](https://xkcd.com//96) [下载](https://imgs.xkcd.com/comics/mail.png)
+[原址](https://xkcd.com//128) [下载](https://imgs.xkcd.com/comics/dPain_over_dt.png)
 
 
 
 ## 随机漫画
-### Wait For Me
-No.57
-![图片不见了~~~](https://imgs.xkcd.com/comics/wait_for_me.jpg)
+### My Other Car
+No.80
+![图片不见了~~~](https://imgs.xkcd.com/comics/other_car.jpg)
 
-[原址](https://xkcd.com//57) [下载](https://imgs.xkcd.com/comics/wait_for_me.jpg)
-
-
-
-### Abusive Astronomy
-No.66
-![图片不见了~~~](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)
-
-[原址](https://xkcd.com//66) [下载](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)
+[原址](https://xkcd.com//80) [下载](https://imgs.xkcd.com/comics/other_car.jpg)
 
 
 
-### Su Doku
-No.74
-![图片不见了~~~](https://imgs.xkcd.com/comics/su_doku.jpg)
+### Poisson
+No.12
+![图片不见了~~~](https://imgs.xkcd.com/comics/poisson.jpg)
 
-[原址](https://xkcd.com//74) [下载](https://imgs.xkcd.com/comics/su_doku.jpg)
+[原址](https://xkcd.com//12) [下载](https://imgs.xkcd.com/comics/poisson.jpg)
+
+
+
+### Hyphen
+No.37
+![图片不见了~~~](https://imgs.xkcd.com/comics/hyphen.jpg)
+
+[原址](https://xkcd.com//37) [下载](https://imgs.xkcd.com/comics/hyphen.jpg)
 
 
 
