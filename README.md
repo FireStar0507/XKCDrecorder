@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### dPain over dt
-No.128
-![图片不见了~~~](https://imgs.xkcd.com/comics/dPain_over_dt.png)
+### Penny Arcade Parody
+No.160
+![图片不见了~~~](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
 
-[原址](https://xkcd.com//128) [下载](https://imgs.xkcd.com/comics/dPain_over_dt.png)
+[原址](https://xkcd.com//160) [下载](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
 
 
 
 ## 随机漫画
-### My Other Car
-No.80
-![图片不见了~~~](https://imgs.xkcd.com/comics/other_car.jpg)
+### Katamari
+No.83
+![图片不见了~~~](https://imgs.xkcd.com/comics/katamari.jpg)
 
-[原址](https://xkcd.com//80) [下载](https://imgs.xkcd.com/comics/other_car.jpg)
-
-
-
-### Poisson
-No.12
-![图片不见了~~~](https://imgs.xkcd.com/comics/poisson.jpg)
-
-[原址](https://xkcd.com//12) [下载](https://imgs.xkcd.com/comics/poisson.jpg)
+[原址](https://xkcd.com//83) [下载](https://imgs.xkcd.com/comics/katamari.jpg)
 
 
 
-### Hyphen
-No.37
-![图片不见了~~~](https://imgs.xkcd.com/comics/hyphen.jpg)
+### The Fast and the Furious
+No.127
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg)
 
-[原址](https://xkcd.com//37) [下载](https://imgs.xkcd.com/comics/hyphen.jpg)
+[原址](https://xkcd.com//127) [下载](https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg)
+
+
+
+### Bored with the Internet
+No.77
+![图片不见了~~~](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)
+
+[原址](https://xkcd.com//77) [下载](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)
 
 
 
