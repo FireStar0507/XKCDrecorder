@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Geese
-No.1440
-![图片不见了~~~](https://imgs.xkcd.com/comics/geese.png)
+### Biology vs Robotics
+No.2720
+![图片不见了~~~](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
 
-[原址](https://xkcd.com//1440) [下载](https://imgs.xkcd.com/comics/geese.png)
+[原址](https://xkcd.com//2720) [下载](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
 
 
 
 ## 随机漫画
-### Shadowfacts
-No.1272
-![图片不见了~~~](https://imgs.xkcd.com/comics/shadowfacts.png)
+### Compare and Contrast
+No.1026
+![图片不见了~~~](https://imgs.xkcd.com/comics/compare_and_contrast.png)
 
-[原址](https://xkcd.com//1272) [下载](https://imgs.xkcd.com/comics/shadowfacts.png)
-
-
-
-### Thighs
-No.321
-![图片不见了~~~](https://imgs.xkcd.com/comics/thighs.png)
-
-[原址](https://xkcd.com//321) [下载](https://imgs.xkcd.com/comics/thighs.png)
+[原址](https://xkcd.com//1026) [下载](https://imgs.xkcd.com/comics/compare_and_contrast.png)
 
 
 
-### Bookstore
-No.294
-![图片不见了~~~](https://imgs.xkcd.com/comics/bookstore.png)
+### Space Basketball
+No.2328
+![图片不见了~~~](https://imgs.xkcd.com/comics/space_basketball.png)
 
-[原址](https://xkcd.com//294) [下载](https://imgs.xkcd.com/comics/bookstore.png)
+[原址](https://xkcd.com//2328) [下载](https://imgs.xkcd.com/comics/space_basketball.png)
+
+
+
+### Danger Mnemonic
+No.2487
+![图片不见了~~~](https://imgs.xkcd.com/comics/danger_mnemonic.png)
+
+[原址](https://xkcd.com//2487) [下载](https://imgs.xkcd.com/comics/danger_mnemonic.png)
 
 
 
