@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Beautiful Dream
-No.800
-![图片不见了~~~](https://imgs.xkcd.com/comics/beautiful_dream.png)
+### Geese
+No.1440
+![图片不见了~~~](https://imgs.xkcd.com/comics/geese.png)
 
-[原址](https://xkcd.com//800) [下载](https://imgs.xkcd.com/comics/beautiful_dream.png)
+[原址](https://xkcd.com//1440) [下载](https://imgs.xkcd.com/comics/geese.png)
 
 
 
 ## 随机漫画
-### Lincoln-Douglas
-No.639
-![图片不见了~~~](https://imgs.xkcd.com/comics/lincoln_douglas.png)
+### Shadowfacts
+No.1272
+![图片不见了~~~](https://imgs.xkcd.com/comics/shadowfacts.png)
 
-[原址](https://xkcd.com//639) [下载](https://imgs.xkcd.com/comics/lincoln_douglas.png)
-
-
-
-### Theft of the Magi
-No.506
-![图片不见了~~~](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
-
-[原址](https://xkcd.com//506) [下载](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
+[原址](https://xkcd.com//1272) [下载](https://imgs.xkcd.com/comics/shadowfacts.png)
 
 
 
-### Savannah Ancestry
-No.775
-![图片不见了~~~](https://imgs.xkcd.com/comics/savannah_ancestry.png)
+### Thighs
+No.321
+![图片不见了~~~](https://imgs.xkcd.com/comics/thighs.png)
 
-[原址](https://xkcd.com//775) [下载](https://imgs.xkcd.com/comics/savannah_ancestry.png)
+[原址](https://xkcd.com//321) [下载](https://imgs.xkcd.com/comics/thighs.png)
+
+
+
+### Bookstore
+No.294
+![图片不见了~~~](https://imgs.xkcd.com/comics/bookstore.png)
+
+[原址](https://xkcd.com//294) [下载](https://imgs.xkcd.com/comics/bookstore.png)
 
 
 
