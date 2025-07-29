@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Penny Arcade Parody
-No.160
-![图片不见了~~~](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
+### Beautiful Dream
+No.800
+![图片不见了~~~](https://imgs.xkcd.com/comics/beautiful_dream.png)
 
-[原址](https://xkcd.com//160) [下载](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
+[原址](https://xkcd.com//800) [下载](https://imgs.xkcd.com/comics/beautiful_dream.png)
 
 
 
 ## 随机漫画
-### Katamari
-No.83
-![图片不见了~~~](https://imgs.xkcd.com/comics/katamari.jpg)
+### Lincoln-Douglas
+No.639
+![图片不见了~~~](https://imgs.xkcd.com/comics/lincoln_douglas.png)
 
-[原址](https://xkcd.com//83) [下载](https://imgs.xkcd.com/comics/katamari.jpg)
-
-
-
-### The Fast and the Furious
-No.127
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg)
-
-[原址](https://xkcd.com//127) [下载](https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg)
+[原址](https://xkcd.com//639) [下载](https://imgs.xkcd.com/comics/lincoln_douglas.png)
 
 
 
-### Bored with the Internet
-No.77
-![图片不见了~~~](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)
+### Theft of the Magi
+No.506
+![图片不见了~~~](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
 
-[原址](https://xkcd.com//77) [下载](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)
+[原址](https://xkcd.com//506) [下载](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
+
+
+
+### Savannah Ancestry
+No.775
+![图片不见了~~~](https://imgs.xkcd.com/comics/savannah_ancestry.png)
+
+[原址](https://xkcd.com//775) [下载](https://imgs.xkcd.com/comics/savannah_ancestry.png)
 
 
 
