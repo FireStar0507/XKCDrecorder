@@ -1,6 +1,6 @@
 import os
 
-max_once = 32
+max_once = 640
 sleep_time = 0.25
 
 xkcd_url = "https://xkcd.com/"
