@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Kite Incident
-No.3121
-![图片不见了~~~](https://imgs.xkcd.com/comics/kite_incident.png)
+### Bad Map Projection: Interrupted Spheres
+No.3122
+![图片不见了~~~](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)
 
-[原址](https://xkcd.com//3121) [下载](https://imgs.xkcd.com/comics/kite_incident.png)
+[原址](https://xkcd.com//3122) [下载](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)
 
 
 
 ## 随机漫画
-### Marble Run
-No.2785
-![图片不见了~~~](https://imgs.xkcd.com/comics/marble_run.png)
+### YouTube Parties
+No.920
+![图片不见了~~~](https://imgs.xkcd.com/comics/youtube_parties.png)
 
-[原址](https://xkcd.com//2785) [下载](https://imgs.xkcd.com/comics/marble_run.png)
-
-
-
-### Types of Solar Eclipse
-No.2816
-![图片不见了~~~](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)
-
-[原址](https://xkcd.com//2816) [下载](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)
+[原址](https://xkcd.com//920) [下载](https://imgs.xkcd.com/comics/youtube_parties.png)
 
 
 
-### Spacetime Soccer
-No.2705
-![图片不见了~~~](https://imgs.xkcd.com/comics/spacetime_soccer.png)
+### Eclipse Searches
+No.1876
+![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_searches.png)
 
-[原址](https://xkcd.com//2705) [下载](https://imgs.xkcd.com/comics/spacetime_soccer.png)
+[原址](https://xkcd.com//1876) [下载](https://imgs.xkcd.com/comics/eclipse_searches.png)
+
+
+
+### Organ Meanings
+No.2960
+![图片不见了~~~](https://imgs.xkcd.com/comics/organ_meanings.png)
+
+[原址](https://xkcd.com//2960) [下载](https://imgs.xkcd.com/comics/organ_meanings.png)
 
 
 
