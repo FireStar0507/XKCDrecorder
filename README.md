@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Bad Map Projection: Interrupted Spheres
-No.3122
-![图片不见了~~~](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)
+### Canon
+No.3123
+![图片不见了~~~](https://imgs.xkcd.com/comics/canon.png)
 
-[原址](https://xkcd.com//3122) [下载](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)
+[原址](https://xkcd.com//3123) [下载](https://imgs.xkcd.com/comics/canon.png)
 
 
 
 ## 随机漫画
-### YouTube Parties
-No.920
-![图片不见了~~~](https://imgs.xkcd.com/comics/youtube_parties.png)
+### Social Media Announcement
+No.2045
+![图片不见了~~~](https://imgs.xkcd.com/comics/social_media_announcement.png)
 
-[原址](https://xkcd.com//920) [下载](https://imgs.xkcd.com/comics/youtube_parties.png)
-
-
-
-### Eclipse Searches
-No.1876
-![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_searches.png)
-
-[原址](https://xkcd.com//1876) [下载](https://imgs.xkcd.com/comics/eclipse_searches.png)
+[原址](https://xkcd.com//2045) [下载](https://imgs.xkcd.com/comics/social_media_announcement.png)
 
 
 
-### Organ Meanings
-No.2960
-![图片不见了~~~](https://imgs.xkcd.com/comics/organ_meanings.png)
+### Heaven
+No.888
+![图片不见了~~~](https://imgs.xkcd.com/comics/heaven.png)
 
-[原址](https://xkcd.com//2960) [下载](https://imgs.xkcd.com/comics/organ_meanings.png)
+[原址](https://xkcd.com//888) [下载](https://imgs.xkcd.com/comics/heaven.png)
+
+
+
+### Glacier
+No.2164
+![图片不见了~~~](https://imgs.xkcd.com/comics/glacier.png)
+
+[原址](https://xkcd.com//2164) [下载](https://imgs.xkcd.com/comics/glacier.png)
 
 
 
