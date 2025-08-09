@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Snake-in-the-Box Problem
-No.3125
-![图片不见了~~~](https://imgs.xkcd.com/comics/snake_in_the_box_problem.png)
+### Disclaimer
+No.3126
+![图片不见了~~~](https://imgs.xkcd.com/comics/disclaimer.png)
 
-[原址](https://xkcd.com//3125) [下载](https://imgs.xkcd.com/comics/snake_in_the_box_problem.png)
+[原址](https://xkcd.com//3126) [下载](https://imgs.xkcd.com/comics/disclaimer.png)
 
 
 
 ## 随机漫画
-### Julia Stiles
-No.130
-![图片不见了~~~](https://imgs.xkcd.com/comics/julia_stiles.jpg)
+### ‮LTR
+No.1137
+![图片不见了~~~](https://imgs.xkcd.com/comics/rtl.png)
 
-[原址](https://xkcd.com//130) [下载](https://imgs.xkcd.com/comics/julia_stiles.jpg)
-
-
-
-### Objects In Mirror
-No.1125
-![图片不见了~~~](https://imgs.xkcd.com/comics/objects_in_mirror.png)
-
-[原址](https://xkcd.com//1125) [下载](https://imgs.xkcd.com/comics/objects_in_mirror.png)
+[原址](https://xkcd.com//1137) [下载](https://imgs.xkcd.com/comics/rtl.png)
 
 
 
-### Formatting Meeting
-No.2562
-![图片不见了~~~](https://imgs.xkcd.com/comics/formatting_meeting.png)
+### Missed Connections
+No.935
+![图片不见了~~~](https://imgs.xkcd.com/comics/missed_connections.png)
 
-[原址](https://xkcd.com//2562) [下载](https://imgs.xkcd.com/comics/formatting_meeting.png)
+[原址](https://xkcd.com//935) [下载](https://imgs.xkcd.com/comics/missed_connections.png)
+
+
+
+### Infinite Armada Chess
+No.3020
+![图片不见了~~~](https://imgs.xkcd.com/comics/infinite_armada_chess.png)
+
+[原址](https://xkcd.com//3020) [下载](https://imgs.xkcd.com/comics/infinite_armada_chess.png)
 
 
 
