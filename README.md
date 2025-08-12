@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Disclaimer
-No.3126
-![图片不见了~~~](https://imgs.xkcd.com/comics/disclaimer.png)
+### Where Babies Come From
+No.3127
+![图片不见了~~~](https://imgs.xkcd.com/comics/where_babies_come_from.png)
 
-[原址](https://xkcd.com//3126) [下载](https://imgs.xkcd.com/comics/disclaimer.png)
+[原址](https://xkcd.com//3127) [下载](https://imgs.xkcd.com/comics/where_babies_come_from.png)
 
 
 
 ## 随机漫画
-### ‮LTR
-No.1137
-![图片不见了~~~](https://imgs.xkcd.com/comics/rtl.png)
+### Turing Complete
+No.2556
+![图片不见了~~~](https://imgs.xkcd.com/comics/turing_complete.png)
 
-[原址](https://xkcd.com//1137) [下载](https://imgs.xkcd.com/comics/rtl.png)
-
-
-
-### Missed Connections
-No.935
-![图片不见了~~~](https://imgs.xkcd.com/comics/missed_connections.png)
-
-[原址](https://xkcd.com//935) [下载](https://imgs.xkcd.com/comics/missed_connections.png)
+[原址](https://xkcd.com//2556) [下载](https://imgs.xkcd.com/comics/turing_complete.png)
 
 
 
-### Infinite Armada Chess
-No.3020
-![图片不见了~~~](https://imgs.xkcd.com/comics/infinite_armada_chess.png)
+### Log Cabin
+No.2891
+![图片不见了~~~](https://imgs.xkcd.com/comics/log_cabin.png)
 
-[原址](https://xkcd.com//3020) [下载](https://imgs.xkcd.com/comics/infinite_armada_chess.png)
+[原址](https://xkcd.com//2891) [下载](https://imgs.xkcd.com/comics/log_cabin.png)
+
+
+
+### Genetic Testing Results
+No.1840
+![图片不见了~~~](https://imgs.xkcd.com/comics/genetic_testing_results.png)
+
+[原址](https://xkcd.com//1840) [下载](https://imgs.xkcd.com/comics/genetic_testing_results.png)
 
 
 
