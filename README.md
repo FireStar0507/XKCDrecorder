@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Where Babies Come From
-No.3127
-![图片不见了~~~](https://imgs.xkcd.com/comics/where_babies_come_from.png)
+### Thread Meeting
+No.3128
+![图片不见了~~~](https://imgs.xkcd.com/comics/thread_meeting.png)
 
-[原址](https://xkcd.com//3127) [下载](https://imgs.xkcd.com/comics/where_babies_come_from.png)
+[原址](https://xkcd.com//3128) [下载](https://imgs.xkcd.com/comics/thread_meeting.png)
 
 
 
 ## 随机漫画
-### Turing Complete
-No.2556
-![图片不见了~~~](https://imgs.xkcd.com/comics/turing_complete.png)
+### Play-By-Play
+No.1593
+![图片不见了~~~](https://imgs.xkcd.com/comics/play_by_play.png)
 
-[原址](https://xkcd.com//2556) [下载](https://imgs.xkcd.com/comics/turing_complete.png)
-
-
-
-### Log Cabin
-No.2891
-![图片不见了~~~](https://imgs.xkcd.com/comics/log_cabin.png)
-
-[原址](https://xkcd.com//2891) [下载](https://imgs.xkcd.com/comics/log_cabin.png)
+[原址](https://xkcd.com//1593) [下载](https://imgs.xkcd.com/comics/play_by_play.png)
 
 
 
-### Genetic Testing Results
-No.1840
-![图片不见了~~~](https://imgs.xkcd.com/comics/genetic_testing_results.png)
+### Fuzzy Blob
+No.2472
+![图片不见了~~~](https://imgs.xkcd.com/comics/fuzzy_blob.png)
 
-[原址](https://xkcd.com//1840) [下载](https://imgs.xkcd.com/comics/genetic_testing_results.png)
+[原址](https://xkcd.com//2472) [下载](https://imgs.xkcd.com/comics/fuzzy_blob.png)
+
+
+
+### Polls vs the Street
+No.2357
+![图片不见了~~~](https://imgs.xkcd.com/comics/polls_vs_the_street.png)
+
+[原址](https://xkcd.com//2357) [下载](https://imgs.xkcd.com/comics/polls_vs_the_street.png)
 
 
 
