@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Thread Meeting
-No.3128
-![图片不见了~~~](https://imgs.xkcd.com/comics/thread_meeting.png)
+### Archaeology Research
+No.3129
+![图片不见了~~~](https://imgs.xkcd.com/comics/archaeology_research.png)
 
-[原址](https://xkcd.com//3128) [下载](https://imgs.xkcd.com/comics/thread_meeting.png)
+[原址](https://xkcd.com//3129) [下载](https://imgs.xkcd.com/comics/archaeology_research.png)
 
 
 
 ## 随机漫画
-### Play-By-Play
-No.1593
-![图片不见了~~~](https://imgs.xkcd.com/comics/play_by_play.png)
+### Progeny
+No.894
+![图片不见了~~~](https://imgs.xkcd.com/comics/progeny.png)
 
-[原址](https://xkcd.com//1593) [下载](https://imgs.xkcd.com/comics/play_by_play.png)
-
-
-
-### Fuzzy Blob
-No.2472
-![图片不见了~~~](https://imgs.xkcd.com/comics/fuzzy_blob.png)
-
-[原址](https://xkcd.com//2472) [下载](https://imgs.xkcd.com/comics/fuzzy_blob.png)
+[原址](https://xkcd.com//894) [下载](https://imgs.xkcd.com/comics/progeny.png)
 
 
 
-### Polls vs the Street
-No.2357
-![图片不见了~~~](https://imgs.xkcd.com/comics/polls_vs_the_street.png)
+### What If? 2 Countdown
+No.2636
+![图片不见了~~~](https://imgs.xkcd.com/comics/what_if_2_countdown.png)
 
-[原址](https://xkcd.com//2357) [下载](https://imgs.xkcd.com/comics/polls_vs_the_street.png)
+[原址](https://xkcd.com//2636) [下载](https://imgs.xkcd.com/comics/what_if_2_countdown.png)
+
+
+
+### Life Before the Pandemic
+No.2391
+![图片不见了~~~](https://imgs.xkcd.com/comics/life_before_the_pandemic.png)
+
+[原址](https://xkcd.com//2391) [下载](https://imgs.xkcd.com/comics/life_before_the_pandemic.png)
 
 
 
