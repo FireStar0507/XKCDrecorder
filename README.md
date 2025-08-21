@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Predicament
-No.3130
-![图片不见了~~~](https://imgs.xkcd.com/comics/predicament.png)
+### Cesium
+No.3131
+![图片不见了~~~](https://imgs.xkcd.com/comics/cesium.png)
 
-[原址](https://xkcd.com//3130) [下载](https://imgs.xkcd.com/comics/predicament.png)
+[原址](https://xkcd.com//3131) [下载](https://imgs.xkcd.com/comics/cesium.png)
 
 
 
 ## 随机漫画
-### Proterozoic Rocks
-No.3008
-![图片不见了~~~](https://imgs.xkcd.com/comics/proterozoic_rocks.png)
+### All-in-One
+No.2369
+![图片不见了~~~](https://imgs.xkcd.com/comics/all_in_one.png)
 
-[原址](https://xkcd.com//3008) [下载](https://imgs.xkcd.com/comics/proterozoic_rocks.png)
-
-
-
-### Trochee Fixation
-No.856
-![图片不见了~~~](https://imgs.xkcd.com/comics/trochee_fixation.png)
-
-[原址](https://xkcd.com//856) [下载](https://imgs.xkcd.com/comics/trochee_fixation.png)
+[原址](https://xkcd.com//2369) [下载](https://imgs.xkcd.com/comics/all_in_one.png)
 
 
 
-### Valentine Dilemma
-No.1016
-![图片不见了~~~](https://imgs.xkcd.com/comics/valentine_dilemma.png)
+### Health Stats
+No.2581
+![图片不见了~~~](https://imgs.xkcd.com/comics/health_stats.png)
 
-[原址](https://xkcd.com//1016) [下载](https://imgs.xkcd.com/comics/valentine_dilemma.png)
+[原址](https://xkcd.com//2581) [下载](https://imgs.xkcd.com/comics/health_stats.png)
+
+
+
+### TV Problems
+No.1760
+![图片不见了~~~](https://imgs.xkcd.com/comics/tv_problems.png)
+
+[原址](https://xkcd.com//1760) [下载](https://imgs.xkcd.com/comics/tv_problems.png)
 
 
 
