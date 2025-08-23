@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Cesium
-No.3131
-![图片不见了~~~](https://imgs.xkcd.com/comics/cesium.png)
+### Coastline Similarity
+No.3132
+![图片不见了~~~](https://imgs.xkcd.com/comics/coastline_similarity.png)
 
-[原址](https://xkcd.com//3131) [下载](https://imgs.xkcd.com/comics/cesium.png)
+[原址](https://xkcd.com//3132) [下载](https://imgs.xkcd.com/comics/coastline_similarity.png)
 
 
 
 ## 随机漫画
-### All-in-One
-No.2369
-![图片不见了~~~](https://imgs.xkcd.com/comics/all_in_one.png)
+### I Am Not Good with Boomerangs
+No.445
+![图片不见了~~~](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)
 
-[原址](https://xkcd.com//2369) [下载](https://imgs.xkcd.com/comics/all_in_one.png)
-
-
-
-### Health Stats
-No.2581
-![图片不见了~~~](https://imgs.xkcd.com/comics/health_stats.png)
-
-[原址](https://xkcd.com//2581) [下载](https://imgs.xkcd.com/comics/health_stats.png)
+[原址](https://xkcd.com//445) [下载](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)
 
 
 
-### TV Problems
-No.1760
-![图片不见了~~~](https://imgs.xkcd.com/comics/tv_problems.png)
+### Wifi
+No.1785
+![图片不见了~~~](https://imgs.xkcd.com/comics/wifi.png)
 
-[原址](https://xkcd.com//1760) [下载](https://imgs.xkcd.com/comics/tv_problems.png)
+[原址](https://xkcd.com//1785) [下载](https://imgs.xkcd.com/comics/wifi.png)
+
+
+
+### Snow Tracking
+No.702
+![图片不见了~~~](https://imgs.xkcd.com/comics/snow_tracking.png)
+
+[原址](https://xkcd.com//702) [下载](https://imgs.xkcd.com/comics/snow_tracking.png)
 
 
 
