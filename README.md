@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Coastline Similarity
-No.3132
-![图片不见了~~~](https://imgs.xkcd.com/comics/coastline_similarity.png)
+### Dual Roomba
+No.3133
+![图片不见了~~~](https://imgs.xkcd.com/comics/dual_roomba.png)
 
-[原址](https://xkcd.com//3132) [下载](https://imgs.xkcd.com/comics/coastline_similarity.png)
+[原址](https://xkcd.com//3133) [下载](https://imgs.xkcd.com/comics/dual_roomba.png)
 
 
 
 ## 随机漫画
-### Bookshelf Sorting
-No.2791
-![图片不见了~~~](https://imgs.xkcd.com/comics/bookshelf_sorting.png)
+### Household Tips
+No.1715
+![图片不见了~~~](https://imgs.xkcd.com/comics/household_tips.png)
 
-[原址](https://xkcd.com//2791) [下载](https://imgs.xkcd.com/comics/bookshelf_sorting.png)
-
-
-
-### Ducklings
-No.537
-![图片不见了~~~](https://imgs.xkcd.com/comics/ducklings.png)
-
-[原址](https://xkcd.com//537) [下载](https://imgs.xkcd.com/comics/ducklings.png)
+[原址](https://xkcd.com//1715) [下载](https://imgs.xkcd.com/comics/household_tips.png)
 
 
 
-### Intervocalic Fortition
-No.1697
-![图片不见了~~~](https://imgs.xkcd.com/comics/intervocalic_fortition.png)
+### Party
+No.524
+![图片不见了~~~](https://imgs.xkcd.com/comics/party.png)
 
-[原址](https://xkcd.com//1697) [下载](https://imgs.xkcd.com/comics/intervocalic_fortition.png)
+[原址](https://xkcd.com//524) [下载](https://imgs.xkcd.com/comics/party.png)
+
+
+
+### Cutting Edge
+No.606
+![图片不见了~~~](https://imgs.xkcd.com/comics/cutting_edge.png)
+
+[原址](https://xkcd.com//606) [下载](https://imgs.xkcd.com/comics/cutting_edge.png)
 
 
 
