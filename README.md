@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Dual Roomba
-No.3133
-![图片不见了~~~](https://imgs.xkcd.com/comics/dual_roomba.png)
+### Wavefunction Collapse
+No.3134
+![图片不见了~~~](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
 
-[原址](https://xkcd.com//3133) [下载](https://imgs.xkcd.com/comics/dual_roomba.png)
+[原址](https://xkcd.com//3134) [下载](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
 
 
 
 ## 随机漫画
-### Household Tips
-No.1715
-![图片不见了~~~](https://imgs.xkcd.com/comics/household_tips.png)
+### Unfulfilling Toys
+No.2049
+![图片不见了~~~](https://imgs.xkcd.com/comics/unfulfilling_toys.png)
 
-[原址](https://xkcd.com//1715) [下载](https://imgs.xkcd.com/comics/household_tips.png)
-
-
-
-### Party
-No.524
-![图片不见了~~~](https://imgs.xkcd.com/comics/party.png)
-
-[原址](https://xkcd.com//524) [下载](https://imgs.xkcd.com/comics/party.png)
+[原址](https://xkcd.com//2049) [下载](https://imgs.xkcd.com/comics/unfulfilling_toys.png)
 
 
 
-### Cutting Edge
-No.606
-![图片不见了~~~](https://imgs.xkcd.com/comics/cutting_edge.png)
+### Anachronym Challenge
+No.3075
+![图片不见了~~~](https://imgs.xkcd.com/comics/anachronym_challenge.png)
 
-[原址](https://xkcd.com//606) [下载](https://imgs.xkcd.com/comics/cutting_edge.png)
+[原址](https://xkcd.com//3075) [下载](https://imgs.xkcd.com/comics/anachronym_challenge.png)
+
+
+
+### Herpetology
+No.867
+![图片不见了~~~](https://imgs.xkcd.com/comics/herpetology.png)
+
+[原址](https://xkcd.com//867) [下载](https://imgs.xkcd.com/comics/herpetology.png)
 
 
 
