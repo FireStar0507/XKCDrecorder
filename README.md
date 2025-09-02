@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Wavefunction Collapse
-No.3134
-![图片不见了~~~](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
+### Sea Level
+No.3135
+![图片不见了~~~](https://imgs.xkcd.com/comics/sea_level.png)
 
-[原址](https://xkcd.com//3134) [下载](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
+[原址](https://xkcd.com//3135) [下载](https://imgs.xkcd.com/comics/sea_level.png)
 
 
 
 ## 随机漫画
-### Unfulfilling Toys
-No.2049
-![图片不见了~~~](https://imgs.xkcd.com/comics/unfulfilling_toys.png)
+### Ingredients
+No.2993
+![图片不见了~~~](https://imgs.xkcd.com/comics/ingredients.png)
 
-[原址](https://xkcd.com//2049) [下载](https://imgs.xkcd.com/comics/unfulfilling_toys.png)
-
-
-
-### Anachronym Challenge
-No.3075
-![图片不见了~~~](https://imgs.xkcd.com/comics/anachronym_challenge.png)
-
-[原址](https://xkcd.com//3075) [下载](https://imgs.xkcd.com/comics/anachronym_challenge.png)
+[原址](https://xkcd.com//2993) [下载](https://imgs.xkcd.com/comics/ingredients.png)
 
 
 
-### Herpetology
-No.867
-![图片不见了~~~](https://imgs.xkcd.com/comics/herpetology.png)
+### Social Media
+No.1239
+![图片不见了~~~](https://imgs.xkcd.com/comics/social_media.png)
 
-[原址](https://xkcd.com//867) [下载](https://imgs.xkcd.com/comics/herpetology.png)
+[原址](https://xkcd.com//1239) [下载](https://imgs.xkcd.com/comics/social_media.png)
+
+
+
+### Lamp
+No.879
+![图片不见了~~~](https://imgs.xkcd.com/comics/lamp.png)
+
+[原址](https://xkcd.com//879) [下载](https://imgs.xkcd.com/comics/lamp.png)
 
 
 
