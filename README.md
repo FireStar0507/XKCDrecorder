@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Sea Level
-No.3135
-![图片不见了~~~](https://imgs.xkcd.com/comics/sea_level.png)
+### Cursed Number
+No.3137
+![图片不见了~~~](https://imgs.xkcd.com/comics/cursed_number.png)
 
-[原址](https://xkcd.com//3135) [下载](https://imgs.xkcd.com/comics/sea_level.png)
+[原址](https://xkcd.com//3137) [下载](https://imgs.xkcd.com/comics/cursed_number.png)
 
 
 
 ## 随机漫画
-### Ingredients
-No.2993
-![图片不见了~~~](https://imgs.xkcd.com/comics/ingredients.png)
+### Hallucinations
+No.203
+![图片不见了~~~](https://imgs.xkcd.com/comics/hallucinations.png)
 
-[原址](https://xkcd.com//2993) [下载](https://imgs.xkcd.com/comics/ingredients.png)
-
-
-
-### Social Media
-No.1239
-![图片不见了~~~](https://imgs.xkcd.com/comics/social_media.png)
-
-[原址](https://xkcd.com//1239) [下载](https://imgs.xkcd.com/comics/social_media.png)
+[原址](https://xkcd.com//203) [下载](https://imgs.xkcd.com/comics/hallucinations.png)
 
 
 
-### Lamp
-No.879
-![图片不见了~~~](https://imgs.xkcd.com/comics/lamp.png)
+### Mycology
+No.1664
+![图片不见了~~~](https://imgs.xkcd.com/comics/mycology.png)
 
-[原址](https://xkcd.com//879) [下载](https://imgs.xkcd.com/comics/lamp.png)
+[原址](https://xkcd.com//1664) [下载](https://imgs.xkcd.com/comics/mycology.png)
+
+
+
+### Privacy
+No.983
+![图片不见了~~~](https://imgs.xkcd.com/comics/privacy.png)
+
+[原址](https://xkcd.com//983) [下载](https://imgs.xkcd.com/comics/privacy.png)
 
 
 
