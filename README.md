@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Cursed Number
-No.3137
-![图片不见了~~~](https://imgs.xkcd.com/comics/cursed_number.png)
+### Dimensional Lumber Tape Measure
+No.3138
+![图片不见了~~~](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)
 
-[原址](https://xkcd.com//3137) [下载](https://imgs.xkcd.com/comics/cursed_number.png)
+[原址](https://xkcd.com//3138) [下载](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)
 
 
 
 ## 随机漫画
-### Hallucinations
-No.203
-![图片不见了~~~](https://imgs.xkcd.com/comics/hallucinations.png)
+### Dress Color
+No.1492
+![图片不见了~~~](https://imgs.xkcd.com/comics/dress_color.png)
 
-[原址](https://xkcd.com//203) [下载](https://imgs.xkcd.com/comics/hallucinations.png)
-
-
-
-### Mycology
-No.1664
-![图片不见了~~~](https://imgs.xkcd.com/comics/mycology.png)
-
-[原址](https://xkcd.com//1664) [下载](https://imgs.xkcd.com/comics/mycology.png)
+[原址](https://xkcd.com//1492) [下载](https://imgs.xkcd.com/comics/dress_color.png)
 
 
 
-### Privacy
-No.983
-![图片不见了~~~](https://imgs.xkcd.com/comics/privacy.png)
+### Thighs
+No.321
+![图片不见了~~~](https://imgs.xkcd.com/comics/thighs.png)
 
-[原址](https://xkcd.com//983) [下载](https://imgs.xkcd.com/comics/privacy.png)
+[原址](https://xkcd.com//321) [下载](https://imgs.xkcd.com/comics/thighs.png)
+
+
+
+### The Six Platonic Solids
+No.2781
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)
+
+[原址](https://xkcd.com//2781) [下载](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)
 
 
 
