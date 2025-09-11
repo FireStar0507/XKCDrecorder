@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Chess Variant
-No.3139
-![图片不见了~~~](https://imgs.xkcd.com/comics/chess_variant.png)
+### Biology Department
+No.3140
+![图片不见了~~~](https://imgs.xkcd.com/comics/biology_department.png)
 
-[原址](https://xkcd.com//3139) [下载](https://imgs.xkcd.com/comics/chess_variant.png)
+[原址](https://xkcd.com//3140) [下载](https://imgs.xkcd.com/comics/biology_department.png)
 
 
 
 ## 随机漫画
-### Action Movies
-No.311
-![图片不见了~~~](https://imgs.xkcd.com/comics/action_movies.png)
+### Spatial Orientation
+No.1964
+![图片不见了~~~](https://imgs.xkcd.com/comics/spatial_orientation.png)
 
-[原址](https://xkcd.com//311) [下载](https://imgs.xkcd.com/comics/action_movies.png)
-
-
-
-### Cast Iron Pan
-No.1905
-![图片不见了~~~](https://imgs.xkcd.com/comics/cast_iron_pans.png)
-
-[原址](https://xkcd.com//1905) [下载](https://imgs.xkcd.com/comics/cast_iron_pans.png)
+[原址](https://xkcd.com//1964) [下载](https://imgs.xkcd.com/comics/spatial_orientation.png)
 
 
 
-### Dress Color
-No.1492
-![图片不见了~~~](https://imgs.xkcd.com/comics/dress_color.png)
+### Location Sharing
+No.1473
+![图片不见了~~~](https://imgs.xkcd.com/comics/location_sharing.png)
 
-[原址](https://xkcd.com//1492) [下载](https://imgs.xkcd.com/comics/dress_color.png)
+[原址](https://xkcd.com//1473) [下载](https://imgs.xkcd.com/comics/location_sharing.png)
+
+
+
+### The Man Who Fell Sideways
+No.417
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png)
+
+[原址](https://xkcd.com//417) [下载](https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png)
 
 
 
