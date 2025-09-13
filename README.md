@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Biology Department
-No.3140
-![图片不见了~~~](https://imgs.xkcd.com/comics/biology_department.png)
+### Mantle Model
+No.3141
+![图片不见了~~~](https://imgs.xkcd.com/comics/mantle_model.png)
 
-[原址](https://xkcd.com//3140) [下载](https://imgs.xkcd.com/comics/biology_department.png)
+[原址](https://xkcd.com//3141) [下载](https://imgs.xkcd.com/comics/mantle_model.png)
 
 
 
 ## 随机漫画
-### Spatial Orientation
-No.1964
-![图片不见了~~~](https://imgs.xkcd.com/comics/spatial_orientation.png)
+### Good and Bad Ideas
+No.2929
+![图片不见了~~~](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
 
-[原址](https://xkcd.com//1964) [下载](https://imgs.xkcd.com/comics/spatial_orientation.png)
-
-
-
-### Location Sharing
-No.1473
-![图片不见了~~~](https://imgs.xkcd.com/comics/location_sharing.png)
-
-[原址](https://xkcd.com//1473) [下载](https://imgs.xkcd.com/comics/location_sharing.png)
+[原址](https://xkcd.com//2929) [下载](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
 
 
 
-### The Man Who Fell Sideways
-No.417
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png)
+### Superintelligent AIs
+No.2635
+![图片不见了~~~](https://imgs.xkcd.com/comics/superintelligent_ais.png)
 
-[原址](https://xkcd.com//417) [下载](https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png)
+[原址](https://xkcd.com//2635) [下载](https://imgs.xkcd.com/comics/superintelligent_ais.png)
+
+
+
+### Thread Meeting
+No.3128
+![图片不见了~~~](https://imgs.xkcd.com/comics/thread_meeting.png)
+
+[原址](https://xkcd.com//3128) [下载](https://imgs.xkcd.com/comics/thread_meeting.png)
 
 
 
