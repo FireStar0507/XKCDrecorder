@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Mantle Model
-No.3141
-![图片不见了~~~](https://imgs.xkcd.com/comics/mantle_model.png)
+### <City>-Style Pizza
+No.3142
+![图片不见了~~~](https://imgs.xkcd.com/comics/city_style_pizza.png)
 
-[原址](https://xkcd.com//3141) [下载](https://imgs.xkcd.com/comics/mantle_model.png)
+[原址](https://xkcd.com//3142) [下载](https://imgs.xkcd.com/comics/city_style_pizza.png)
 
 
 
 ## 随机漫画
-### Good and Bad Ideas
-No.2929
-![图片不见了~~~](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
+### Where Do Birds Go
+No.1434
+![图片不见了~~~](https://imgs.xkcd.com/comics/where_do_birds_go.png)
 
-[原址](https://xkcd.com//2929) [下载](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
-
-
-
-### Superintelligent AIs
-No.2635
-![图片不见了~~~](https://imgs.xkcd.com/comics/superintelligent_ais.png)
-
-[原址](https://xkcd.com//2635) [下载](https://imgs.xkcd.com/comics/superintelligent_ais.png)
+[原址](https://xkcd.com//1434) [下载](https://imgs.xkcd.com/comics/where_do_birds_go.png)
 
 
 
-### Thread Meeting
-No.3128
-![图片不见了~~~](https://imgs.xkcd.com/comics/thread_meeting.png)
+### Sourdough Starter
+No.2296
+![图片不见了~~~](https://imgs.xkcd.com/comics/sourdough_starter.png)
 
-[原址](https://xkcd.com//3128) [下载](https://imgs.xkcd.com/comics/thread_meeting.png)
+[原址](https://xkcd.com//2296) [下载](https://imgs.xkcd.com/comics/sourdough_starter.png)
+
+
+
+### Flying Cars
+No.864
+![图片不见了~~~](https://imgs.xkcd.com/comics/flying_cars.png)
+
+[原址](https://xkcd.com//864) [下载](https://imgs.xkcd.com/comics/flying_cars.png)
 
 
 
