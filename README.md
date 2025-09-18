@@ -16,27 +16,27 @@ No.3142
 
 
 ## 随机漫画
-### Where Do Birds Go
-No.1434
-![图片不见了~~~](https://imgs.xkcd.com/comics/where_do_birds_go.png)
+### Nolan Chart
+No.868
+![图片不见了~~~](https://imgs.xkcd.com/comics/nolan_chart.png)
 
-[原址](https://xkcd.com//1434) [下载](https://imgs.xkcd.com/comics/where_do_birds_go.png)
-
-
-
-### Sourdough Starter
-No.2296
-![图片不见了~~~](https://imgs.xkcd.com/comics/sourdough_starter.png)
-
-[原址](https://xkcd.com//2296) [下载](https://imgs.xkcd.com/comics/sourdough_starter.png)
+[原址](https://xkcd.com//868) [下载](https://imgs.xkcd.com/comics/nolan_chart.png)
 
 
 
-### Flying Cars
-No.864
-![图片不见了~~~](https://imgs.xkcd.com/comics/flying_cars.png)
+### Simultaneous
+No.514
+![图片不见了~~~](https://imgs.xkcd.com/comics/simultaneous.png)
 
-[原址](https://xkcd.com//864) [下载](https://imgs.xkcd.com/comics/flying_cars.png)
+[原址](https://xkcd.com//514) [下载](https://imgs.xkcd.com/comics/simultaneous.png)
+
+
+
+### Reverse Identity Theft
+No.1279
+![图片不见了~~~](https://imgs.xkcd.com/comics/reverse_identity_theft.png)
+
+[原址](https://xkcd.com//1279) [下载](https://imgs.xkcd.com/comics/reverse_identity_theft.png)
 
 
 
