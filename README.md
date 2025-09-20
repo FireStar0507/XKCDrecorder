@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### <City>-Style Pizza
-No.3142
-![图片不见了~~~](https://imgs.xkcd.com/comics/city_style_pizza.png)
+### Phase Changes
+No.3144
+![图片不见了~~~](https://imgs.xkcd.com/comics/phase_changes.png)
 
-[原址](https://xkcd.com//3142) [下载](https://imgs.xkcd.com/comics/city_style_pizza.png)
+[原址](https://xkcd.com//3144) [下载](https://imgs.xkcd.com/comics/phase_changes.png)
 
 
 
 ## 随机漫画
-### Nolan Chart
-No.868
-![图片不见了~~~](https://imgs.xkcd.com/comics/nolan_chart.png)
+### Ballooning
+No.1415
+![图片不见了~~~](https://imgs.xkcd.com/comics/ballooning.png)
 
-[原址](https://xkcd.com//868) [下载](https://imgs.xkcd.com/comics/nolan_chart.png)
-
-
-
-### Simultaneous
-No.514
-![图片不见了~~~](https://imgs.xkcd.com/comics/simultaneous.png)
-
-[原址](https://xkcd.com//514) [下载](https://imgs.xkcd.com/comics/simultaneous.png)
+[原址](https://xkcd.com//1415) [下载](https://imgs.xkcd.com/comics/ballooning.png)
 
 
 
-### Reverse Identity Theft
-No.1279
-![图片不见了~~~](https://imgs.xkcd.com/comics/reverse_identity_theft.png)
+### Commemorative Plaque
+No.2772
+![图片不见了~~~](https://imgs.xkcd.com/comics/commemorative_plaque.png)
 
-[原址](https://xkcd.com//1279) [下载](https://imgs.xkcd.com/comics/reverse_identity_theft.png)
+[原址](https://xkcd.com//2772) [下载](https://imgs.xkcd.com/comics/commemorative_plaque.png)
+
+
+
+### Comic Fragment
+No.254
+![图片不见了~~~](https://imgs.xkcd.com/comics/comic_fragment.jpg)
+
+[原址](https://xkcd.com//254) [下载](https://imgs.xkcd.com/comics/comic_fragment.jpg)
 
 
 
