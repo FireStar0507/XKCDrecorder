@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Piercing
-No.3145
-![图片不见了~~~](https://imgs.xkcd.com/comics/piercing.png)
+### Fantastic Four
+No.3146
+![图片不见了~~~](https://imgs.xkcd.com/comics/fantastic_four.png)
 
-[原址](https://xkcd.com//3145) [下载](https://imgs.xkcd.com/comics/piercing.png)
+[原址](https://xkcd.com//3146) [下载](https://imgs.xkcd.com/comics/fantastic_four.png)
 
 
 
 ## 随机漫画
-### Experimentation
-No.507
-![图片不见了~~~](https://imgs.xkcd.com/comics/experimentation.png)
+### Cyber Cafe
+No.2392
+![图片不见了~~~](https://imgs.xkcd.com/comics/cyber_cafe.png)
 
-[原址](https://xkcd.com//507) [下载](https://imgs.xkcd.com/comics/experimentation.png)
-
-
-
-### Killed In Action
-No.1113
-![图片不见了~~~](https://imgs.xkcd.com/comics/killed_in_action.png)
-
-[原址](https://xkcd.com//1113) [下载](https://imgs.xkcd.com/comics/killed_in_action.png)
+[原址](https://xkcd.com//2392) [下载](https://imgs.xkcd.com/comics/cyber_cafe.png)
 
 
 
-### Global Atmospheric Circulation
-No.2805
-![图片不见了~~~](https://imgs.xkcd.com/comics/global_atmospheric_circulation.png)
+### Nash
+No.182
+![图片不见了~~~](https://imgs.xkcd.com/comics/nash.png)
 
-[原址](https://xkcd.com//2805) [下载](https://imgs.xkcd.com/comics/global_atmospheric_circulation.png)
+[原址](https://xkcd.com//182) [下载](https://imgs.xkcd.com/comics/nash.png)
+
+
+
+### Coordinate Precision
+No.2170
+![图片不见了~~~](https://imgs.xkcd.com/comics/coordinate_precision.png)
+
+[原址](https://xkcd.com//2170) [下载](https://imgs.xkcd.com/comics/coordinate_precision.png)
 
 
 
