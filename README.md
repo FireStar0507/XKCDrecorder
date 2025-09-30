@@ -16,27 +16,27 @@ No.3147
 
 
 ## 随机漫画
-### ISO 8601
-No.1179
-![图片不见了~~~](https://imgs.xkcd.com/comics/iso_8601.png)
+### Snakes
+No.1604
+![图片不见了~~~](https://imgs.xkcd.com/comics/snakes.png)
 
-[原址](https://xkcd.com//1179) [下载](https://imgs.xkcd.com/comics/iso_8601.png)
-
-
-
-### Haskell
-No.1312
-![图片不见了~~~](https://imgs.xkcd.com/comics/haskell.png)
-
-[原址](https://xkcd.com//1312) [下载](https://imgs.xkcd.com/comics/haskell.png)
+[原址](https://xkcd.com//1604) [下载](https://imgs.xkcd.com/comics/snakes.png)
 
 
 
-### Tumblr
-No.1025
-![图片不见了~~~](https://imgs.xkcd.com/comics/tumblr.png)
+### Skew-T Log-P
+No.3032
+![图片不见了~~~](https://imgs.xkcd.com/comics/skew_t_log_p.png)
 
-[原址](https://xkcd.com//1025) [下载](https://imgs.xkcd.com/comics/tumblr.png)
+[原址](https://xkcd.com//3032) [下载](https://imgs.xkcd.com/comics/skew_t_log_p.png)
+
+
+
+### Vaccine Ordering
+No.2422
+![图片不见了~~~](https://imgs.xkcd.com/comics/vaccine_ordering.png)
+
+[原址](https://xkcd.com//2422) [下载](https://imgs.xkcd.com/comics/vaccine_ordering.png)
 
 
 
