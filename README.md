@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Hiking
-No.3147
-![图片不见了~~~](https://imgs.xkcd.com/comics/hiking.png)
+### Measure Twice, Cut Once
+No.3149
+![图片不见了~~~](https://imgs.xkcd.com/comics/measure_twice_cut_once.png)
 
-[原址](https://xkcd.com//3147) [下载](https://imgs.xkcd.com/comics/hiking.png)
+[原址](https://xkcd.com//3149) [下载](https://imgs.xkcd.com/comics/measure_twice_cut_once.png)
 
 
 
 ## 随机漫画
-### Snakes
-No.1604
-![图片不见了~~~](https://imgs.xkcd.com/comics/snakes.png)
+### Human Altitude
+No.3039
+![图片不见了~~~](https://imgs.xkcd.com/comics/human_altitude.png)
 
-[原址](https://xkcd.com//1604) [下载](https://imgs.xkcd.com/comics/snakes.png)
-
-
-
-### Skew-T Log-P
-No.3032
-![图片不见了~~~](https://imgs.xkcd.com/comics/skew_t_log_p.png)
-
-[原址](https://xkcd.com//3032) [下载](https://imgs.xkcd.com/comics/skew_t_log_p.png)
+[原址](https://xkcd.com//3039) [下载](https://imgs.xkcd.com/comics/human_altitude.png)
 
 
 
-### Vaccine Ordering
-No.2422
-![图片不见了~~~](https://imgs.xkcd.com/comics/vaccine_ordering.png)
+### The Race: Part 5
+No.581
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_race_part_5.png)
 
-[原址](https://xkcd.com//2422) [下载](https://imgs.xkcd.com/comics/vaccine_ordering.png)
+[原址](https://xkcd.com//581) [下载](https://imgs.xkcd.com/comics/the_race_part_5.png)
+
+
+
+### Snopes
+No.250
+![图片不见了~~~](https://imgs.xkcd.com/comics/snopes.png)
+
+[原址](https://xkcd.com//250) [下载](https://imgs.xkcd.com/comics/snopes.png)
 
 
 
