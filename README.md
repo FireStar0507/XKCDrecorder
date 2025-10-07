@@ -16,27 +16,27 @@ No.3150
 
 
 ## 随机漫画
-### Logical
-No.1901
-![图片不见了~~~](https://imgs.xkcd.com/comics/logical.png)
+### Approximations
+No.1047
+![图片不见了~~~](https://imgs.xkcd.com/comics/approximations.png)
 
-[原址](https://xkcd.com//1901) [下载](https://imgs.xkcd.com/comics/logical.png)
-
-
-
-### Disaster Movie
-No.2029
-![图片不见了~~~](https://imgs.xkcd.com/comics/disaster_movie.png)
-
-[原址](https://xkcd.com//2029) [下载](https://imgs.xkcd.com/comics/disaster_movie.png)
+[原址](https://xkcd.com//1047) [下载](https://imgs.xkcd.com/comics/approximations.png)
 
 
 
-### Finish Line
-No.423
-![图片不见了~~~](https://imgs.xkcd.com/comics/finish_line.png)
+### Elements
+No.965
+![图片不见了~~~](https://imgs.xkcd.com/comics/elements.png)
 
-[原址](https://xkcd.com//423) [下载](https://imgs.xkcd.com/comics/finish_line.png)
+[原址](https://xkcd.com//965) [下载](https://imgs.xkcd.com/comics/elements.png)
+
+
+
+### The Universal Label
+No.1123
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_universal_label.png)
+
+[原址](https://xkcd.com//1123) [下载](https://imgs.xkcd.com/comics/the_universal_label.png)
 
 
 
