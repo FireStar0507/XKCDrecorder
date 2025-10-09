@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Ping
-No.3150
-![图片不见了~~~](https://imgs.xkcd.com/comics/ping.png)
+### Window Screen
+No.3151
+![图片不见了~~~](https://imgs.xkcd.com/comics/window_screen.png)
 
-[原址](https://xkcd.com//3150) [下载](https://imgs.xkcd.com/comics/ping.png)
+[原址](https://xkcd.com//3151) [下载](https://imgs.xkcd.com/comics/window_screen.png)
 
 
 
 ## 随机漫画
-### Approximations
-No.1047
-![图片不见了~~~](https://imgs.xkcd.com/comics/approximations.png)
+### Dependency
+No.2347
+![图片不见了~~~](https://imgs.xkcd.com/comics/dependency.png)
 
-[原址](https://xkcd.com//1047) [下载](https://imgs.xkcd.com/comics/approximations.png)
-
-
-
-### Elements
-No.965
-![图片不见了~~~](https://imgs.xkcd.com/comics/elements.png)
-
-[原址](https://xkcd.com//965) [下载](https://imgs.xkcd.com/comics/elements.png)
+[原址](https://xkcd.com//2347) [下载](https://imgs.xkcd.com/comics/dependency.png)
 
 
 
-### The Universal Label
-No.1123
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_universal_label.png)
+### Luke
+No.1397
+![图片不见了~~~](https://imgs.xkcd.com/comics/luke.png)
 
-[原址](https://xkcd.com//1123) [下载](https://imgs.xkcd.com/comics/the_universal_label.png)
+[原址](https://xkcd.com//1397) [下载](https://imgs.xkcd.com/comics/luke.png)
+
+
+
+### NP-Complete
+No.287
+![图片不见了~~~](https://imgs.xkcd.com/comics/np_complete.png)
+
+[原址](https://xkcd.com//287) [下载](https://imgs.xkcd.com/comics/np_complete.png)
 
 
 
