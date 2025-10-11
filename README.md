@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Window Screen
-No.3151
-![图片不见了~~~](https://imgs.xkcd.com/comics/window_screen.png)
+### Hot Water Balloon
+No.3153
+![图片不见了~~~](https://imgs.xkcd.com/comics/hot_water_balloon.png)
 
-[原址](https://xkcd.com//3151) [下载](https://imgs.xkcd.com/comics/window_screen.png)
+[原址](https://xkcd.com//3153) [下载](https://imgs.xkcd.com/comics/hot_water_balloon.png)
 
 
 
 ## 随机漫画
-### Dependency
-No.2347
-![图片不见了~~~](https://imgs.xkcd.com/comics/dependency.png)
+### Blockbuster Mining
+No.633
+![图片不见了~~~](https://imgs.xkcd.com/comics/blockbuster_mining.png)
 
-[原址](https://xkcd.com//2347) [下载](https://imgs.xkcd.com/comics/dependency.png)
-
-
-
-### Luke
-No.1397
-![图片不见了~~~](https://imgs.xkcd.com/comics/luke.png)
-
-[原址](https://xkcd.com//1397) [下载](https://imgs.xkcd.com/comics/luke.png)
+[原址](https://xkcd.com//633) [下载](https://imgs.xkcd.com/comics/blockbuster_mining.png)
 
 
 
-### NP-Complete
-No.287
-![图片不见了~~~](https://imgs.xkcd.com/comics/np_complete.png)
+### Further Boomerang Difficulties
+No.475
+![图片不见了~~~](https://imgs.xkcd.com/comics/further_boomerang_difficulties.png)
 
-[原址](https://xkcd.com//287) [下载](https://imgs.xkcd.com/comics/np_complete.png)
+[原址](https://xkcd.com//475) [下载](https://imgs.xkcd.com/comics/further_boomerang_difficulties.png)
+
+
+
+### Birdsong
+No.1635
+![图片不见了~~~](https://imgs.xkcd.com/comics/birdsong.png)
+
+[原址](https://xkcd.com//1635) [下载](https://imgs.xkcd.com/comics/birdsong.png)
 
 
 
