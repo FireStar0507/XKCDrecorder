@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Hot Water Balloon
-No.3153
-![图片不见了~~~](https://imgs.xkcd.com/comics/hot_water_balloon.png)
+### Physics Insight
+No.3154
+![图片不见了~~~](https://imgs.xkcd.com/comics/physics_insight.png)
 
-[原址](https://xkcd.com//3153) [下载](https://imgs.xkcd.com/comics/hot_water_balloon.png)
+[原址](https://xkcd.com//3154) [下载](https://imgs.xkcd.com/comics/physics_insight.png)
 
 
 
 ## 随机漫画
-### Blockbuster Mining
-No.633
-![图片不见了~~~](https://imgs.xkcd.com/comics/blockbuster_mining.png)
+### Meteor Showers
+No.1249
+![图片不见了~~~](https://imgs.xkcd.com/comics/meteor_showers.png)
 
-[原址](https://xkcd.com//633) [下载](https://imgs.xkcd.com/comics/blockbuster_mining.png)
-
-
-
-### Further Boomerang Difficulties
-No.475
-![图片不见了~~~](https://imgs.xkcd.com/comics/further_boomerang_difficulties.png)
-
-[原址](https://xkcd.com//475) [下载](https://imgs.xkcd.com/comics/further_boomerang_difficulties.png)
+[原址](https://xkcd.com//1249) [下载](https://imgs.xkcd.com/comics/meteor_showers.png)
 
 
 
-### Birdsong
-No.1635
-![图片不见了~~~](https://imgs.xkcd.com/comics/birdsong.png)
+### Hardware Reductionism
+No.1588
+![图片不见了~~~](https://imgs.xkcd.com/comics/hardware_reductionism.png)
 
-[原址](https://xkcd.com//1635) [下载](https://imgs.xkcd.com/comics/birdsong.png)
+[原址](https://xkcd.com//1588) [下载](https://imgs.xkcd.com/comics/hardware_reductionism.png)
+
+
+
+### University Website
+No.773
+![图片不见了~~~](https://imgs.xkcd.com/comics/university_website.png)
+
+[原址](https://xkcd.com//773) [下载](https://imgs.xkcd.com/comics/university_website.png)
 
 
 
