@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Physics Insight
-No.3154
-![图片不见了~~~](https://imgs.xkcd.com/comics/physics_insight.png)
+### Physics Paths
+No.3155
+![图片不见了~~~](https://imgs.xkcd.com/comics/physics_paths.png)
 
-[原址](https://xkcd.com//3154) [下载](https://imgs.xkcd.com/comics/physics_insight.png)
+[原址](https://xkcd.com//3155) [下载](https://imgs.xkcd.com/comics/physics_paths.png)
 
 
 
 ## 随机漫画
-### Meteor Showers
-No.1249
-![图片不见了~~~](https://imgs.xkcd.com/comics/meteor_showers.png)
+### Omniroll
+No.3060
+![图片不见了~~~](https://imgs.xkcd.com/comics/omniroll.png)
 
-[原址](https://xkcd.com//1249) [下载](https://imgs.xkcd.com/comics/meteor_showers.png)
-
-
-
-### Hardware Reductionism
-No.1588
-![图片不见了~~~](https://imgs.xkcd.com/comics/hardware_reductionism.png)
-
-[原址](https://xkcd.com//1588) [下载](https://imgs.xkcd.com/comics/hardware_reductionism.png)
+[原址](https://xkcd.com//3060) [下载](https://imgs.xkcd.com/comics/omniroll.png)
 
 
 
-### University Website
-No.773
-![图片不见了~~~](https://imgs.xkcd.com/comics/university_website.png)
+### Vaccine Guidance
+No.2434
+![图片不见了~~~](https://imgs.xkcd.com/comics/vaccine_guidance.png)
 
-[原址](https://xkcd.com//773) [下载](https://imgs.xkcd.com/comics/university_website.png)
+[原址](https://xkcd.com//2434) [下载](https://imgs.xkcd.com/comics/vaccine_guidance.png)
+
+
+
+### Use or Discard By
+No.2297
+![图片不见了~~~](https://imgs.xkcd.com/comics/use_or_discard_by.png)
+
+[原址](https://xkcd.com//2297) [下载](https://imgs.xkcd.com/comics/use_or_discard_by.png)
 
 
 
