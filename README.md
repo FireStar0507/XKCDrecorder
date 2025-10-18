@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Physics Paths
-No.3155
-![图片不见了~~~](https://imgs.xkcd.com/comics/physics_paths.png)
+### Planetary Rings
+No.3156
+![图片不见了~~~](https://imgs.xkcd.com/comics/planetary_rings.png)
 
-[原址](https://xkcd.com//3155) [下载](https://imgs.xkcd.com/comics/physics_paths.png)
+[原址](https://xkcd.com//3156) [下载](https://imgs.xkcd.com/comics/planetary_rings.png)
 
 
 
 ## 随机漫画
-### Omniroll
-No.3060
-![图片不见了~~~](https://imgs.xkcd.com/comics/omniroll.png)
+### UK Coal
+No.2992
+![图片不见了~~~](https://imgs.xkcd.com/comics/uk_coal.png)
 
-[原址](https://xkcd.com//3060) [下载](https://imgs.xkcd.com/comics/omniroll.png)
-
-
-
-### Vaccine Guidance
-No.2434
-![图片不见了~~~](https://imgs.xkcd.com/comics/vaccine_guidance.png)
-
-[原址](https://xkcd.com//2434) [下载](https://imgs.xkcd.com/comics/vaccine_guidance.png)
+[原址](https://xkcd.com//2992) [下载](https://imgs.xkcd.com/comics/uk_coal.png)
 
 
 
-### Use or Discard By
-No.2297
-![图片不见了~~~](https://imgs.xkcd.com/comics/use_or_discard_by.png)
+### Kedging Cannon
+No.3013
+![图片不见了~~~](https://imgs.xkcd.com/comics/kedging_cannon.png)
 
-[原址](https://xkcd.com//2297) [下载](https://imgs.xkcd.com/comics/use_or_discard_by.png)
+[原址](https://xkcd.com//3013) [下载](https://imgs.xkcd.com/comics/kedging_cannon.png)
+
+
+
+### Barrel - Part 5
+No.31
+![图片不见了~~~](https://imgs.xkcd.com/comics/barrel_part_5.jpg)
+
+[原址](https://xkcd.com//31) [下载](https://imgs.xkcd.com/comics/barrel_part_5.jpg)
 
 
 
