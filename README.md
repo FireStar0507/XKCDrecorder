@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Planetary Rings
-No.3156
-![图片不见了~~~](https://imgs.xkcd.com/comics/planetary_rings.png)
+### Emperor Palpatine
+No.3157
+![图片不见了~~~](https://imgs.xkcd.com/comics/emperor_palpatine.png)
 
-[原址](https://xkcd.com//3156) [下载](https://imgs.xkcd.com/comics/planetary_rings.png)
+[原址](https://xkcd.com//3157) [下载](https://imgs.xkcd.com/comics/emperor_palpatine.png)
 
 
 
 ## 随机漫画
-### UK Coal
-No.2992
-![图片不见了~~~](https://imgs.xkcd.com/comics/uk_coal.png)
+### The BDLPSWDKS Effect
+No.1531
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_bdlpswdks_effect.png)
 
-[原址](https://xkcd.com//2992) [下载](https://imgs.xkcd.com/comics/uk_coal.png)
-
-
-
-### Kedging Cannon
-No.3013
-![图片不见了~~~](https://imgs.xkcd.com/comics/kedging_cannon.png)
-
-[原址](https://xkcd.com//3013) [下载](https://imgs.xkcd.com/comics/kedging_cannon.png)
+[原址](https://xkcd.com//1531) [下载](https://imgs.xkcd.com/comics/the_bdlpswdks_effect.png)
 
 
 
-### Barrel - Part 5
-No.31
-![图片不见了~~~](https://imgs.xkcd.com/comics/barrel_part_5.jpg)
+### Thanksgiving Arguments
+No.2858
+![图片不见了~~~](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
 
-[原址](https://xkcd.com//31) [下载](https://imgs.xkcd.com/comics/barrel_part_5.jpg)
+[原址](https://xkcd.com//2858) [下载](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
+
+
+
+### Hamster Ball
+No.152
+![图片不见了~~~](https://imgs.xkcd.com/comics/hamster_ball.png)
+
+[原址](https://xkcd.com//152) [下载](https://imgs.xkcd.com/comics/hamster_ball.png)
 
 
 
