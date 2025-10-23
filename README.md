@@ -16,27 +16,27 @@ No.3157
 
 
 ## 随机漫画
-### The BDLPSWDKS Effect
-No.1531
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_bdlpswdks_effect.png)
+### Tectonic Surfing
+No.2987
+![图片不见了~~~](https://imgs.xkcd.com/comics/tectonic_surfing.png)
 
-[原址](https://xkcd.com//1531) [下载](https://imgs.xkcd.com/comics/the_bdlpswdks_effect.png)
-
-
-
-### Thanksgiving Arguments
-No.2858
-![图片不见了~~~](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
-
-[原址](https://xkcd.com//2858) [下载](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
+[原址](https://xkcd.com//2987) [下载](https://imgs.xkcd.com/comics/tectonic_surfing.png)
 
 
 
-### Hamster Ball
-No.152
-![图片不见了~~~](https://imgs.xkcd.com/comics/hamster_ball.png)
+### Stack
+No.2166
+![图片不见了~~~](https://imgs.xkcd.com/comics/stack.png)
 
-[原址](https://xkcd.com//152) [下载](https://imgs.xkcd.com/comics/hamster_ball.png)
+[原址](https://xkcd.com//2166) [下载](https://imgs.xkcd.com/comics/stack.png)
+
+
+
+### Wisdom Teeth
+No.861
+![图片不见了~~~](https://imgs.xkcd.com/comics/wisdom_teeth.png)
+
+[原址](https://xkcd.com//861) [下载](https://imgs.xkcd.com/comics/wisdom_teeth.png)
 
 
 
