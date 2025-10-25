@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Emperor Palpatine
-No.3157
-![图片不见了~~~](https://imgs.xkcd.com/comics/emperor_palpatine.png)
+### Continents
+No.3159
+![图片不见了~~~](https://imgs.xkcd.com/comics/continents.png)
 
-[原址](https://xkcd.com//3157) [下载](https://imgs.xkcd.com/comics/emperor_palpatine.png)
+[原址](https://xkcd.com//3159) [下载](https://imgs.xkcd.com/comics/continents.png)
 
 
 
 ## 随机漫画
-### Tectonic Surfing
-No.2987
-![图片不见了~~~](https://imgs.xkcd.com/comics/tectonic_surfing.png)
+### Snakes on a Plane! 2
+No.107
+![图片不见了~~~](https://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg)
 
-[原址](https://xkcd.com//2987) [下载](https://imgs.xkcd.com/comics/tectonic_surfing.png)
-
-
-
-### Stack
-No.2166
-![图片不见了~~~](https://imgs.xkcd.com/comics/stack.png)
-
-[原址](https://xkcd.com//2166) [下载](https://imgs.xkcd.com/comics/stack.png)
+[原址](https://xkcd.com//107) [下载](https://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg)
 
 
 
-### Wisdom Teeth
-No.861
-![图片不见了~~~](https://imgs.xkcd.com/comics/wisdom_teeth.png)
+### Google Announcement
+No.1361
+![图片不见了~~~](https://imgs.xkcd.com/comics/google_announcement.png)
 
-[原址](https://xkcd.com//861) [下载](https://imgs.xkcd.com/comics/wisdom_teeth.png)
+[原址](https://xkcd.com//1361) [下载](https://imgs.xkcd.com/comics/google_announcement.png)
+
+
+
+### Eclipse Coolness
+No.2914
+![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_coolness.png)
+
+[原址](https://xkcd.com//2914) [下载](https://imgs.xkcd.com/comics/eclipse_coolness.png)
 
 
 
