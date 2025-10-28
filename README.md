@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Continents
-No.3159
-![图片不见了~~~](https://imgs.xkcd.com/comics/continents.png)
+### Document Forgery
+No.3160
+![图片不见了~~~](https://imgs.xkcd.com/comics/document_forgery.png)
 
-[原址](https://xkcd.com//3159) [下载](https://imgs.xkcd.com/comics/continents.png)
+[原址](https://xkcd.com//3160) [下载](https://imgs.xkcd.com/comics/document_forgery.png)
 
 
 
 ## 随机漫画
-### Snakes on a Plane! 2
-No.107
-![图片不见了~~~](https://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg)
+### Skew-T Log-P
+No.3032
+![图片不见了~~~](https://imgs.xkcd.com/comics/skew_t_log_p.png)
 
-[原址](https://xkcd.com//107) [下载](https://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg)
-
-
-
-### Google Announcement
-No.1361
-![图片不见了~~~](https://imgs.xkcd.com/comics/google_announcement.png)
-
-[原址](https://xkcd.com//1361) [下载](https://imgs.xkcd.com/comics/google_announcement.png)
+[原址](https://xkcd.com//3032) [下载](https://imgs.xkcd.com/comics/skew_t_log_p.png)
 
 
 
-### Eclipse Coolness
-No.2914
-![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_coolness.png)
+### Morning Routine
+No.490
+![图片不见了~~~](https://imgs.xkcd.com/comics/morning_routine.png)
 
-[原址](https://xkcd.com//2914) [下载](https://imgs.xkcd.com/comics/eclipse_coolness.png)
+[原址](https://xkcd.com//490) [下载](https://imgs.xkcd.com/comics/morning_routine.png)
+
+
+
+### Pickup Artists
+No.1178
+![图片不见了~~~](https://imgs.xkcd.com/comics/pickup_artists.png)
+
+[原址](https://xkcd.com//1178) [下载](https://imgs.xkcd.com/comics/pickup_artists.png)
 
 
 
