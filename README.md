@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Document Forgery
-No.3160
-![图片不见了~~~](https://imgs.xkcd.com/comics/document_forgery.png)
+### Airspeed
+No.3161
+![图片不见了~~~](https://imgs.xkcd.com/comics/airspeed.png)
 
-[原址](https://xkcd.com//3160) [下载](https://imgs.xkcd.com/comics/document_forgery.png)
+[原址](https://xkcd.com//3161) [下载](https://imgs.xkcd.com/comics/airspeed.png)
 
 
 
 ## 随机漫画
-### Skew-T Log-P
-No.3032
-![图片不见了~~~](https://imgs.xkcd.com/comics/skew_t_log_p.png)
+### Vaccinated
+No.2460
+![图片不见了~~~](https://imgs.xkcd.com/comics/vaccinated.png)
 
-[原址](https://xkcd.com//3032) [下载](https://imgs.xkcd.com/comics/skew_t_log_p.png)
-
-
-
-### Morning Routine
-No.490
-![图片不见了~~~](https://imgs.xkcd.com/comics/morning_routine.png)
-
-[原址](https://xkcd.com//490) [下载](https://imgs.xkcd.com/comics/morning_routine.png)
+[原址](https://xkcd.com//2460) [下载](https://imgs.xkcd.com/comics/vaccinated.png)
 
 
 
-### Pickup Artists
-No.1178
-![图片不见了~~~](https://imgs.xkcd.com/comics/pickup_artists.png)
+### Reset
+No.363
+![图片不见了~~~](https://imgs.xkcd.com/comics/reset.png)
 
-[原址](https://xkcd.com//1178) [下载](https://imgs.xkcd.com/comics/pickup_artists.png)
+[原址](https://xkcd.com//363) [下载](https://imgs.xkcd.com/comics/reset.png)
+
+
+
+### Qua
+No.2591
+![图片不见了~~~](https://imgs.xkcd.com/comics/qua.png)
+
+[原址](https://xkcd.com//2591) [下载](https://imgs.xkcd.com/comics/qua.png)
 
 
 
