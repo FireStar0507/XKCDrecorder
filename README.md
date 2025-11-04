@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Heart Mountain
-No.3162
-![图片不见了~~~](https://imgs.xkcd.com/comics/heart_mountain.png)
+### Repair Video
+No.3163
+![图片不见了~~~](https://imgs.xkcd.com/comics/repair_video.png)
 
-[原址](https://xkcd.com//3162) [下载](https://imgs.xkcd.com/comics/heart_mountain.png)
+[原址](https://xkcd.com//3163) [下载](https://imgs.xkcd.com/comics/repair_video.png)
 
 
 
 ## 随机漫画
-### Rey and Kylo
-No.2229
-![图片不见了~~~](https://imgs.xkcd.com/comics/rey_and_kylo.png)
+### Sigil Cycle
+No.1306
+![图片不见了~~~](https://imgs.xkcd.com/comics/sigil_cycle.png)
 
-[原址](https://xkcd.com//2229) [下载](https://imgs.xkcd.com/comics/rey_and_kylo.png)
-
-
-
-### Fermat's First Theorem
-No.2689
-![图片不见了~~~](https://imgs.xkcd.com/comics/fermats_first_theorem.png)
-
-[原址](https://xkcd.com//2689) [下载](https://imgs.xkcd.com/comics/fermats_first_theorem.png)
+[原址](https://xkcd.com//1306) [下载](https://imgs.xkcd.com/comics/sigil_cycle.png)
 
 
 
-### My Sky
-No.1117
-![图片不见了~~~](https://imgs.xkcd.com/comics/my_sky.png)
+### Weekend
+No.1073
+![图片不见了~~~](https://imgs.xkcd.com/comics/weekend.png)
 
-[原址](https://xkcd.com//1117) [下载](https://imgs.xkcd.com/comics/my_sky.png)
+[原址](https://xkcd.com//1073) [下载](https://imgs.xkcd.com/comics/weekend.png)
+
+
+
+### Magnet Fishing
+No.2944
+![图片不见了~~~](https://imgs.xkcd.com/comics/magnet_fishing.png)
+
+[原址](https://xkcd.com//2944) [下载](https://imgs.xkcd.com/comics/magnet_fishing.png)
 
 
 
