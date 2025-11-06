@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Repair Video
-No.3163
-![图片不见了~~~](https://imgs.xkcd.com/comics/repair_video.png)
+### Metric Tip
+No.3164
+![图片不见了~~~](https://imgs.xkcd.com/comics/metric_tip.png)
 
-[原址](https://xkcd.com//3163) [下载](https://imgs.xkcd.com/comics/repair_video.png)
+[原址](https://xkcd.com//3164) [下载](https://imgs.xkcd.com/comics/metric_tip.png)
 
 
 
 ## 随机漫画
-### Sigil Cycle
-No.1306
-![图片不见了~~~](https://imgs.xkcd.com/comics/sigil_cycle.png)
+### Definitely
+No.2871
+![图片不见了~~~](https://imgs.xkcd.com/comics/definitely.png)
 
-[原址](https://xkcd.com//1306) [下载](https://imgs.xkcd.com/comics/sigil_cycle.png)
-
-
-
-### Weekend
-No.1073
-![图片不见了~~~](https://imgs.xkcd.com/comics/weekend.png)
-
-[原址](https://xkcd.com//1073) [下载](https://imgs.xkcd.com/comics/weekend.png)
+[原址](https://xkcd.com//2871) [下载](https://imgs.xkcd.com/comics/definitely.png)
 
 
 
-### Magnet Fishing
-No.2944
-![图片不见了~~~](https://imgs.xkcd.com/comics/magnet_fishing.png)
+### Thanksgiving Arguments
+No.2858
+![图片不见了~~~](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
 
-[原址](https://xkcd.com//2944) [下载](https://imgs.xkcd.com/comics/magnet_fishing.png)
+[原址](https://xkcd.com//2858) [下载](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
+
+
+
+### Cutest-Sounding Scientific Effects
+No.2611
+![图片不见了~~~](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)
+
+[原址](https://xkcd.com//2611) [下载](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)
 
 
 
