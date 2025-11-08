@@ -16,27 +16,27 @@ No.3164
 
 
 ## 随机漫画
-### Definitely
-No.2871
-![图片不见了~~~](https://imgs.xkcd.com/comics/definitely.png)
+### 2016 Election Map
+No.1939
+![图片不见了~~~](https://imgs.xkcd.com/comics/2016_election_map.png)
 
-[原址](https://xkcd.com//2871) [下载](https://imgs.xkcd.com/comics/definitely.png)
-
-
-
-### Thanksgiving Arguments
-No.2858
-![图片不见了~~~](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
-
-[原址](https://xkcd.com//2858) [下载](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)
+[原址](https://xkcd.com//1939) [下载](https://imgs.xkcd.com/comics/2016_election_map.png)
 
 
 
-### Cutest-Sounding Scientific Effects
-No.2611
-![图片不见了~~~](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)
+### Falling Asleep
+No.784
+![图片不见了~~~](https://imgs.xkcd.com/comics/falling_asleep.png)
 
-[原址](https://xkcd.com//2611) [下载](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)
+[原址](https://xkcd.com//784) [下载](https://imgs.xkcd.com/comics/falling_asleep.png)
+
+
+
+### Tattoo
+No.933
+![图片不见了~~~](https://imgs.xkcd.com/comics/tattoo.png)
+
+[原址](https://xkcd.com//933) [下载](https://imgs.xkcd.com/comics/tattoo.png)
 
 
 
