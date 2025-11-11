@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Metric Tip
-No.3164
-![图片不见了~~~](https://imgs.xkcd.com/comics/metric_tip.png)
+### Earthquake Prediction Flowchart
+No.3165
+![图片不见了~~~](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)
 
-[原址](https://xkcd.com//3164) [下载](https://imgs.xkcd.com/comics/metric_tip.png)
+[原址](https://xkcd.com//3165) [下载](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)
 
 
 
 ## 随机漫画
-### 2016 Election Map
-No.1939
-![图片不见了~~~](https://imgs.xkcd.com/comics/2016_election_map.png)
+### CrowdStrike
+No.2961
+![图片不见了~~~](https://imgs.xkcd.com/comics/crowdstrike.png)
 
-[原址](https://xkcd.com//1939) [下载](https://imgs.xkcd.com/comics/2016_election_map.png)
-
-
-
-### Falling Asleep
-No.784
-![图片不见了~~~](https://imgs.xkcd.com/comics/falling_asleep.png)
-
-[原址](https://xkcd.com//784) [下载](https://imgs.xkcd.com/comics/falling_asleep.png)
+[原址](https://xkcd.com//2961) [下载](https://imgs.xkcd.com/comics/crowdstrike.png)
 
 
 
-### Tattoo
-No.933
-![图片不见了~~~](https://imgs.xkcd.com/comics/tattoo.png)
+### Hemingway
+No.1540
+![图片不见了~~~](https://imgs.xkcd.com/comics/hemingway.png)
 
-[原址](https://xkcd.com//933) [下载](https://imgs.xkcd.com/comics/tattoo.png)
+[原址](https://xkcd.com//1540) [下载](https://imgs.xkcd.com/comics/hemingway.png)
+
+
+
+### Sphere
+No.1248
+![图片不见了~~~](https://imgs.xkcd.com/comics/sphere.png)
+
+[原址](https://xkcd.com//1248) [下载](https://imgs.xkcd.com/comics/sphere.png)
 
 
 
