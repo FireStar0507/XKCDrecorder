@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Car Size
-No.3167
-![图片不见了~~~](https://imgs.xkcd.com/comics/car_size.png)
+### Beam Dump
+No.3168
+![图片不见了~~~](https://imgs.xkcd.com/comics/beam_dump.png)
 
-[原址](https://xkcd.com//3167) [下载](https://imgs.xkcd.com/comics/car_size.png)
+[原址](https://xkcd.com//3168) [下载](https://imgs.xkcd.com/comics/beam_dump.png)
 
 
 
 ## 随机漫画
-### Orbiter
-No.787
-![图片不见了~~~](https://imgs.xkcd.com/comics/orbiter.png)
+### Family Decals
+No.946
+![图片不见了~~~](https://imgs.xkcd.com/comics/family_decals.png)
 
-[原址](https://xkcd.com//787) [下载](https://imgs.xkcd.com/comics/orbiter.png)
-
-
-
-### Communication
-No.1028
-![图片不见了~~~](https://imgs.xkcd.com/comics/communication.png)
-
-[原址](https://xkcd.com//1028) [下载](https://imgs.xkcd.com/comics/communication.png)
+[原址](https://xkcd.com//946) [下载](https://imgs.xkcd.com/comics/family_decals.png)
 
 
 
-### AirAware
-No.1207
-![图片不见了~~~](https://imgs.xkcd.com/comics/airaware.png)
+### Campfire
+No.742
+![图片不见了~~~](https://imgs.xkcd.com/comics/campfire.png)
 
-[原址](https://xkcd.com//1207) [下载](https://imgs.xkcd.com/comics/airaware.png)
+[原址](https://xkcd.com//742) [下载](https://imgs.xkcd.com/comics/campfire.png)
+
+
+
+### Mnemonics
+No.992
+![图片不见了~~~](https://imgs.xkcd.com/comics/mnemonics.png)
+
+[原址](https://xkcd.com//992) [下载](https://imgs.xkcd.com/comics/mnemonics.png)
 
 
 
