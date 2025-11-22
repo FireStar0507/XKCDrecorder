@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### EPIRBs
-No.3169
-![图片不见了~~~](https://imgs.xkcd.com/comics/epirbs.png)
+### Geologic Core Sample
+No.3171
+![图片不见了~~~](https://imgs.xkcd.com/comics/geologic_core_sample.png)
 
-[原址](https://xkcd.com//3169) [下载](https://imgs.xkcd.com/comics/epirbs.png)
+[原址](https://xkcd.com//3171) [下载](https://imgs.xkcd.com/comics/geologic_core_sample.png)
 
 
 
 ## 随机漫画
-### Fire
-No.1794
-![图片不见了~~~](https://imgs.xkcd.com/comics/fire.png)
+### 1000 Times
+No.558
+![图片不见了~~~](https://imgs.xkcd.com/comics/1000_times.png)
 
-[原址](https://xkcd.com//1794) [下载](https://imgs.xkcd.com/comics/fire.png)
-
-
-
-### First Date
-No.1333
-![图片不见了~~~](https://imgs.xkcd.com/comics/first_date.png)
-
-[原址](https://xkcd.com//1333) [下载](https://imgs.xkcd.com/comics/first_date.png)
+[原址](https://xkcd.com//558) [下载](https://imgs.xkcd.com/comics/1000_times.png)
 
 
 
-### Hydropower Breakthrough
-No.2710
-![图片不见了~~~](https://imgs.xkcd.com/comics/hydropower_breakthrough.png)
+### Disaster Movie
+No.2029
+![图片不见了~~~](https://imgs.xkcd.com/comics/disaster_movie.png)
 
-[原址](https://xkcd.com//2710) [下载](https://imgs.xkcd.com/comics/hydropower_breakthrough.png)
+[原址](https://xkcd.com//2029) [下载](https://imgs.xkcd.com/comics/disaster_movie.png)
+
+
+
+### Worst-Case Shopping
+No.909
+![图片不见了~~~](https://imgs.xkcd.com/comics/worst_case_shopping.png)
+
+[原址](https://xkcd.com//909) [下载](https://imgs.xkcd.com/comics/worst_case_shopping.png)
 
 
 
