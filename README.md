@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Satellite Imagery
-No.3173
-![图片不见了~~~](https://imgs.xkcd.com/comics/satellite_imagery.png)
+### Bridge Clearance
+No.3174
+![图片不见了~~~](https://imgs.xkcd.com/comics/bridge_clearance.png)
 
-[原址](https://xkcd.com//3173) [下载](https://imgs.xkcd.com/comics/satellite_imagery.png)
+[原址](https://xkcd.com//3174) [下载](https://imgs.xkcd.com/comics/bridge_clearance.png)
 
 
 
 ## 随机漫画
-### The Maritime Approximation
-No.3023
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_maritime_approximation.png)
+### Power Cord
+No.1395
+![图片不见了~~~](https://imgs.xkcd.com/comics/power_cord.png)
 
-[原址](https://xkcd.com//3023) [下载](https://imgs.xkcd.com/comics/the_maritime_approximation.png)
-
-
-
-### Circumappendiceal Somectomy
-No.2508
-![图片不见了~~~](https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png)
-
-[原址](https://xkcd.com//2508) [下载](https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png)
+[原址](https://xkcd.com//1395) [下载](https://imgs.xkcd.com/comics/power_cord.png)
 
 
 
-### Millennium Problems
-No.2320
-![图片不见了~~~](https://imgs.xkcd.com/comics/millennium_problems.png)
+### US Survey Foot
+No.2888
+![图片不见了~~~](https://imgs.xkcd.com/comics/us_survey_foot.png)
 
-[原址](https://xkcd.com//2320) [下载](https://imgs.xkcd.com/comics/millennium_problems.png)
+[原址](https://xkcd.com//2888) [下载](https://imgs.xkcd.com/comics/us_survey_foot.png)
+
+
+
+### Chicken Pox and Name Statistics
+No.1950
+![图片不见了~~~](https://imgs.xkcd.com/comics/chicken_pox_and_name_statistics.png)
+
+[原址](https://xkcd.com//1950) [下载](https://imgs.xkcd.com/comics/chicken_pox_and_name_statistics.png)
 
 
 
