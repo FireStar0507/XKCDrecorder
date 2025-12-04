@@ -16,27 +16,27 @@ No.3175
 
 
 ## 随机漫画
-### Light
-No.40
-![图片不见了~~~](https://imgs.xkcd.com/comics/light.jpg)
+### Fans
+No.131
+![图片不见了~~~](https://imgs.xkcd.com/comics/fans.png)
 
-[原址](https://xkcd.com//40) [下载](https://imgs.xkcd.com/comics/light.jpg)
-
-
-
-### Brussels Sprouts Mandela Effect
-No.2241
-![图片不见了~~~](https://imgs.xkcd.com/comics/brussels_sprouts_mandela_effect.png)
-
-[原址](https://xkcd.com//2241) [下载](https://imgs.xkcd.com/comics/brussels_sprouts_mandela_effect.png)
+[原址](https://xkcd.com//131) [下载](https://imgs.xkcd.com/comics/fans.png)
 
 
 
-### In the Trees
-No.71
-![图片不见了~~~](https://imgs.xkcd.com/comics/in_the_trees.jpg)
+### Dubious Study
+No.1847
+![图片不见了~~~](https://imgs.xkcd.com/comics/dubious_study.png)
 
-[原址](https://xkcd.com//71) [下载](https://imgs.xkcd.com/comics/in_the_trees.jpg)
+[原址](https://xkcd.com//1847) [下载](https://imgs.xkcd.com/comics/dubious_study.png)
+
+
+
+### America Songs
+No.2665
+![图片不见了~~~](https://imgs.xkcd.com/comics/america_songs.png)
+
+[原址](https://xkcd.com//2665) [下载](https://imgs.xkcd.com/comics/america_songs.png)
 
 
 
