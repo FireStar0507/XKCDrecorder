@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Inverted Catenaries
-No.3176
-![图片不见了~~~](https://imgs.xkcd.com/comics/inverted_catenaries.png)
+### Chessboard Alignment
+No.3177
+![图片不见了~~~](https://imgs.xkcd.com/comics/chessboard_alignment.png)
 
-[原址](https://xkcd.com//3176) [下载](https://imgs.xkcd.com/comics/inverted_catenaries.png)
+[原址](https://xkcd.com//3177) [下载](https://imgs.xkcd.com/comics/chessboard_alignment.png)
 
 
 
 ## 随机漫画
-### Serena Versus the Drones
-No.2190
-![图片不见了~~~](https://imgs.xkcd.com/comics/serena_versus_the_drones.png)
+### Recreate the Conditions
+No.2511
+![图片不见了~~~](https://imgs.xkcd.com/comics/recreate_the_conditions.png)
 
-[原址](https://xkcd.com//2190) [下载](https://imgs.xkcd.com/comics/serena_versus_the_drones.png)
-
-
-
-### Geographic Qualifiers
-No.2901
-![图片不见了~~~](https://imgs.xkcd.com/comics/geographic_qualifiers.png)
-
-[原址](https://xkcd.com//2901) [下载](https://imgs.xkcd.com/comics/geographic_qualifiers.png)
+[原址](https://xkcd.com//2511) [下载](https://imgs.xkcd.com/comics/recreate_the_conditions.png)
 
 
 
-### Sourdough Starter
-No.2296
-![图片不见了~~~](https://imgs.xkcd.com/comics/sourdough_starter.png)
+### Felidae
+No.1056
+![图片不见了~~~](https://imgs.xkcd.com/comics/felidae.png)
 
-[原址](https://xkcd.com//2296) [下载](https://imgs.xkcd.com/comics/sourdough_starter.png)
+[原址](https://xkcd.com//1056) [下载](https://imgs.xkcd.com/comics/felidae.png)
+
+
+
+### Swiftkey
+No.1068
+![图片不见了~~~](https://imgs.xkcd.com/comics/swiftkey.png)
+
+[原址](https://xkcd.com//1068) [下载](https://imgs.xkcd.com/comics/swiftkey.png)
 
 
 
