@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Chessboard Alignment
-No.3177
-![图片不见了~~~](https://imgs.xkcd.com/comics/chessboard_alignment.png)
+### Hyperacute Interdynamics
+No.3178
+![图片不见了~~~](https://imgs.xkcd.com/comics/hyperacute_interdynamics.png)
 
-[原址](https://xkcd.com//3177) [下载](https://imgs.xkcd.com/comics/chessboard_alignment.png)
+[原址](https://xkcd.com//3178) [下载](https://imgs.xkcd.com/comics/hyperacute_interdynamics.png)
 
 
 
 ## 随机漫画
-### Recreate the Conditions
-No.2511
-![图片不见了~~~](https://imgs.xkcd.com/comics/recreate_the_conditions.png)
+### Chess Variant
+No.3139
+![图片不见了~~~](https://imgs.xkcd.com/comics/chess_variant.png)
 
-[原址](https://xkcd.com//2511) [下载](https://imgs.xkcd.com/comics/recreate_the_conditions.png)
-
-
-
-### Felidae
-No.1056
-![图片不见了~~~](https://imgs.xkcd.com/comics/felidae.png)
-
-[原址](https://xkcd.com//1056) [下载](https://imgs.xkcd.com/comics/felidae.png)
+[原址](https://xkcd.com//3139) [下载](https://imgs.xkcd.com/comics/chess_variant.png)
 
 
 
-### Swiftkey
-No.1068
-![图片不见了~~~](https://imgs.xkcd.com/comics/swiftkey.png)
+### Profile Info
+No.1303
+![图片不见了~~~](https://imgs.xkcd.com/comics/profile_info.png)
 
-[原址](https://xkcd.com//1068) [下载](https://imgs.xkcd.com/comics/swiftkey.png)
+[原址](https://xkcd.com//1303) [下载](https://imgs.xkcd.com/comics/profile_info.png)
+
+
+
+### Classical Periodic Table
+No.2975
+![图片不见了~~~](https://imgs.xkcd.com/comics/classical_periodic_table.png)
+
+[原址](https://xkcd.com//2975) [下载](https://imgs.xkcd.com/comics/classical_periodic_table.png)
 
 
 
