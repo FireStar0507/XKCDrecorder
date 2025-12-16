@@ -16,27 +16,27 @@ No.3180
 
 
 ## 随机漫画
-### Sky Spotters
-No.1910
-![图片不见了~~~](https://imgs.xkcd.com/comics/sky_spotters.png)
+### Late Cenozoic
+No.2990
+![图片不见了~~~](https://imgs.xkcd.com/comics/late_cenozoic.png)
 
-[原址](https://xkcd.com//1910) [下载](https://imgs.xkcd.com/comics/sky_spotters.png)
-
-
-
-### Spinthariscope
-No.2568
-![图片不见了~~~](https://imgs.xkcd.com/comics/spinthariscope.png)
-
-[原址](https://xkcd.com//2568) [下载](https://imgs.xkcd.com/comics/spinthariscope.png)
+[原址](https://xkcd.com//2990) [下载](https://imgs.xkcd.com/comics/late_cenozoic.png)
 
 
 
-### The Three Laws of Robotics
-No.1613
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_three_laws_of_robotics.png)
+### Footnote Labyrinths
+No.1208
+![图片不见了~~~](https://imgs.xkcd.com/comics/footnote_labyrinths.png)
 
-[原址](https://xkcd.com//1613) [下载](https://imgs.xkcd.com/comics/the_three_laws_of_robotics.png)
+[原址](https://xkcd.com//1208) [下载](https://imgs.xkcd.com/comics/footnote_labyrinths.png)
+
+
+
+### NEXUS
+No.1918
+![图片不见了~~~](https://imgs.xkcd.com/comics/nexus.png)
+
+[原址](https://xkcd.com//1918) [下载](https://imgs.xkcd.com/comics/nexus.png)
 
 
 
