@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Apples
-No.3180
-![图片不见了~~~](https://imgs.xkcd.com/comics/apples.png)
+### Telescope Types
+No.3182
+![图片不见了~~~](https://imgs.xkcd.com/comics/telescope_types.png)
 
-[原址](https://xkcd.com//3180) [下载](https://imgs.xkcd.com/comics/apples.png)
+[原址](https://xkcd.com//3182) [下载](https://imgs.xkcd.com/comics/telescope_types.png)
 
 
 
 ## 随机漫画
-### Late Cenozoic
-No.2990
-![图片不见了~~~](https://imgs.xkcd.com/comics/late_cenozoic.png)
+### Easy or Hard
+No.2682
+![图片不见了~~~](https://imgs.xkcd.com/comics/easy_or_hard.png)
 
-[原址](https://xkcd.com//2990) [下载](https://imgs.xkcd.com/comics/late_cenozoic.png)
-
-
-
-### Footnote Labyrinths
-No.1208
-![图片不见了~~~](https://imgs.xkcd.com/comics/footnote_labyrinths.png)
-
-[原址](https://xkcd.com//1208) [下载](https://imgs.xkcd.com/comics/footnote_labyrinths.png)
+[原址](https://xkcd.com//2682) [下载](https://imgs.xkcd.com/comics/easy_or_hard.png)
 
 
 
-### NEXUS
-No.1918
-![图片不见了~~~](https://imgs.xkcd.com/comics/nexus.png)
+### Inspiration
+No.2820
+![图片不见了~~~](https://imgs.xkcd.com/comics/inspiration.png)
 
-[原址](https://xkcd.com//1918) [下载](https://imgs.xkcd.com/comics/nexus.png)
+[原址](https://xkcd.com//2820) [下载](https://imgs.xkcd.com/comics/inspiration.png)
+
+
+
+### Eclipse Coolness
+No.2914
+![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_coolness.png)
+
+[原址](https://xkcd.com//2914) [下载](https://imgs.xkcd.com/comics/eclipse_coolness.png)
 
 
 
