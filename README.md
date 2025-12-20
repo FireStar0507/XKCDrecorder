@@ -16,27 +16,27 @@ No.3182
 
 
 ## 随机漫画
-### Easy or Hard
-No.2682
-![图片不见了~~~](https://imgs.xkcd.com/comics/easy_or_hard.png)
+### Cell Phone Functions
+No.2212
+![图片不见了~~~](https://imgs.xkcd.com/comics/cell_phone_functions.png)
 
-[原址](https://xkcd.com//2682) [下载](https://imgs.xkcd.com/comics/easy_or_hard.png)
-
-
-
-### Inspiration
-No.2820
-![图片不见了~~~](https://imgs.xkcd.com/comics/inspiration.png)
-
-[原址](https://xkcd.com//2820) [下载](https://imgs.xkcd.com/comics/inspiration.png)
+[原址](https://xkcd.com//2212) [下载](https://imgs.xkcd.com/comics/cell_phone_functions.png)
 
 
 
-### Eclipse Coolness
-No.2914
-![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_coolness.png)
+### Decline
+No.523
+![图片不见了~~~](https://imgs.xkcd.com/comics/decline.png)
 
-[原址](https://xkcd.com//2914) [下载](https://imgs.xkcd.com/comics/eclipse_coolness.png)
+[原址](https://xkcd.com//523) [下载](https://imgs.xkcd.com/comics/decline.png)
+
+
+
+### Hours Before Departure
+No.2211
+![图片不见了~~~](https://imgs.xkcd.com/comics/hours_before_departure.png)
+
+[原址](https://xkcd.com//2211) [下载](https://imgs.xkcd.com/comics/hours_before_departure.png)
 
 
 
