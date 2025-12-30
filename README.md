@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Truly Universal Outlet
-No.3186
-![图片不见了~~~](https://imgs.xkcd.com/comics/truly_universal_outlet.png)
+### High Altitude Cooking Instructions
+No.3187
+![图片不见了~~~](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
 
-[原址](https://xkcd.com//3186) [下载](https://imgs.xkcd.com/comics/truly_universal_outlet.png)
+[原址](https://xkcd.com//3187) [下载](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
 
 
 
 ## 随机漫画
-### Or Whatever
-No.2629
-![图片不见了~~~](https://imgs.xkcd.com/comics/or_whatever.png)
+### Baring My Heart
+No.112
+![图片不见了~~~](https://imgs.xkcd.com/comics/baring_my_heart.png)
 
-[原址](https://xkcd.com//2629) [下载](https://imgs.xkcd.com/comics/or_whatever.png)
-
-
-
-### File Extensions
-No.1301
-![图片不见了~~~](https://imgs.xkcd.com/comics/file_extensions.png)
-
-[原址](https://xkcd.com//1301) [下载](https://imgs.xkcd.com/comics/file_extensions.png)
+[原址](https://xkcd.com//112) [下载](https://imgs.xkcd.com/comics/baring_my_heart.png)
 
 
 
-### Confounding Variables
-No.2560
-![图片不见了~~~](https://imgs.xkcd.com/comics/confounding_variables.png)
+### Phobia
+No.752
+![图片不见了~~~](https://imgs.xkcd.com/comics/phobia.png)
 
-[原址](https://xkcd.com//2560) [下载](https://imgs.xkcd.com/comics/confounding_variables.png)
+[原址](https://xkcd.com//752) [下载](https://imgs.xkcd.com/comics/phobia.png)
+
+
+
+### Napoleon
+No.1510
+![图片不见了~~~](https://imgs.xkcd.com/comics/napoleon.png)
+
+[原址](https://xkcd.com//1510) [下载](https://imgs.xkcd.com/comics/napoleon.png)
 
 
 
