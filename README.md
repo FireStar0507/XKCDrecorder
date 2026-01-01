@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### High Altitude Cooking Instructions
-No.3187
-![图片不见了~~~](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
+### Anyone Else Here
+No.3188
+![图片不见了~~~](https://imgs.xkcd.com/comics/anyone_else_here.png)
 
-[原址](https://xkcd.com//3187) [下载](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
+[原址](https://xkcd.com//3188) [下载](https://imgs.xkcd.com/comics/anyone_else_here.png)
 
 
 
 ## 随机漫画
-### Baring My Heart
-No.112
-![图片不见了~~~](https://imgs.xkcd.com/comics/baring_my_heart.png)
+### Technical Analysis
+No.2101
+![图片不见了~~~](https://imgs.xkcd.com/comics/technical_analysis.png)
 
-[原址](https://xkcd.com//112) [下载](https://imgs.xkcd.com/comics/baring_my_heart.png)
-
-
-
-### Phobia
-No.752
-![图片不见了~~~](https://imgs.xkcd.com/comics/phobia.png)
-
-[原址](https://xkcd.com//752) [下载](https://imgs.xkcd.com/comics/phobia.png)
+[原址](https://xkcd.com//2101) [下载](https://imgs.xkcd.com/comics/technical_analysis.png)
 
 
 
-### Napoleon
-No.1510
-![图片不见了~~~](https://imgs.xkcd.com/comics/napoleon.png)
+### Occam
+No.2541
+![图片不见了~~~](https://imgs.xkcd.com/comics/occam.png)
 
-[原址](https://xkcd.com//1510) [下载](https://imgs.xkcd.com/comics/napoleon.png)
+[原址](https://xkcd.com//2541) [下载](https://imgs.xkcd.com/comics/occam.png)
+
+
+
+### MarketWatch
+No.1600
+![图片不见了~~~](https://imgs.xkcd.com/comics/marketwatch.png)
+
+[原址](https://xkcd.com//1600) [下载](https://imgs.xkcd.com/comics/marketwatch.png)
 
 
 
