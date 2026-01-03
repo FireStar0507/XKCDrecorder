@@ -16,27 +16,27 @@ No.3188
 
 
 ## 随机漫画
-### Technical Analysis
-No.2101
-![图片不见了~~~](https://imgs.xkcd.com/comics/technical_analysis.png)
+### Field Topology
+No.2625
+![图片不见了~~~](https://imgs.xkcd.com/comics/field_topology.png)
 
-[原址](https://xkcd.com//2101) [下载](https://imgs.xkcd.com/comics/technical_analysis.png)
-
-
-
-### Occam
-No.2541
-![图片不见了~~~](https://imgs.xkcd.com/comics/occam.png)
-
-[原址](https://xkcd.com//2541) [下载](https://imgs.xkcd.com/comics/occam.png)
+[原址](https://xkcd.com//2625) [下载](https://imgs.xkcd.com/comics/field_topology.png)
 
 
 
-### MarketWatch
-No.1600
-![图片不见了~~~](https://imgs.xkcd.com/comics/marketwatch.png)
+### Trained a Neural Net
+No.2173
+![图片不见了~~~](https://imgs.xkcd.com/comics/trained_a_neural_net.png)
 
-[原址](https://xkcd.com//1600) [下载](https://imgs.xkcd.com/comics/marketwatch.png)
+[原址](https://xkcd.com//2173) [下载](https://imgs.xkcd.com/comics/trained_a_neural_net.png)
+
+
+
+### Ten Years
+No.2386
+![图片不见了~~~](https://imgs.xkcd.com/comics/ten_years.png)
+
+[原址](https://xkcd.com//2386) [下载](https://imgs.xkcd.com/comics/ten_years.png)
 
 
 
