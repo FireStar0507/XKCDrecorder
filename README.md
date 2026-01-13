@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
+### Planetary Alignment
+No.3192
+![图片不见了~~~](https://imgs.xkcd.com/comics/planetary_alignment.png)
+
+[原址](https://xkcd.com//3192) [下载](https://imgs.xkcd.com/comics/planetary_alignment.png)
+
+
+
+## 随机漫画
+### Snapple
+No.18
+![图片不见了~~~](https://imgs.xkcd.com/comics/snapple.jpg)
+
+[原址](https://xkcd.com//18) [下载](https://imgs.xkcd.com/comics/snapple.jpg)
+
+
+
+### Temperature
+No.901
+![图片不见了~~~](https://imgs.xkcd.com/comics/temperature.png)
+
+[原址](https://xkcd.com//901) [下载](https://imgs.xkcd.com/comics/temperature.png)
+
+
+
 ### Superstition
 No.3191
 ![图片不见了~~~](https://imgs.xkcd.com/comics/superstition.png)
 
 [原址](https://xkcd.com//3191) [下载](https://imgs.xkcd.com/comics/superstition.png)
-
-
-
-## 随机漫画
-### Security Holes
-No.424
-![图片不见了~~~](https://imgs.xkcd.com/comics/security_holes.png)
-
-[原址](https://xkcd.com//424) [下载](https://imgs.xkcd.com/comics/security_holes.png)
-
-
-
-### First Internet Interaction
-No.2667
-![图片不见了~~~](https://imgs.xkcd.com/comics/first_internet_interaction.png)
-
-[原址](https://xkcd.com//2667) [下载](https://imgs.xkcd.com/comics/first_internet_interaction.png)
-
-
-
-### Email Reply
-No.1873
-![图片不见了~~~](https://imgs.xkcd.com/comics/email_reply.png)
-
-[原址](https://xkcd.com//1873) [下载](https://imgs.xkcd.com/comics/email_reply.png)
 
 
 
