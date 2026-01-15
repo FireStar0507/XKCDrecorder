@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Planetary Alignment
-No.3192
-![图片不见了~~~](https://imgs.xkcd.com/comics/planetary_alignment.png)
+### 16 Part Epoxy
+No.3194
+![图片不见了~~~](https://imgs.xkcd.com/comics/16_part_epoxy.png)
 
-[原址](https://xkcd.com//3192) [下载](https://imgs.xkcd.com/comics/planetary_alignment.png)
+[原址](https://xkcd.com//3194) [下载](https://imgs.xkcd.com/comics/16_part_epoxy.png)
 
 
 
 ## 随机漫画
-### Snapple
-No.18
-![图片不见了~~~](https://imgs.xkcd.com/comics/snapple.jpg)
+### Cougars
+No.999
+![图片不见了~~~](https://imgs.xkcd.com/comics/cougars.png)
 
-[原址](https://xkcd.com//18) [下载](https://imgs.xkcd.com/comics/snapple.jpg)
-
-
-
-### Temperature
-No.901
-![图片不见了~~~](https://imgs.xkcd.com/comics/temperature.png)
-
-[原址](https://xkcd.com//901) [下载](https://imgs.xkcd.com/comics/temperature.png)
+[原址](https://xkcd.com//999) [下载](https://imgs.xkcd.com/comics/cougars.png)
 
 
 
-### Superstition
-No.3191
-![图片不见了~~~](https://imgs.xkcd.com/comics/superstition.png)
+### Hyphen
+No.37
+![图片不见了~~~](https://imgs.xkcd.com/comics/hyphen.jpg)
 
-[原址](https://xkcd.com//3191) [下载](https://imgs.xkcd.com/comics/superstition.png)
+[原址](https://xkcd.com//37) [下载](https://imgs.xkcd.com/comics/hyphen.jpg)
+
+
+
+### Timeghost
+No.1393
+![图片不见了~~~](https://imgs.xkcd.com/comics/timeghost.png)
+
+[原址](https://xkcd.com//1393) [下载](https://imgs.xkcd.com/comics/timeghost.png)
 
 
 
