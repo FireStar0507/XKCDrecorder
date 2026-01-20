@@ -16,27 +16,27 @@ No.3195
 
 
 ## 随机漫画
-### Backward in Time
-No.1017
-![图片不见了~~~](https://imgs.xkcd.com/comics/backward_in_time.png)
+### Pendulum Types
+No.2924
+![图片不见了~~~](https://imgs.xkcd.com/comics/pendulum_types.png)
 
-[原址](https://xkcd.com//1017) [下载](https://imgs.xkcd.com/comics/backward_in_time.png)
-
-
-
-### Jet Fuel
-No.966
-![图片不见了~~~](https://imgs.xkcd.com/comics/jet_fuel.png)
-
-[原址](https://xkcd.com//966) [下载](https://imgs.xkcd.com/comics/jet_fuel.png)
+[原址](https://xkcd.com//2924) [下载](https://imgs.xkcd.com/comics/pendulum_types.png)
 
 
 
-### Microdrones
-No.1523
-![图片不见了~~~](https://imgs.xkcd.com/comics/microdrones.png)
+### IN UR REALITY
+No.262
+![图片不见了~~~](https://imgs.xkcd.com/comics/in_ur_reality.png)
 
-[原址](https://xkcd.com//1523) [下载](https://imgs.xkcd.com/comics/microdrones.png)
+[原址](https://xkcd.com//262) [下载](https://imgs.xkcd.com/comics/in_ur_reality.png)
+
+
+
+### Houston
+No.1438
+![图片不见了~~~](https://imgs.xkcd.com/comics/houston.png)
+
+[原址](https://xkcd.com//1438) [下载](https://imgs.xkcd.com/comics/houston.png)
 
 
 
