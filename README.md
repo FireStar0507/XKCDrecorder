@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### International Station
-No.3195
-![图片不见了~~~](https://imgs.xkcd.com/comics/international_station.png)
+### Cost Savings
+No.3197
+![图片不见了~~~](https://imgs.xkcd.com/comics/cost_savings.png)
 
-[原址](https://xkcd.com//3195) [下载](https://imgs.xkcd.com/comics/international_station.png)
+[原址](https://xkcd.com//3197) [下载](https://imgs.xkcd.com/comics/cost_savings.png)
 
 
 
 ## 随机漫画
-### Pendulum Types
-No.2924
-![图片不见了~~~](https://imgs.xkcd.com/comics/pendulum_types.png)
+### Terminator: Dark Fate
+No.2222
+![图片不见了~~~](https://imgs.xkcd.com/comics/terminator_dark_fate.png)
 
-[原址](https://xkcd.com//2924) [下载](https://imgs.xkcd.com/comics/pendulum_types.png)
-
-
-
-### IN UR REALITY
-No.262
-![图片不见了~~~](https://imgs.xkcd.com/comics/in_ur_reality.png)
-
-[原址](https://xkcd.com//262) [下载](https://imgs.xkcd.com/comics/in_ur_reality.png)
+[原址](https://xkcd.com//2222) [下载](https://imgs.xkcd.com/comics/terminator_dark_fate.png)
 
 
 
-### Houston
-No.1438
-![图片不见了~~~](https://imgs.xkcd.com/comics/houston.png)
+### Time Capsule
+No.1617
+![图片不见了~~~](https://imgs.xkcd.com/comics/time_capsule.png)
 
-[原址](https://xkcd.com//1438) [下载](https://imgs.xkcd.com/comics/houston.png)
+[原址](https://xkcd.com//1617) [下载](https://imgs.xkcd.com/comics/time_capsule.png)
+
+
+
+### Parental Trolling
+No.573
+![图片不见了~~~](https://imgs.xkcd.com/comics/parental_trolling.png)
+
+[原址](https://xkcd.com//573) [下载](https://imgs.xkcd.com/comics/parental_trolling.png)
 
 
 
