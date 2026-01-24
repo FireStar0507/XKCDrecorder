@@ -16,27 +16,27 @@ No.3197
 
 
 ## 随机漫画
-### Terminator: Dark Fate
-No.2222
-![图片不见了~~~](https://imgs.xkcd.com/comics/terminator_dark_fate.png)
+### Jupiter Core
+No.3083
+![图片不见了~~~](https://imgs.xkcd.com/comics/jupiter_core.png)
 
-[原址](https://xkcd.com//2222) [下载](https://imgs.xkcd.com/comics/terminator_dark_fate.png)
-
-
-
-### Time Capsule
-No.1617
-![图片不见了~~~](https://imgs.xkcd.com/comics/time_capsule.png)
-
-[原址](https://xkcd.com//1617) [下载](https://imgs.xkcd.com/comics/time_capsule.png)
+[原址](https://xkcd.com//3083) [下载](https://imgs.xkcd.com/comics/jupiter_core.png)
 
 
 
-### Parental Trolling
-No.573
-![图片不见了~~~](https://imgs.xkcd.com/comics/parental_trolling.png)
+### XKCDE
+No.1764
+![图片不见了~~~](https://imgs.xkcd.com/comics/xkcde.png)
 
-[原址](https://xkcd.com//573) [下载](https://imgs.xkcd.com/comics/parental_trolling.png)
+[原址](https://xkcd.com//1764) [下载](https://imgs.xkcd.com/comics/xkcde.png)
+
+
+
+### Moon Armor Index
+No.2908
+![图片不见了~~~](https://imgs.xkcd.com/comics/moon_armor_index.png)
+
+[原址](https://xkcd.com//2908) [下载](https://imgs.xkcd.com/comics/moon_armor_index.png)
 
 
 
