@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Proof Without Content
-No.3201
-![图片不见了~~~](https://imgs.xkcd.com/comics/proof_without_content.png)
+### Groundhog Day Meaning
+No.3202
+![图片不见了~~~](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
 
-[原址](https://xkcd.com//3201) [下载](https://imgs.xkcd.com/comics/proof_without_content.png)
+[原址](https://xkcd.com//3202) [下载](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
 
 
 
 ## 随机漫画
-### Horror Movies 2
-No.2076
-![图片不见了~~~](https://imgs.xkcd.com/comics/horror_movies_2.png)
+### Prometheus
+No.1228
+![图片不见了~~~](https://imgs.xkcd.com/comics/prometheus.png)
 
-[原址](https://xkcd.com//2076) [下载](https://imgs.xkcd.com/comics/horror_movies_2.png)
-
-
-
-### Salt Mine
-No.1637
-![图片不见了~~~](https://imgs.xkcd.com/comics/salt_mine.png)
-
-[原址](https://xkcd.com//1637) [下载](https://imgs.xkcd.com/comics/salt_mine.png)
+[原址](https://xkcd.com//1228) [下载](https://imgs.xkcd.com/comics/prometheus.png)
 
 
 
-### Integration by Parts
-No.1201
-![图片不见了~~~](https://imgs.xkcd.com/comics/integration_by_parts.png)
+### State Borders
+No.1902
+![图片不见了~~~](https://imgs.xkcd.com/comics/state_borders.png)
 
-[原址](https://xkcd.com//1201) [下载](https://imgs.xkcd.com/comics/integration_by_parts.png)
+[原址](https://xkcd.com//1902) [下载](https://imgs.xkcd.com/comics/state_borders.png)
+
+
+
+### Earth-Like Exoplanet
+No.2202
+![图片不见了~~~](https://imgs.xkcd.com/comics/earth_like_exoplanet.png)
+
+[原址](https://xkcd.com//2202) [下载](https://imgs.xkcd.com/comics/earth_like_exoplanet.png)
 
 
 
