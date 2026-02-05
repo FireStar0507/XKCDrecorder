@@ -16,27 +16,27 @@ No.3202
 
 
 ## 随机漫画
-### Prometheus
-No.1228
-![图片不见了~~~](https://imgs.xkcd.com/comics/prometheus.png)
+### Frequentists vs. Bayesians
+No.1132
+![图片不见了~~~](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png)
 
-[原址](https://xkcd.com//1228) [下载](https://imgs.xkcd.com/comics/prometheus.png)
-
-
-
-### State Borders
-No.1902
-![图片不见了~~~](https://imgs.xkcd.com/comics/state_borders.png)
-
-[原址](https://xkcd.com//1902) [下载](https://imgs.xkcd.com/comics/state_borders.png)
+[原址](https://xkcd.com//1132) [下载](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png)
 
 
 
-### Earth-Like Exoplanet
-No.2202
-![图片不见了~~~](https://imgs.xkcd.com/comics/earth_like_exoplanet.png)
+### Mars Landing Video
+No.2428
+![图片不见了~~~](https://imgs.xkcd.com/comics/mars_landing_video.png)
 
-[原址](https://xkcd.com//2202) [下载](https://imgs.xkcd.com/comics/earth_like_exoplanet.png)
+[原址](https://xkcd.com//2428) [下载](https://imgs.xkcd.com/comics/mars_landing_video.png)
+
+
+
+### Google Trends Maps
+No.2126
+![图片不见了~~~](https://imgs.xkcd.com/comics/google_trends_maps.png)
+
+[原址](https://xkcd.com//2126) [下载](https://imgs.xkcd.com/comics/google_trends_maps.png)
 
 
 
