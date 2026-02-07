@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Groundhog Day Meaning
-No.3202
-![图片不见了~~~](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
+### Dinosaurs And Non-Dinosaurs
+No.3204
+![图片不见了~~~](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
 
-[原址](https://xkcd.com//3202) [下载](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
+[原址](https://xkcd.com//3204) [下载](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
 
 
 
 ## 随机漫画
-### Frequentists vs. Bayesians
-No.1132
-![图片不见了~~~](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png)
+### Methodology Trial
+No.2726
+![图片不见了~~~](https://imgs.xkcd.com/comics/methodology_trial.png)
 
-[原址](https://xkcd.com//1132) [下载](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png)
-
-
-
-### Mars Landing Video
-No.2428
-![图片不见了~~~](https://imgs.xkcd.com/comics/mars_landing_video.png)
-
-[原址](https://xkcd.com//2428) [下载](https://imgs.xkcd.com/comics/mars_landing_video.png)
+[原址](https://xkcd.com//2726) [下载](https://imgs.xkcd.com/comics/methodology_trial.png)
 
 
 
-### Google Trends Maps
-No.2126
-![图片不见了~~~](https://imgs.xkcd.com/comics/google_trends_maps.png)
+### Moon Armor Index
+No.2908
+![图片不见了~~~](https://imgs.xkcd.com/comics/moon_armor_index.png)
 
-[原址](https://xkcd.com//2126) [下载](https://imgs.xkcd.com/comics/google_trends_maps.png)
+[原址](https://xkcd.com//2908) [下载](https://imgs.xkcd.com/comics/moon_armor_index.png)
+
+
+
+### Puzzle
+No.1287
+![图片不见了~~~](https://imgs.xkcd.com/comics/puzzle.png)
+
+[原址](https://xkcd.com//1287) [下载](https://imgs.xkcd.com/comics/puzzle.png)
 
 
 
