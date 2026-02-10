@@ -16,27 +16,27 @@ No.3204
 
 
 ## 随机漫画
-### Methodology Trial
-No.2726
-![图片不见了~~~](https://imgs.xkcd.com/comics/methodology_trial.png)
+### Phone Alarm
+No.1359
+![图片不见了~~~](https://imgs.xkcd.com/comics/phone_alarm.png)
 
-[原址](https://xkcd.com//2726) [下载](https://imgs.xkcd.com/comics/methodology_trial.png)
-
-
-
-### Moon Armor Index
-No.2908
-![图片不见了~~~](https://imgs.xkcd.com/comics/moon_armor_index.png)
-
-[原址](https://xkcd.com//2908) [下载](https://imgs.xkcd.com/comics/moon_armor_index.png)
+[原址](https://xkcd.com//1359) [下载](https://imgs.xkcd.com/comics/phone_alarm.png)
 
 
 
-### Puzzle
-No.1287
-![图片不见了~~~](https://imgs.xkcd.com/comics/puzzle.png)
+### Hard Reboot
+No.1495
+![图片不见了~~~](https://imgs.xkcd.com/comics/hard_reboot.png)
 
-[原址](https://xkcd.com//1287) [下载](https://imgs.xkcd.com/comics/puzzle.png)
+[原址](https://xkcd.com//1495) [下载](https://imgs.xkcd.com/comics/hard_reboot.png)
+
+
+
+### Earth Layers
+No.2840
+![图片不见了~~~](https://imgs.xkcd.com/comics/earth_layers.png)
+
+[原址](https://xkcd.com//2840) [下载](https://imgs.xkcd.com/comics/earth_layers.png)
 
 
 
