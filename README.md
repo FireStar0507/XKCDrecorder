@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Dinosaurs And Non-Dinosaurs
-No.3204
-![图片不见了~~~](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
+### Carbon Dating
+No.3205
+![图片不见了~~~](https://imgs.xkcd.com/comics/carbon_dating.png)
 
-[原址](https://xkcd.com//3204) [下载](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
+[原址](https://xkcd.com//3205) [下载](https://imgs.xkcd.com/comics/carbon_dating.png)
 
 
 
 ## 随机漫画
-### Phone Alarm
-No.1359
-![图片不见了~~~](https://imgs.xkcd.com/comics/phone_alarm.png)
+### DFS
+No.761
+![图片不见了~~~](https://imgs.xkcd.com/comics/dfs.png)
 
-[原址](https://xkcd.com//1359) [下载](https://imgs.xkcd.com/comics/phone_alarm.png)
-
-
-
-### Hard Reboot
-No.1495
-![图片不见了~~~](https://imgs.xkcd.com/comics/hard_reboot.png)
-
-[原址](https://xkcd.com//1495) [下载](https://imgs.xkcd.com/comics/hard_reboot.png)
+[原址](https://xkcd.com//761) [下载](https://imgs.xkcd.com/comics/dfs.png)
 
 
 
-### Earth Layers
-No.2840
-![图片不见了~~~](https://imgs.xkcd.com/comics/earth_layers.png)
+### Philosophy
+No.220
+![图片不见了~~~](https://imgs.xkcd.com/comics/philosophy.png)
 
-[原址](https://xkcd.com//2840) [下载](https://imgs.xkcd.com/comics/earth_layers.png)
+[原址](https://xkcd.com//220) [下载](https://imgs.xkcd.com/comics/philosophy.png)
+
+
+
+### The Ring
+No.396
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_ring.png)
+
+[原址](https://xkcd.com//396) [下载](https://imgs.xkcd.com/comics/the_ring.png)
 
 
 
