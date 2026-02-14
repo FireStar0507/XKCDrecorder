@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Carbon Dating
-No.3205
-![图片不见了~~~](https://imgs.xkcd.com/comics/carbon_dating.png)
+### Installation
+No.3206
+![图片不见了~~~](https://imgs.xkcd.com/comics/installation.png)
 
-[原址](https://xkcd.com//3205) [下载](https://imgs.xkcd.com/comics/carbon_dating.png)
+[原址](https://xkcd.com//3206) [下载](https://imgs.xkcd.com/comics/installation.png)
 
 
 
 ## 随机漫画
-### DFS
-No.761
-![图片不见了~~~](https://imgs.xkcd.com/comics/dfs.png)
+### Suckville
+No.1008
+![图片不见了~~~](https://imgs.xkcd.com/comics/suckville.png)
 
-[原址](https://xkcd.com//761) [下载](https://imgs.xkcd.com/comics/dfs.png)
-
-
-
-### Philosophy
-No.220
-![图片不见了~~~](https://imgs.xkcd.com/comics/philosophy.png)
-
-[原址](https://xkcd.com//220) [下载](https://imgs.xkcd.com/comics/philosophy.png)
+[原址](https://xkcd.com//1008) [下载](https://imgs.xkcd.com/comics/suckville.png)
 
 
 
-### The Ring
-No.396
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_ring.png)
+### Trained a Neural Net
+No.2173
+![图片不见了~~~](https://imgs.xkcd.com/comics/trained_a_neural_net.png)
 
-[原址](https://xkcd.com//396) [下载](https://imgs.xkcd.com/comics/the_ring.png)
+[原址](https://xkcd.com//2173) [下载](https://imgs.xkcd.com/comics/trained_a_neural_net.png)
+
+
+
+### Familiar
+No.76
+![图片不见了~~~](https://imgs.xkcd.com/comics/familiar.jpg)
+
+[原址](https://xkcd.com//76) [下载](https://imgs.xkcd.com/comics/familiar.jpg)
 
 
 
