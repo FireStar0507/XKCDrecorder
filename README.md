@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Installation
-No.3206
-![图片不见了~~~](https://imgs.xkcd.com/comics/installation.png)
+### SNEWS
+No.3208
+![图片不见了~~~](https://imgs.xkcd.com/comics/snews.png)
 
-[原址](https://xkcd.com//3206) [下载](https://imgs.xkcd.com/comics/installation.png)
+[原址](https://xkcd.com//3208) [下载](https://imgs.xkcd.com/comics/snews.png)
 
 
 
 ## 随机漫画
-### Suckville
-No.1008
-![图片不见了~~~](https://imgs.xkcd.com/comics/suckville.png)
+### Combination Vision Test
+No.1213
+![图片不见了~~~](https://imgs.xkcd.com/comics/combination_vision_test.png)
 
-[原址](https://xkcd.com//1008) [下载](https://imgs.xkcd.com/comics/suckville.png)
-
-
-
-### Trained a Neural Net
-No.2173
-![图片不见了~~~](https://imgs.xkcd.com/comics/trained_a_neural_net.png)
-
-[原址](https://xkcd.com//2173) [下载](https://imgs.xkcd.com/comics/trained_a_neural_net.png)
+[原址](https://xkcd.com//1213) [下载](https://imgs.xkcd.com/comics/combination_vision_test.png)
 
 
 
-### Familiar
-No.76
-![图片不见了~~~](https://imgs.xkcd.com/comics/familiar.jpg)
+### Hurricane Names
+No.944
+![图片不见了~~~](https://imgs.xkcd.com/comics/hurricane_names.png)
 
-[原址](https://xkcd.com//76) [下载](https://imgs.xkcd.com/comics/familiar.jpg)
+[原址](https://xkcd.com//944) [下载](https://imgs.xkcd.com/comics/hurricane_names.png)
+
+
+
+### Orogeny
+No.3070
+![图片不见了~~~](https://imgs.xkcd.com/comics/orogeny.png)
+
+[原址](https://xkcd.com//3070) [下载](https://imgs.xkcd.com/comics/orogeny.png)
 
 
 
