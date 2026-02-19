@@ -16,27 +16,27 @@ No.3208
 
 
 ## 随机漫画
-### Combination Vision Test
-No.1213
-![图片不见了~~~](https://imgs.xkcd.com/comics/combination_vision_test.png)
+### Emoticon
+No.380
+![图片不见了~~~](https://imgs.xkcd.com/comics/emoticon.png)
 
-[原址](https://xkcd.com//1213) [下载](https://imgs.xkcd.com/comics/combination_vision_test.png)
-
-
-
-### Hurricane Names
-No.944
-![图片不见了~~~](https://imgs.xkcd.com/comics/hurricane_names.png)
-
-[原址](https://xkcd.com//944) [下载](https://imgs.xkcd.com/comics/hurricane_names.png)
+[原址](https://xkcd.com//380) [下载](https://imgs.xkcd.com/comics/emoticon.png)
 
 
 
-### Orogeny
-No.3070
-![图片不见了~~~](https://imgs.xkcd.com/comics/orogeny.png)
+### Voting Systems
+No.1844
+![图片不见了~~~](https://imgs.xkcd.com/comics/voting_systems.png)
 
-[原址](https://xkcd.com//3070) [下载](https://imgs.xkcd.com/comics/orogeny.png)
+[原址](https://xkcd.com//1844) [下载](https://imgs.xkcd.com/comics/voting_systems.png)
+
+
+
+### Serena Versus the Drones
+No.2190
+![图片不见了~~~](https://imgs.xkcd.com/comics/serena_versus_the_drones.png)
+
+[原址](https://xkcd.com//2190) [下载](https://imgs.xkcd.com/comics/serena_versus_the_drones.png)
 
 
 
