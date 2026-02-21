@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### SNEWS
-No.3208
-![图片不见了~~~](https://imgs.xkcd.com/comics/snews.png)
+### Eliminating the Impossible
+No.3210
+![图片不见了~~~](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
 
-[原址](https://xkcd.com//3208) [下载](https://imgs.xkcd.com/comics/snews.png)
+[原址](https://xkcd.com//3210) [下载](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
 
 
 
 ## 随机漫画
-### Emoticon
-No.380
-![图片不见了~~~](https://imgs.xkcd.com/comics/emoticon.png)
+### Emulation
+No.2221
+![图片不见了~~~](https://imgs.xkcd.com/comics/emulation.png)
 
-[原址](https://xkcd.com//380) [下载](https://imgs.xkcd.com/comics/emoticon.png)
-
-
-
-### Voting Systems
-No.1844
-![图片不见了~~~](https://imgs.xkcd.com/comics/voting_systems.png)
-
-[原址](https://xkcd.com//1844) [下载](https://imgs.xkcd.com/comics/voting_systems.png)
+[原址](https://xkcd.com//2221) [下载](https://imgs.xkcd.com/comics/emulation.png)
 
 
 
-### Serena Versus the Drones
-No.2190
-![图片不见了~~~](https://imgs.xkcd.com/comics/serena_versus_the_drones.png)
+### Open Source
+No.225
+![图片不见了~~~](https://imgs.xkcd.com/comics/open_source.png)
 
-[原址](https://xkcd.com//2190) [下载](https://imgs.xkcd.com/comics/serena_versus_the_drones.png)
+[原址](https://xkcd.com//225) [下载](https://imgs.xkcd.com/comics/open_source.png)
+
+
+
+### We Get It
+No.684
+![图片不见了~~~](https://imgs.xkcd.com/comics/we_get_it.png)
+
+[原址](https://xkcd.com//684) [下载](https://imgs.xkcd.com/comics/we_get_it.png)
 
 
 
