@@ -16,27 +16,27 @@ No.3210
 
 
 ## 随机漫画
-### Emulation
-No.2221
-![图片不见了~~~](https://imgs.xkcd.com/comics/emulation.png)
+### Computational Linguists
+No.114
+![图片不见了~~~](https://imgs.xkcd.com/comics/computational_linguists.png)
 
-[原址](https://xkcd.com//2221) [下载](https://imgs.xkcd.com/comics/emulation.png)
-
-
-
-### Open Source
-No.225
-![图片不见了~~~](https://imgs.xkcd.com/comics/open_source.png)
-
-[原址](https://xkcd.com//225) [下载](https://imgs.xkcd.com/comics/open_source.png)
+[原址](https://xkcd.com//114) [下载](https://imgs.xkcd.com/comics/computational_linguists.png)
 
 
 
-### We Get It
-No.684
-![图片不见了~~~](https://imgs.xkcd.com/comics/we_get_it.png)
+### Thread
+No.1893
+![图片不见了~~~](https://imgs.xkcd.com/comics/thread.png)
 
-[原址](https://xkcd.com//684) [下载](https://imgs.xkcd.com/comics/we_get_it.png)
+[原址](https://xkcd.com//1893) [下载](https://imgs.xkcd.com/comics/thread.png)
+
+
+
+### Turn-On
+No.474
+![图片不见了~~~](https://imgs.xkcd.com/comics/turn-on.png)
+
+[原址](https://xkcd.com//474) [下载](https://imgs.xkcd.com/comics/turn-on.png)
 
 
 
