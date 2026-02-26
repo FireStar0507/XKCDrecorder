@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Eliminating the Impossible
-No.3210
-![图片不见了~~~](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
+### Amperage
+No.3211
+![图片不见了~~~](https://imgs.xkcd.com/comics/amperage.png)
 
-[原址](https://xkcd.com//3210) [下载](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
+[原址](https://xkcd.com//3211) [下载](https://imgs.xkcd.com/comics/amperage.png)
 
 
 
 ## 随机漫画
-### Computational Linguists
-No.114
-![图片不见了~~~](https://imgs.xkcd.com/comics/computational_linguists.png)
+### My Business Idea
+No.827
+![图片不见了~~~](https://imgs.xkcd.com/comics/my_business_idea.png)
 
-[原址](https://xkcd.com//114) [下载](https://imgs.xkcd.com/comics/computational_linguists.png)
-
-
-
-### Thread
-No.1893
-![图片不见了~~~](https://imgs.xkcd.com/comics/thread.png)
-
-[原址](https://xkcd.com//1893) [下载](https://imgs.xkcd.com/comics/thread.png)
+[原址](https://xkcd.com//827) [下载](https://imgs.xkcd.com/comics/my_business_idea.png)
 
 
 
-### Turn-On
-No.474
-![图片不见了~~~](https://imgs.xkcd.com/comics/turn-on.png)
+### When I'm Back at a Keyboard
+No.2182
+![图片不见了~~~](https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png)
 
-[原址](https://xkcd.com//474) [下载](https://imgs.xkcd.com/comics/turn-on.png)
+[原址](https://xkcd.com//2182) [下载](https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png)
+
+
+
+### Monocaster
+No.2983
+![图片不见了~~~](https://imgs.xkcd.com/comics/monocaster.png)
+
+[原址](https://xkcd.com//2983) [下载](https://imgs.xkcd.com/comics/monocaster.png)
 
 
 
