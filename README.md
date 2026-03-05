@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Dental Formulas
-No.3213
-![图片不见了~~~](https://imgs.xkcd.com/comics/dental_formulas.png)
+### Solar Warning
+No.3215
+![图片不见了~~~](https://imgs.xkcd.com/comics/solar_warning.png)
 
-[原址](https://xkcd.com//3213) [下载](https://imgs.xkcd.com/comics/dental_formulas.png)
+[原址](https://xkcd.com//3215) [下载](https://imgs.xkcd.com/comics/solar_warning.png)
 
 
 
 ## 随机漫画
-### Umwelt
-No.1037
-![图片不见了~~~](https://imgs.xkcd.com/comics/reviews.png)
+### Stargazing 4
+No.3072
+![图片不见了~~~](https://imgs.xkcd.com/comics/stargazing_4.png)
 
-[原址](https://xkcd.com//1037) [下载](https://imgs.xkcd.com/comics/reviews.png)
-
-
-
-### My Business Idea
-No.827
-![图片不见了~~~](https://imgs.xkcd.com/comics/my_business_idea.png)
-
-[原址](https://xkcd.com//827) [下载](https://imgs.xkcd.com/comics/my_business_idea.png)
+[原址](https://xkcd.com//3072) [下载](https://imgs.xkcd.com/comics/stargazing_4.png)
 
 
 
-### Public Key
-No.1553
-![图片不见了~~~](https://imgs.xkcd.com/comics/public_key.png)
+### Asterisk Corrections
+No.2337
+![图片不见了~~~](https://imgs.xkcd.com/comics/asterisk_corrections.png)
 
-[原址](https://xkcd.com//1553) [下载](https://imgs.xkcd.com/comics/public_key.png)
+[原址](https://xkcd.com//2337) [下载](https://imgs.xkcd.com/comics/asterisk_corrections.png)
+
+
+
+### Code Quality 2
+No.1695
+![图片不见了~~~](https://imgs.xkcd.com/comics/code_quality_2.png)
+
+[原址](https://xkcd.com//1695) [下载](https://imgs.xkcd.com/comics/code_quality_2.png)
 
 
 
