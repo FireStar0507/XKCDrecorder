@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Solar Warning
-No.3215
-![图片不见了~~~](https://imgs.xkcd.com/comics/solar_warning.png)
+### Bazookasaurus
+No.3216
+![图片不见了~~~](https://imgs.xkcd.com/comics/bazookasaurus.png)
 
-[原址](https://xkcd.com//3215) [下载](https://imgs.xkcd.com/comics/solar_warning.png)
+[原址](https://xkcd.com//3216) [下载](https://imgs.xkcd.com/comics/bazookasaurus.png)
 
 
 
 ## 随机漫画
-### Stargazing 4
-No.3072
-![图片不见了~~~](https://imgs.xkcd.com/comics/stargazing_4.png)
+### One-Liners
+No.813
+![图片不见了~~~](https://imgs.xkcd.com/comics/one_liners.png)
 
-[原址](https://xkcd.com//3072) [下载](https://imgs.xkcd.com/comics/stargazing_4.png)
-
-
-
-### Asterisk Corrections
-No.2337
-![图片不见了~~~](https://imgs.xkcd.com/comics/asterisk_corrections.png)
-
-[原址](https://xkcd.com//2337) [下载](https://imgs.xkcd.com/comics/asterisk_corrections.png)
+[原址](https://xkcd.com//813) [下载](https://imgs.xkcd.com/comics/one_liners.png)
 
 
 
-### Code Quality 2
-No.1695
-![图片不见了~~~](https://imgs.xkcd.com/comics/code_quality_2.png)
+### What xkcd Means
+No.207
+![图片不见了~~~](https://imgs.xkcd.com/comics/what_xkcd_means.png)
 
-[原址](https://xkcd.com//1695) [下载](https://imgs.xkcd.com/comics/code_quality_2.png)
+[原址](https://xkcd.com//207) [下载](https://imgs.xkcd.com/comics/what_xkcd_means.png)
+
+
+
+### Tall Structures
+No.3058
+![图片不见了~~~](https://imgs.xkcd.com/comics/tall_structures.png)
+
+[原址](https://xkcd.com//3058) [下载](https://imgs.xkcd.com/comics/tall_structures.png)
 
 
 
