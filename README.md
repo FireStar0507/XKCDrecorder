@@ -16,27 +16,27 @@ No.3216
 
 
 ## 随机漫画
-### One-Liners
-No.813
-![图片不见了~~~](https://imgs.xkcd.com/comics/one_liners.png)
+### Guest Week: Zach Weiner (SMBC)
+No.826
+![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
 
-[原址](https://xkcd.com//813) [下载](https://imgs.xkcd.com/comics/one_liners.png)
-
-
-
-### What xkcd Means
-No.207
-![图片不见了~~~](https://imgs.xkcd.com/comics/what_xkcd_means.png)
-
-[原址](https://xkcd.com//207) [下载](https://imgs.xkcd.com/comics/what_xkcd_means.png)
+[原址](https://xkcd.com//826) [下载](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
 
 
 
-### Tall Structures
-No.3058
-![图片不见了~~~](https://imgs.xkcd.com/comics/tall_structures.png)
+### Emulation
+No.2221
+![图片不见了~~~](https://imgs.xkcd.com/comics/emulation.png)
 
-[原址](https://xkcd.com//3058) [下载](https://imgs.xkcd.com/comics/tall_structures.png)
+[原址](https://xkcd.com//2221) [下载](https://imgs.xkcd.com/comics/emulation.png)
+
+
+
+### Highlighting
+No.1271
+![图片不见了~~~](https://imgs.xkcd.com/comics/hilighting.png)
+
+[原址](https://xkcd.com//1271) [下载](https://imgs.xkcd.com/comics/hilighting.png)
 
 
 
