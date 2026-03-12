@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Bazookasaurus
-No.3216
-![图片不见了~~~](https://imgs.xkcd.com/comics/bazookasaurus.png)
+### Home Remedies
+No.3217
+![图片不见了~~~](https://imgs.xkcd.com/comics/home_remedies.png)
 
-[原址](https://xkcd.com//3216) [下载](https://imgs.xkcd.com/comics/bazookasaurus.png)
+[原址](https://xkcd.com//3217) [下载](https://imgs.xkcd.com/comics/home_remedies.png)
 
 
 
 ## 随机漫画
-### Guest Week: Zach Weiner (SMBC)
-No.826
-![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
+### Tween Bromance
+No.919
+![图片不见了~~~](https://imgs.xkcd.com/comics/tween_bromance.png)
 
-[原址](https://xkcd.com//826) [下载](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
-
-
-
-### Emulation
-No.2221
-![图片不见了~~~](https://imgs.xkcd.com/comics/emulation.png)
-
-[原址](https://xkcd.com//2221) [下载](https://imgs.xkcd.com/comics/emulation.png)
+[原址](https://xkcd.com//919) [下载](https://imgs.xkcd.com/comics/tween_bromance.png)
 
 
 
-### Highlighting
-No.1271
-![图片不见了~~~](https://imgs.xkcd.com/comics/hilighting.png)
+### Phone
+No.1802
+![图片不见了~~~](https://imgs.xkcd.com/comics/phone.png)
 
-[原址](https://xkcd.com//1271) [下载](https://imgs.xkcd.com/comics/hilighting.png)
+[原址](https://xkcd.com//1802) [下载](https://imgs.xkcd.com/comics/phone.png)
+
+
+
+### Donald Knuth
+No.163
+![图片不见了~~~](https://imgs.xkcd.com/comics/donald_knuth.png)
+
+[原址](https://xkcd.com//163) [下载](https://imgs.xkcd.com/comics/donald_knuth.png)
 
 
 
