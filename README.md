@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Home Remedies
-No.3217
-![图片不见了~~~](https://imgs.xkcd.com/comics/home_remedies.png)
+### Planets and Bright Stars
+No.3219
+![图片不见了~~~](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
 
-[原址](https://xkcd.com//3217) [下载](https://imgs.xkcd.com/comics/home_remedies.png)
+[原址](https://xkcd.com//3219) [下载](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
 
 
 
 ## 随机漫画
-### Tween Bromance
-No.919
-![图片不见了~~~](https://imgs.xkcd.com/comics/tween_bromance.png)
+### Parody Week: TFD and Natalie Dee
+No.143
+![图片不见了~~~](https://imgs.xkcd.com/comics/tfd_nataliedee.png)
 
-[原址](https://xkcd.com//919) [下载](https://imgs.xkcd.com/comics/tween_bromance.png)
-
-
-
-### Phone
-No.1802
-![图片不见了~~~](https://imgs.xkcd.com/comics/phone.png)
-
-[原址](https://xkcd.com//1802) [下载](https://imgs.xkcd.com/comics/phone.png)
+[原址](https://xkcd.com//143) [下载](https://imgs.xkcd.com/comics/tfd_nataliedee.png)
 
 
 
-### Donald Knuth
-No.163
-![图片不见了~~~](https://imgs.xkcd.com/comics/donald_knuth.png)
+### Snacktime Rules
+No.183
+![图片不见了~~~](https://imgs.xkcd.com/comics/snacktime_rules.png)
 
-[原址](https://xkcd.com//163) [下载](https://imgs.xkcd.com/comics/donald_knuth.png)
+[原址](https://xkcd.com//183) [下载](https://imgs.xkcd.com/comics/snacktime_rules.png)
+
+
+
+### Vaccine Research
+No.2515
+![图片不见了~~~](https://imgs.xkcd.com/comics/vaccine_research.png)
+
+[原址](https://xkcd.com//2515) [下载](https://imgs.xkcd.com/comics/vaccine_research.png)
 
 
 
