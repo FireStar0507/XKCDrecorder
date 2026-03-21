@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Landscape Features
-No.3221
-![图片不见了~~~](https://imgs.xkcd.com/comics/landscape_features.png)
+### Star Formation
+No.3222
+![图片不见了~~~](https://imgs.xkcd.com/comics/star_formation.png)
 
-[原址](https://xkcd.com//3221) [下载](https://imgs.xkcd.com/comics/landscape_features.png)
+[原址](https://xkcd.com//3222) [下载](https://imgs.xkcd.com/comics/star_formation.png)
 
 
 
 ## 随机漫画
-### Alien Mission
-No.2573
-![图片不见了~~~](https://imgs.xkcd.com/comics/alien_mission.png)
+### Picture a Grassy Field
+No.1582
+![图片不见了~~~](https://imgs.xkcd.com/comics/picture_a_grassy_field.png)
 
-[原址](https://xkcd.com//2573) [下载](https://imgs.xkcd.com/comics/alien_mission.png)
-
-
-
-### Digital Rights Management
-No.86
-![图片不见了~~~](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)
-
-[原址](https://xkcd.com//86) [下载](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)
+[原址](https://xkcd.com//1582) [下载](https://imgs.xkcd.com/comics/picture_a_grassy_field.png)
 
 
 
-### Plastic Bags
-No.990
-![图片不见了~~~](https://imgs.xkcd.com/comics/plastic_bags.png)
+### Banana Prices
+No.2892
+![图片不见了~~~](https://imgs.xkcd.com/comics/banana_prices.png)
 
-[原址](https://xkcd.com//990) [下载](https://imgs.xkcd.com/comics/plastic_bags.png)
+[原址](https://xkcd.com//2892) [下载](https://imgs.xkcd.com/comics/banana_prices.png)
+
+
+
+### Ancient Stars
+No.1342
+![图片不见了~~~](https://imgs.xkcd.com/comics/ancient_stars.png)
+
+[原址](https://xkcd.com//1342) [下载](https://imgs.xkcd.com/comics/ancient_stars.png)
 
 
 
