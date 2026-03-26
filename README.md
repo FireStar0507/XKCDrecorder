@@ -16,27 +16,27 @@ No.3223
 
 
 ## 随机漫画
-### Trade Expert
-No.727
-![图片不见了~~~](https://imgs.xkcd.com/comics/trade_expert.png)
+### Installation
+No.3206
+![图片不见了~~~](https://imgs.xkcd.com/comics/installation.png)
 
-[原址](https://xkcd.com//727) [下载](https://imgs.xkcd.com/comics/trade_expert.png)
-
-
-
-### Loud Sex
-No.316
-![图片不见了~~~](https://imgs.xkcd.com/comics/loud_sex.png)
-
-[原址](https://xkcd.com//316) [下载](https://imgs.xkcd.com/comics/loud_sex.png)
+[原址](https://xkcd.com//3206) [下载](https://imgs.xkcd.com/comics/installation.png)
 
 
 
-### Internet Archive
-No.2102
-![图片不见了~~~](https://imgs.xkcd.com/comics/internet_archive.png)
+### Mobius Battle
+No.381
+![图片不见了~~~](https://imgs.xkcd.com/comics/mobius_battle.png)
 
-[原址](https://xkcd.com//2102) [下载](https://imgs.xkcd.com/comics/internet_archive.png)
+[原址](https://xkcd.com//381) [下载](https://imgs.xkcd.com/comics/mobius_battle.png)
+
+
+
+### The Future of Orion
+No.3012
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_future_of_orion.png)
+
+[原址](https://xkcd.com//3012) [下载](https://imgs.xkcd.com/comics/the_future_of_orion.png)
 
 
 
