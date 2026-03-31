@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Satellite Pollution
-No.3225
-![图片不见了~~~](https://imgs.xkcd.com/comics/satellite_pollution.png)
+### Home Solar
+No.3226
+![图片不见了~~~](https://imgs.xkcd.com/comics/home_solar.png)
 
-[原址](https://xkcd.com//3225) [下载](https://imgs.xkcd.com/comics/satellite_pollution.png)
+[原址](https://xkcd.com//3226) [下载](https://imgs.xkcd.com/comics/home_solar.png)
 
 
 
 ## 随机漫画
-### Cicadas
-No.2263
-![图片不见了~~~](https://imgs.xkcd.com/comics/cicadas.png)
+### Bubble Wrap
+No.2458
+![图片不见了~~~](https://imgs.xkcd.com/comics/bubble_wrap.png)
 
-[原址](https://xkcd.com//2263) [下载](https://imgs.xkcd.com/comics/cicadas.png)
-
-
-
-### Drama
-No.592
-![图片不见了~~~](https://imgs.xkcd.com/comics/drama.png)
-
-[原址](https://xkcd.com//592) [下载](https://imgs.xkcd.com/comics/drama.png)
+[原址](https://xkcd.com//2458) [下载](https://imgs.xkcd.com/comics/bubble_wrap.png)
 
 
 
-### Drop Those Pounds
-No.1160
-![图片不见了~~~](https://imgs.xkcd.com/comics/drop_those_pounds.png)
+### Brakes
+No.582
+![图片不见了~~~](https://imgs.xkcd.com/comics/brakes.png)
 
-[原址](https://xkcd.com//1160) [下载](https://imgs.xkcd.com/comics/drop_those_pounds.png)
+[原址](https://xkcd.com//582) [下载](https://imgs.xkcd.com/comics/brakes.png)
+
+
+
+### Glass
+No.812
+![图片不见了~~~](https://imgs.xkcd.com/comics/glass.png)
+
+[原址](https://xkcd.com//812) [下载](https://imgs.xkcd.com/comics/glass.png)
 
 
 
