@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Overton
-No.3230
-![图片不见了~~~](https://imgs.xkcd.com/comics/overton.png)
+### Lightning
+No.3231
+![图片不见了~~~](https://imgs.xkcd.com/comics/lightning.png)
 
-[原址](https://xkcd.com//3230) [下载](https://imgs.xkcd.com/comics/overton.png)
+[原址](https://xkcd.com//3231) [下载](https://imgs.xkcd.com/comics/lightning.png)
 
 
 
 ## 随机漫画
-### Parody Week: Megatokyo
-No.142
-![图片不见了~~~](https://imgs.xkcd.com/comics/megaxkcd.png)
+### RNA
+No.3056
+![图片不见了~~~](https://imgs.xkcd.com/comics/rna.png)
 
-[原址](https://xkcd.com//142) [下载](https://imgs.xkcd.com/comics/megaxkcd.png)
-
-
-
-### When I'm Back at a Keyboard
-No.2182
-![图片不见了~~~](https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png)
-
-[原址](https://xkcd.com//2182) [下载](https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png)
+[原址](https://xkcd.com//3056) [下载](https://imgs.xkcd.com/comics/rna.png)
 
 
 
-### Horse
-No.1418
-![图片不见了~~~](https://imgs.xkcd.com/comics/horse.png)
+### Scientist Tech Help
+No.2341
+![图片不见了~~~](https://imgs.xkcd.com/comics/scientist_tech_help.png)
 
-[原址](https://xkcd.com//1418) [下载](https://imgs.xkcd.com/comics/horse.png)
+[原址](https://xkcd.com//2341) [下载](https://imgs.xkcd.com/comics/scientist_tech_help.png)
+
+
+
+### Party
+No.524
+![图片不见了~~~](https://imgs.xkcd.com/comics/party.png)
+
+[原址](https://xkcd.com//524) [下载](https://imgs.xkcd.com/comics/party.png)
 
 
 
