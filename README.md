@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Make It Myself
-No.3233
-![图片不见了~~~](https://imgs.xkcd.com/comics/make_it_myself.png)
+### Europa Missions
+No.3234
+![图片不见了~~~](https://imgs.xkcd.com/comics/europa_missions.png)
 
-[原址](https://xkcd.com//3233) [下载](https://imgs.xkcd.com/comics/make_it_myself.png)
+[原址](https://xkcd.com//3234) [下载](https://imgs.xkcd.com/comics/europa_missions.png)
 
 
 
 ## 随机漫画
-### Appendicitis
-No.2147
-![图片不见了~~~](https://imgs.xkcd.com/comics/appendicitis.png)
+### Every Seven Seconds
+No.1564
+![图片不见了~~~](https://imgs.xkcd.com/comics/every_seven_seconds.png)
 
-[原址](https://xkcd.com//2147) [下载](https://imgs.xkcd.com/comics/appendicitis.png)
-
-
-
-### Olympic Sports
-No.2964
-![图片不见了~~~](https://imgs.xkcd.com/comics/olympic_sports.png)
-
-[原址](https://xkcd.com//2964) [下载](https://imgs.xkcd.com/comics/olympic_sports.png)
+[原址](https://xkcd.com//1564) [下载](https://imgs.xkcd.com/comics/every_seven_seconds.png)
 
 
 
-### Old Days
-No.1755
-![图片不见了~~~](https://imgs.xkcd.com/comics/old_days.png)
+### Pinouts
+No.2317
+![图片不见了~~~](https://imgs.xkcd.com/comics/pinouts.png)
 
-[原址](https://xkcd.com//1755) [下载](https://imgs.xkcd.com/comics/old_days.png)
+[原址](https://xkcd.com//2317) [下载](https://imgs.xkcd.com/comics/pinouts.png)
+
+
+
+### USV-C
+No.2507
+![图片不见了~~~](https://imgs.xkcd.com/comics/usv_c.png)
+
+[原址](https://xkcd.com//2507) [下载](https://imgs.xkcd.com/comics/usv_c.png)
 
 
 
