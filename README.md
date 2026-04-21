@@ -16,27 +16,27 @@ No.3234
 
 
 ## 随机漫画
-### Every Seven Seconds
-No.1564
-![图片不见了~~~](https://imgs.xkcd.com/comics/every_seven_seconds.png)
+### Plums
+No.3209
+![图片不见了~~~](https://imgs.xkcd.com/comics/plums.png)
 
-[原址](https://xkcd.com//1564) [下载](https://imgs.xkcd.com/comics/every_seven_seconds.png)
-
-
-
-### Pinouts
-No.2317
-![图片不见了~~~](https://imgs.xkcd.com/comics/pinouts.png)
-
-[原址](https://xkcd.com//2317) [下载](https://imgs.xkcd.com/comics/pinouts.png)
+[原址](https://xkcd.com//3209) [下载](https://imgs.xkcd.com/comics/plums.png)
 
 
 
-### USV-C
-No.2507
-![图片不见了~~~](https://imgs.xkcd.com/comics/usv_c.png)
+### Guest Week: Bill Amend (FoxTrot)
+No.824
+![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png)
 
-[原址](https://xkcd.com//2507) [下载](https://imgs.xkcd.com/comics/usv_c.png)
+[原址](https://xkcd.com//824) [下载](https://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png)
+
+
+
+### Savannah Ancestry
+No.775
+![图片不见了~~~](https://imgs.xkcd.com/comics/savannah_ancestry.png)
+
+[原址](https://xkcd.com//775) [下载](https://imgs.xkcd.com/comics/savannah_ancestry.png)
 
 
 
