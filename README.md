@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Europa Missions
-No.3234
-![图片不见了~~~](https://imgs.xkcd.com/comics/europa_missions.png)
+### Border Message
+No.3236
+![图片不见了~~~](https://imgs.xkcd.com/comics/border_message.png)
 
-[原址](https://xkcd.com//3234) [下载](https://imgs.xkcd.com/comics/europa_missions.png)
+[原址](https://xkcd.com//3236) [下载](https://imgs.xkcd.com/comics/border_message.png)
 
 
 
 ## 随机漫画
-### Plums
-No.3209
-![图片不见了~~~](https://imgs.xkcd.com/comics/plums.png)
+### Border Message
+No.3236
+![图片不见了~~~](https://imgs.xkcd.com/comics/border_message.png)
 
-[原址](https://xkcd.com//3209) [下载](https://imgs.xkcd.com/comics/plums.png)
-
-
-
-### Guest Week: Bill Amend (FoxTrot)
-No.824
-![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png)
-
-[原址](https://xkcd.com//824) [下载](https://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png)
+[原址](https://xkcd.com//3236) [下载](https://imgs.xkcd.com/comics/border_message.png)
 
 
 
-### Savannah Ancestry
-No.775
-![图片不见了~~~](https://imgs.xkcd.com/comics/savannah_ancestry.png)
+### Interferometry
+No.1922
+![图片不见了~~~](https://imgs.xkcd.com/comics/interferometry.png)
 
-[原址](https://xkcd.com//775) [下载](https://imgs.xkcd.com/comics/savannah_ancestry.png)
+[原址](https://xkcd.com//1922) [下载](https://imgs.xkcd.com/comics/interferometry.png)
+
+
+
+### Planning
+No.1539
+![图片不见了~~~](https://imgs.xkcd.com/comics/planning.png)
+
+[原址](https://xkcd.com//1539) [下载](https://imgs.xkcd.com/comics/planning.png)
 
 
 
