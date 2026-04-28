@@ -16,27 +16,27 @@ No.3237
 
 
 ## 随机漫画
-### Newton's Trajectories
-No.2011
-![图片不见了~~~](https://imgs.xkcd.com/comics/newtons_trajectories.png)
+### Home Alone
+No.1164
+![图片不见了~~~](https://imgs.xkcd.com/comics/home_alone.png)
 
-[原址](https://xkcd.com//2011) [下载](https://imgs.xkcd.com/comics/newtons_trajectories.png)
-
-
-
-### Actually
-No.1318
-![图片不见了~~~](https://imgs.xkcd.com/comics/actually.png)
-
-[原址](https://xkcd.com//1318) [下载](https://imgs.xkcd.com/comics/actually.png)
+[原址](https://xkcd.com//1164) [下载](https://imgs.xkcd.com/comics/home_alone.png)
 
 
 
-### Black Holes vs Regular Holes
-No.2844
-![图片不见了~~~](https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png)
+### Weather Station
+No.2737
+![图片不见了~~~](https://imgs.xkcd.com/comics/weather_station.png)
 
-[原址](https://xkcd.com//2844) [下载](https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png)
+[原址](https://xkcd.com//2737) [下载](https://imgs.xkcd.com/comics/weather_station.png)
+
+
+
+### Laptop Hell
+No.533
+![图片不见了~~~](https://imgs.xkcd.com/comics/laptop_hell.png)
+
+[原址](https://xkcd.com//533) [下载](https://imgs.xkcd.com/comics/laptop_hell.png)
 
 
 
