@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Husband and Wife
-No.3237
-![图片不见了~~~](https://imgs.xkcd.com/comics/husband_and_wife.png)
+### Simple Machines
+No.3239
+![图片不见了~~~](https://imgs.xkcd.com/comics/simple_machines.png)
 
-[原址](https://xkcd.com//3237) [下载](https://imgs.xkcd.com/comics/husband_and_wife.png)
+[原址](https://xkcd.com//3239) [下载](https://imgs.xkcd.com/comics/simple_machines.png)
 
 
 
 ## 随机漫画
-### Home Alone
-No.1164
-![图片不见了~~~](https://imgs.xkcd.com/comics/home_alone.png)
+### Chat Systems
+No.1810
+![图片不见了~~~](https://imgs.xkcd.com/comics/chat_systems.png)
 
-[原址](https://xkcd.com//1164) [下载](https://imgs.xkcd.com/comics/home_alone.png)
-
-
-
-### Weather Station
-No.2737
-![图片不见了~~~](https://imgs.xkcd.com/comics/weather_station.png)
-
-[原址](https://xkcd.com//2737) [下载](https://imgs.xkcd.com/comics/weather_station.png)
+[原址](https://xkcd.com//1810) [下载](https://imgs.xkcd.com/comics/chat_systems.png)
 
 
 
-### Laptop Hell
-No.533
-![图片不见了~~~](https://imgs.xkcd.com/comics/laptop_hell.png)
+### Unicode
+No.1726
+![图片不见了~~~](https://imgs.xkcd.com/comics/unicode.png)
 
-[原址](https://xkcd.com//533) [下载](https://imgs.xkcd.com/comics/laptop_hell.png)
+[原址](https://xkcd.com//1726) [下载](https://imgs.xkcd.com/comics/unicode.png)
+
+
+
+### Guest Week: Zach Weiner (SMBC)
+No.826
+![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
+
+[原址](https://xkcd.com//826) [下载](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
 
 
 
