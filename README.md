@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Simple Machines
-No.3239
-![图片不见了~~~](https://imgs.xkcd.com/comics/simple_machines.png)
+### Bottle
+No.3240
+![图片不见了~~~](https://imgs.xkcd.com/comics/bottle.png)
 
-[原址](https://xkcd.com//3239) [下载](https://imgs.xkcd.com/comics/simple_machines.png)
+[原址](https://xkcd.com//3240) [下载](https://imgs.xkcd.com/comics/bottle.png)
 
 
 
 ## 随机漫画
-### Chat Systems
-No.1810
-![图片不见了~~~](https://imgs.xkcd.com/comics/chat_systems.png)
+### Edge Cake
+No.2549
+![图片不见了~~~](https://imgs.xkcd.com/comics/edge_cake.png)
 
-[原址](https://xkcd.com//1810) [下载](https://imgs.xkcd.com/comics/chat_systems.png)
-
-
-
-### Unicode
-No.1726
-![图片不见了~~~](https://imgs.xkcd.com/comics/unicode.png)
-
-[原址](https://xkcd.com//1726) [下载](https://imgs.xkcd.com/comics/unicode.png)
+[原址](https://xkcd.com//2549) [下载](https://imgs.xkcd.com/comics/edge_cake.png)
 
 
 
-### Guest Week: Zach Weiner (SMBC)
-No.826
-![图片不见了~~~](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
+### Moon Landing
+No.1074
+![图片不见了~~~](https://imgs.xkcd.com/comics/moon_landing.png)
 
-[原址](https://xkcd.com//826) [下载](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
+[原址](https://xkcd.com//1074) [下载](https://imgs.xkcd.com/comics/moon_landing.png)
+
+
+
+### Mail
+No.96
+![图片不见了~~~](https://imgs.xkcd.com/comics/mail.png)
+
+[原址](https://xkcd.com//96) [下载](https://imgs.xkcd.com/comics/mail.png)
 
 
 
