@@ -16,27 +16,27 @@ No.3240
 
 
 ## 随机漫画
-### Edge Cake
-No.2549
-![图片不见了~~~](https://imgs.xkcd.com/comics/edge_cake.png)
+### Screws
+No.1474
+![图片不见了~~~](https://imgs.xkcd.com/comics/screws.png)
 
-[原址](https://xkcd.com//2549) [下载](https://imgs.xkcd.com/comics/edge_cake.png)
-
-
-
-### Moon Landing
-No.1074
-![图片不见了~~~](https://imgs.xkcd.com/comics/moon_landing.png)
-
-[原址](https://xkcd.com//1074) [下载](https://imgs.xkcd.com/comics/moon_landing.png)
+[原址](https://xkcd.com//1474) [下载](https://imgs.xkcd.com/comics/screws.png)
 
 
 
-### Mail
-No.96
-![图片不见了~~~](https://imgs.xkcd.com/comics/mail.png)
+### Super Bowl
+No.1480
+![图片不见了~~~](https://imgs.xkcd.com/comics/super_bowl.png)
 
-[原址](https://xkcd.com//96) [下载](https://imgs.xkcd.com/comics/mail.png)
+[原址](https://xkcd.com//1480) [下载](https://imgs.xkcd.com/comics/super_bowl.png)
+
+
+
+### Range Safety
+No.2876
+![图片不见了~~~](https://imgs.xkcd.com/comics/range_safety.png)
+
+[原址](https://xkcd.com//2876) [下载](https://imgs.xkcd.com/comics/range_safety.png)
 
 
 
