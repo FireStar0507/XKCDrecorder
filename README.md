@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Bottle
-No.3240
-![图片不见了~~~](https://imgs.xkcd.com/comics/bottle.png)
+### Aperiodic Table
+No.3242
+![图片不见了~~~](https://imgs.xkcd.com/comics/aperiodic_table.png)
 
-[原址](https://xkcd.com//3240) [下载](https://imgs.xkcd.com/comics/bottle.png)
+[原址](https://xkcd.com//3242) [下载](https://imgs.xkcd.com/comics/aperiodic_table.png)
 
 
 
 ## 随机漫画
-### Screws
-No.1474
-![图片不见了~~~](https://imgs.xkcd.com/comics/screws.png)
+### Flow Charts
+No.518
+![图片不见了~~~](https://imgs.xkcd.com/comics/flow_charts.png)
 
-[原址](https://xkcd.com//1474) [下载](https://imgs.xkcd.com/comics/screws.png)
-
-
-
-### Super Bowl
-No.1480
-![图片不见了~~~](https://imgs.xkcd.com/comics/super_bowl.png)
-
-[原址](https://xkcd.com//1480) [下载](https://imgs.xkcd.com/comics/super_bowl.png)
+[原址](https://xkcd.com//518) [下载](https://imgs.xkcd.com/comics/flow_charts.png)
 
 
 
-### Range Safety
-No.2876
-![图片不见了~~~](https://imgs.xkcd.com/comics/range_safety.png)
+### Sunspot Cycle
+No.2725
+![图片不见了~~~](https://imgs.xkcd.com/comics/sunspot_cycle.png)
 
-[原址](https://xkcd.com//2876) [下载](https://imgs.xkcd.com/comics/range_safety.png)
+[原址](https://xkcd.com//2725) [下载](https://imgs.xkcd.com/comics/sunspot_cycle.png)
+
+
+
+### Five-Minute Comics: Part 3
+No.821
+![图片不见了~~~](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
+
+[原址](https://xkcd.com//821) [下载](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
 
 
 
