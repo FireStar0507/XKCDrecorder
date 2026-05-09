@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Aperiodic Table
-No.3242
-![图片不见了~~~](https://imgs.xkcd.com/comics/aperiodic_table.png)
+### Crystal Gazing
+No.3243
+![图片不见了~~~](https://imgs.xkcd.com/comics/crystal_gazing.png)
 
-[原址](https://xkcd.com//3242) [下载](https://imgs.xkcd.com/comics/aperiodic_table.png)
+[原址](https://xkcd.com//3243) [下载](https://imgs.xkcd.com/comics/crystal_gazing.png)
 
 
 
 ## 随机漫画
-### Flow Charts
-No.518
-![图片不见了~~~](https://imgs.xkcd.com/comics/flow_charts.png)
+### Moments of Inspiration
+No.1584
+![图片不见了~~~](https://imgs.xkcd.com/comics/moments_of_inspiration.png)
 
-[原址](https://xkcd.com//518) [下载](https://imgs.xkcd.com/comics/flow_charts.png)
-
-
-
-### Sunspot Cycle
-No.2725
-![图片不见了~~~](https://imgs.xkcd.com/comics/sunspot_cycle.png)
-
-[原址](https://xkcd.com//2725) [下载](https://imgs.xkcd.com/comics/sunspot_cycle.png)
+[原址](https://xkcd.com//1584) [下载](https://imgs.xkcd.com/comics/moments_of_inspiration.png)
 
 
 
-### Five-Minute Comics: Part 3
-No.821
-![图片不见了~~~](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
+### Formatting Meeting
+No.2562
+![图片不见了~~~](https://imgs.xkcd.com/comics/formatting_meeting.png)
 
-[原址](https://xkcd.com//821) [下载](https://imgs.xkcd.com/comics/five_minute_comics_part_3.png)
+[原址](https://xkcd.com//2562) [下载](https://imgs.xkcd.com/comics/formatting_meeting.png)
+
+
+
+### Hack
+No.1337
+![图片不见了~~~](https://imgs.xkcd.com/comics/hack.png)
+
+[原址](https://xkcd.com//1337) [下载](https://imgs.xkcd.com/comics/hack.png)
 
 
 
