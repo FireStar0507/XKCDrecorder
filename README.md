@@ -16,27 +16,27 @@ No.3243
 
 
 ## 随机漫画
-### Moments of Inspiration
-No.1584
-![图片不见了~~~](https://imgs.xkcd.com/comics/moments_of_inspiration.png)
+### Lasering Incidents
+No.3030
+![图片不见了~~~](https://imgs.xkcd.com/comics/lasering_incidents.png)
 
-[原址](https://xkcd.com//1584) [下载](https://imgs.xkcd.com/comics/moments_of_inspiration.png)
-
-
-
-### Formatting Meeting
-No.2562
-![图片不见了~~~](https://imgs.xkcd.com/comics/formatting_meeting.png)
-
-[原址](https://xkcd.com//2562) [下载](https://imgs.xkcd.com/comics/formatting_meeting.png)
+[原址](https://xkcd.com//3030) [下载](https://imgs.xkcd.com/comics/lasering_incidents.png)
 
 
 
-### Hack
-No.1337
-![图片不见了~~~](https://imgs.xkcd.com/comics/hack.png)
+### Geology
+No.1082
+![图片不见了~~~](https://imgs.xkcd.com/comics/geology.png)
 
-[原址](https://xkcd.com//1337) [下载](https://imgs.xkcd.com/comics/hack.png)
+[原址](https://xkcd.com//1082) [下载](https://imgs.xkcd.com/comics/geology.png)
+
+
+
+### Fatal Crash Rate
+No.1993
+![图片不见了~~~](https://imgs.xkcd.com/comics/fatal_crash_rate.png)
+
+[原址](https://xkcd.com//1993) [下载](https://imgs.xkcd.com/comics/fatal_crash_rate.png)
 
 
 
