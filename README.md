@@ -16,27 +16,27 @@ No.3247
 
 
 ## 随机漫画
-### Visual Field
-No.1080
-![图片不见了~~~](https://imgs.xkcd.com/comics/visual_field.png)
+### SafetySat
+No.1992
+![图片不见了~~~](https://imgs.xkcd.com/comics/safetysat.png)
 
-[原址](https://xkcd.com//1080) [下载](https://imgs.xkcd.com/comics/visual_field.png)
-
-
-
-### Field Topology
-No.2625
-![图片不见了~~~](https://imgs.xkcd.com/comics/field_topology.png)
-
-[原址](https://xkcd.com//2625) [下载](https://imgs.xkcd.com/comics/field_topology.png)
+[原址](https://xkcd.com//1992) [下载](https://imgs.xkcd.com/comics/safetysat.png)
 
 
 
-### Singularity
-No.1668
-![图片不见了~~~](https://imgs.xkcd.com/comics/singularity.png)
+### Size Venn Diagram
+No.2122
+![图片不见了~~~](https://imgs.xkcd.com/comics/size_venn_diagram.png)
 
-[原址](https://xkcd.com//1668) [下载](https://imgs.xkcd.com/comics/singularity.png)
+[原址](https://xkcd.com//2122) [下载](https://imgs.xkcd.com/comics/size_venn_diagram.png)
+
+
+
+### Linear Regression
+No.1725
+![图片不见了~~~](https://imgs.xkcd.com/comics/linear_regression.png)
+
+[原址](https://xkcd.com//1725) [下载](https://imgs.xkcd.com/comics/linear_regression.png)
 
 
 
