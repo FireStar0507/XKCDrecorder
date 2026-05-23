@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Particle Census
-No.3247
-![图片不见了~~~](https://imgs.xkcd.com/comics/particle_census.png)
+### Neutrino Project
+No.3249
+![图片不见了~~~](https://imgs.xkcd.com/comics/neutrino_project.png)
 
-[原址](https://xkcd.com//3247) [下载](https://imgs.xkcd.com/comics/particle_census.png)
+[原址](https://xkcd.com//3249) [下载](https://imgs.xkcd.com/comics/neutrino_project.png)
 
 
 
 ## 随机漫画
-### SafetySat
-No.1992
-![图片不见了~~~](https://imgs.xkcd.com/comics/safetysat.png)
+### Meeting
+No.1493
+![图片不见了~~~](https://imgs.xkcd.com/comics/meeting.png)
 
-[原址](https://xkcd.com//1992) [下载](https://imgs.xkcd.com/comics/safetysat.png)
-
-
-
-### Size Venn Diagram
-No.2122
-![图片不见了~~~](https://imgs.xkcd.com/comics/size_venn_diagram.png)
-
-[原址](https://xkcd.com//2122) [下载](https://imgs.xkcd.com/comics/size_venn_diagram.png)
+[原址](https://xkcd.com//1493) [下载](https://imgs.xkcd.com/comics/meeting.png)
 
 
 
-### Linear Regression
-No.1725
-![图片不见了~~~](https://imgs.xkcd.com/comics/linear_regression.png)
+### The Sun
+No.673
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_sun.png)
 
-[原址](https://xkcd.com//1725) [下载](https://imgs.xkcd.com/comics/linear_regression.png)
+[原址](https://xkcd.com//673) [下载](https://imgs.xkcd.com/comics/the_sun.png)
+
+
+
+### Battery Life
+No.2680
+![图片不见了~~~](https://imgs.xkcd.com/comics/battery_life.png)
+
+[原址](https://xkcd.com//2680) [下载](https://imgs.xkcd.com/comics/battery_life.png)
 
 
 
