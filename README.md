@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Ancestral Genomes
-No.3252
-![图片不见了~~~](https://imgs.xkcd.com/comics/ancestral_genomes.png)
+### Sunbeam
+No.3253
+![图片不见了~~~](https://imgs.xkcd.com/comics/sunbeam.png)
 
-[原址](https://xkcd.com//3252) [下载](https://imgs.xkcd.com/comics/ancestral_genomes.png)
+[原址](https://xkcd.com//3253) [下载](https://imgs.xkcd.com/comics/sunbeam.png)
 
 
 
 ## 随机漫画
-### Physics Lab Thermostat
-No.2989
-![图片不见了~~~](https://imgs.xkcd.com/comics/physics_lab_thermostat.png)
+### Valentine - Karnaugh
+No.62
+![图片不见了~~~](https://imgs.xkcd.com/comics/karnaugh.jpg)
 
-[原址](https://xkcd.com//2989) [下载](https://imgs.xkcd.com/comics/physics_lab_thermostat.png)
-
-
-
-### Game Night Ordering
-No.2716
-![图片不见了~~~](https://imgs.xkcd.com/comics/game_night_ordering.png)
-
-[原址](https://xkcd.com//2716) [下载](https://imgs.xkcd.com/comics/game_night_ordering.png)
+[原址](https://xkcd.com//62) [下载](https://imgs.xkcd.com/comics/karnaugh.jpg)
 
 
 
-### The Economic Argument
-No.808
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_economic_argument.png)
+### Vaccinated
+No.2460
+![图片不见了~~~](https://imgs.xkcd.com/comics/vaccinated.png)
 
-[原址](https://xkcd.com//808) [下载](https://imgs.xkcd.com/comics/the_economic_argument.png)
+[原址](https://xkcd.com//2460) [下载](https://imgs.xkcd.com/comics/vaccinated.png)
+
+
+
+### University Website
+No.773
+![图片不见了~~~](https://imgs.xkcd.com/comics/university_website.png)
+
+[原址](https://xkcd.com//773) [下载](https://imgs.xkcd.com/comics/university_website.png)
 
 
 
