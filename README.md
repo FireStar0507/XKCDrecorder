@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Sunbeam
-No.3253
-![图片不见了~~~](https://imgs.xkcd.com/comics/sunbeam.png)
+### Detector
+No.3254
+![图片不见了~~~](https://imgs.xkcd.com/comics/detector.png)
 
-[原址](https://xkcd.com//3253) [下载](https://imgs.xkcd.com/comics/sunbeam.png)
+[原址](https://xkcd.com//3254) [下载](https://imgs.xkcd.com/comics/detector.png)
 
 
 
 ## 随机漫画
-### Valentine - Karnaugh
-No.62
-![图片不见了~~~](https://imgs.xkcd.com/comics/karnaugh.jpg)
+### Chemicals
+No.2648
+![图片不见了~~~](https://imgs.xkcd.com/comics/chemicals.png)
 
-[原址](https://xkcd.com//62) [下载](https://imgs.xkcd.com/comics/karnaugh.jpg)
-
-
-
-### Vaccinated
-No.2460
-![图片不见了~~~](https://imgs.xkcd.com/comics/vaccinated.png)
-
-[原址](https://xkcd.com//2460) [下载](https://imgs.xkcd.com/comics/vaccinated.png)
+[原址](https://xkcd.com//2648) [下载](https://imgs.xkcd.com/comics/chemicals.png)
 
 
 
-### University Website
-No.773
-![图片不见了~~~](https://imgs.xkcd.com/comics/university_website.png)
+### Brightness
+No.1371
+![图片不见了~~~](https://imgs.xkcd.com/comics/brightness.png)
 
-[原址](https://xkcd.com//773) [下载](https://imgs.xkcd.com/comics/university_website.png)
+[原址](https://xkcd.com//1371) [下载](https://imgs.xkcd.com/comics/brightness.png)
+
+
+
+### Twitter
+No.491
+![图片不见了~~~](https://imgs.xkcd.com/comics/twitter.png)
+
+[原址](https://xkcd.com//491) [下载](https://imgs.xkcd.com/comics/twitter.png)
 
 
 
