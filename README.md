@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Detector
-No.3254
-![图片不见了~~~](https://imgs.xkcd.com/comics/detector.png)
+### Planetary Science
+No.3255
+![图片不见了~~~](https://imgs.xkcd.com/comics/planetary_science.png)
 
-[原址](https://xkcd.com//3254) [下载](https://imgs.xkcd.com/comics/detector.png)
+[原址](https://xkcd.com//3255) [下载](https://imgs.xkcd.com/comics/planetary_science.png)
 
 
 
 ## 随机漫画
-### Chemicals
-No.2648
-![图片不见了~~~](https://imgs.xkcd.com/comics/chemicals.png)
+### Things You Learn
+No.1775
+![图片不见了~~~](https://imgs.xkcd.com/comics/things_you_learn.png)
 
-[原址](https://xkcd.com//2648) [下载](https://imgs.xkcd.com/comics/chemicals.png)
-
-
-
-### Brightness
-No.1371
-![图片不见了~~~](https://imgs.xkcd.com/comics/brightness.png)
-
-[原址](https://xkcd.com//1371) [下载](https://imgs.xkcd.com/comics/brightness.png)
+[原址](https://xkcd.com//1775) [下载](https://imgs.xkcd.com/comics/things_you_learn.png)
 
 
 
-### Twitter
-No.491
-![图片不见了~~~](https://imgs.xkcd.com/comics/twitter.png)
+### Bad Map Projection: South America
+No.2256
+![图片不见了~~~](https://imgs.xkcd.com/comics/bad_map_projection_south_america.png)
 
-[原址](https://xkcd.com//491) [下载](https://imgs.xkcd.com/comics/twitter.png)
+[原址](https://xkcd.com//2256) [下载](https://imgs.xkcd.com/comics/bad_map_projection_south_america.png)
+
+
+
+### Bowl
+No.39
+![图片不见了~~~](https://imgs.xkcd.com/comics/bowl.jpg)
+
+[原址](https://xkcd.com//39) [下载](https://imgs.xkcd.com/comics/bowl.jpg)
 
 
 
