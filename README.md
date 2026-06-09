@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Planetary Science
-No.3255
-![图片不见了~~~](https://imgs.xkcd.com/comics/planetary_science.png)
+### Nostalgia Content
+No.3256
+![图片不见了~~~](https://imgs.xkcd.com/comics/nostalgia_content.png)
 
-[原址](https://xkcd.com//3255) [下载](https://imgs.xkcd.com/comics/planetary_science.png)
+[原址](https://xkcd.com//3256) [下载](https://imgs.xkcd.com/comics/nostalgia_content.png)
 
 
 
 ## 随机漫画
-### Things You Learn
-No.1775
-![图片不见了~~~](https://imgs.xkcd.com/comics/things_you_learn.png)
+### The Important Field
+No.970
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_important_field.png)
 
-[原址](https://xkcd.com//1775) [下载](https://imgs.xkcd.com/comics/things_you_learn.png)
-
-
-
-### Bad Map Projection: South America
-No.2256
-![图片不见了~~~](https://imgs.xkcd.com/comics/bad_map_projection_south_america.png)
-
-[原址](https://xkcd.com//2256) [下载](https://imgs.xkcd.com/comics/bad_map_projection_south_america.png)
+[原址](https://xkcd.com//970) [下载](https://imgs.xkcd.com/comics/the_important_field.png)
 
 
 
-### Bowl
-No.39
-![图片不见了~~~](https://imgs.xkcd.com/comics/bowl.jpg)
+### Suddenly Popular
+No.1413
+![图片不见了~~~](https://imgs.xkcd.com/comics/suddenly_popular.png)
 
-[原址](https://xkcd.com//39) [下载](https://imgs.xkcd.com/comics/bowl.jpg)
+[原址](https://xkcd.com//1413) [下载](https://imgs.xkcd.com/comics/suddenly_popular.png)
+
+
+
+### Spirit
+No.695
+![图片不见了~~~](https://imgs.xkcd.com/comics/spirit.png)
+
+[原址](https://xkcd.com//695) [下载](https://imgs.xkcd.com/comics/spirit.png)
 
 
 
