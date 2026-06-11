@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Nostalgia Content
-No.3256
-![图片不见了~~~](https://imgs.xkcd.com/comics/nostalgia_content.png)
+### Beam Pipe
+No.3257
+![图片不见了~~~](https://imgs.xkcd.com/comics/beam_pipe.png)
 
-[原址](https://xkcd.com//3256) [下载](https://imgs.xkcd.com/comics/nostalgia_content.png)
+[原址](https://xkcd.com//3257) [下载](https://imgs.xkcd.com/comics/beam_pipe.png)
 
 
 
 ## 随机漫画
-### The Important Field
-No.970
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_important_field.png)
+### Parody Week: TFD and Natalie Dee
+No.143
+![图片不见了~~~](https://imgs.xkcd.com/comics/tfd_nataliedee.png)
 
-[原址](https://xkcd.com//970) [下载](https://imgs.xkcd.com/comics/the_important_field.png)
-
-
-
-### Suddenly Popular
-No.1413
-![图片不见了~~~](https://imgs.xkcd.com/comics/suddenly_popular.png)
-
-[原址](https://xkcd.com//1413) [下载](https://imgs.xkcd.com/comics/suddenly_popular.png)
+[原址](https://xkcd.com//143) [下载](https://imgs.xkcd.com/comics/tfd_nataliedee.png)
 
 
 
-### Spirit
-No.695
-![图片不见了~~~](https://imgs.xkcd.com/comics/spirit.png)
+### Roman Numerals
+No.2637
+![图片不见了~~~](https://imgs.xkcd.com/comics/roman_numerals.png)
 
-[原址](https://xkcd.com//695) [下载](https://imgs.xkcd.com/comics/spirit.png)
+[原址](https://xkcd.com//2637) [下载](https://imgs.xkcd.com/comics/roman_numerals.png)
+
+
+
+### Gold
+No.2826
+![图片不见了~~~](https://imgs.xkcd.com/comics/gold.png)
+
+[原址](https://xkcd.com//2826) [下载](https://imgs.xkcd.com/comics/gold.png)
 
 
 
