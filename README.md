@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Plate Flip
-No.3258
-![图片不见了~~~](https://imgs.xkcd.com/comics/plate_flip.png)
+### Tethys
+No.3259
+![图片不见了~~~](https://imgs.xkcd.com/comics/tethys.png)
 
-[原址](https://xkcd.com//3258) [下载](https://imgs.xkcd.com/comics/plate_flip.png)
+[原址](https://xkcd.com//3259) [下载](https://imgs.xkcd.com/comics/tethys.png)
 
 
 
 ## 随机漫画
-### Chess Position
-No.3082
-![图片不见了~~~](https://imgs.xkcd.com/comics/chess_position.png)
+### Pointers
+No.138
+![图片不见了~~~](https://imgs.xkcd.com/comics/pointers.png)
 
-[原址](https://xkcd.com//3082) [下载](https://imgs.xkcd.com/comics/chess_position.png)
-
-
-
-### The Sun
-No.673
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_sun.png)
-
-[原址](https://xkcd.com//673) [下载](https://imgs.xkcd.com/comics/the_sun.png)
+[原址](https://xkcd.com//138) [下载](https://imgs.xkcd.com/comics/pointers.png)
 
 
 
-### Egg Strategies
-No.2408
-![图片不见了~~~](https://imgs.xkcd.com/comics/egg_strategies.png)
+### UI vs UX
+No.2141
+![图片不见了~~~](https://imgs.xkcd.com/comics/ui_vs_ux.png)
 
-[原址](https://xkcd.com//2408) [下载](https://imgs.xkcd.com/comics/egg_strategies.png)
+[原址](https://xkcd.com//2141) [下载](https://imgs.xkcd.com/comics/ui_vs_ux.png)
+
+
+
+### Emoji Sports
+No.1920
+![图片不见了~~~](https://imgs.xkcd.com/comics/emoji_sports.png)
+
+[原址](https://xkcd.com//1920) [下载](https://imgs.xkcd.com/comics/emoji_sports.png)
 
 
 
