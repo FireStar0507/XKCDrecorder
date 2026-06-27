@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Sports Commentary
-No.3262
-![图片不见了~~~](https://imgs.xkcd.com/comics/sports_commentary.png)
+### Baryon Asymmetry
+No.3263
+![图片不见了~~~](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
 
-[原址](https://xkcd.com//3262) [下载](https://imgs.xkcd.com/comics/sports_commentary.png)
+[原址](https://xkcd.com//3263) [下载](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
 
 
 
 ## 随机漫画
-### Outdated Periodic Table
-No.2723
-![图片不见了~~~](https://imgs.xkcd.com/comics/outdated_periodic_table.png)
+### Back to the Future
+No.102
+![图片不见了~~~](https://imgs.xkcd.com/comics/back_to_the_future.jpg)
 
-[原址](https://xkcd.com//2723) [下载](https://imgs.xkcd.com/comics/outdated_periodic_table.png)
-
-
-
-### Magnetic Pole
-No.2098
-![图片不见了~~~](https://imgs.xkcd.com/comics/magnetic_pole.png)
-
-[原址](https://xkcd.com//2098) [下载](https://imgs.xkcd.com/comics/magnetic_pole.png)
+[原址](https://xkcd.com//102) [下载](https://imgs.xkcd.com/comics/back_to_the_future.jpg)
 
 
 
-### Sitting in a Tree
-No.2919
-![图片不见了~~~](https://imgs.xkcd.com/comics/sitting_in_a_tree.png)
+### Supported Features
+No.619
+![图片不见了~~~](https://imgs.xkcd.com/comics/supported_features.png)
 
-[原址](https://xkcd.com//2919) [下载](https://imgs.xkcd.com/comics/sitting_in_a_tree.png)
+[原址](https://xkcd.com//619) [下载](https://imgs.xkcd.com/comics/supported_features.png)
+
+
+
+### Twitter
+No.491
+![图片不见了~~~](https://imgs.xkcd.com/comics/twitter.png)
+
+[原址](https://xkcd.com//491) [下载](https://imgs.xkcd.com/comics/twitter.png)
 
 
 
