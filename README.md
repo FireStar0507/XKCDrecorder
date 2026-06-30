@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Baryon Asymmetry
-No.3263
-![图片不见了~~~](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
+### Asteroid Threat
+No.3265
+![图片不见了~~~](https://imgs.xkcd.com/comics/asteroid_threat.png)
 
-[原址](https://xkcd.com//3263) [下载](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
+[原址](https://xkcd.com//3265) [下载](https://imgs.xkcd.com/comics/asteroid_threat.png)
 
 
 
 ## 随机漫画
-### Back to the Future
-No.102
-![图片不见了~~~](https://imgs.xkcd.com/comics/back_to_the_future.jpg)
+### Archaea
+No.3095
+![图片不见了~~~](https://imgs.xkcd.com/comics/archaea.png)
 
-[原址](https://xkcd.com//102) [下载](https://imgs.xkcd.com/comics/back_to_the_future.jpg)
-
-
-
-### Supported Features
-No.619
-![图片不见了~~~](https://imgs.xkcd.com/comics/supported_features.png)
-
-[原址](https://xkcd.com//619) [下载](https://imgs.xkcd.com/comics/supported_features.png)
+[原址](https://xkcd.com//3095) [下载](https://imgs.xkcd.com/comics/archaea.png)
 
 
 
-### Twitter
-No.491
-![图片不见了~~~](https://imgs.xkcd.com/comics/twitter.png)
+### You Hang Up First
+No.698
+![图片不见了~~~](https://imgs.xkcd.com/comics/you_hang_up_first.png)
 
-[原址](https://xkcd.com//491) [下载](https://imgs.xkcd.com/comics/twitter.png)
+[原址](https://xkcd.com//698) [下载](https://imgs.xkcd.com/comics/you_hang_up_first.png)
+
+
+
+### Manuals
+No.1343
+![图片不见了~~~](https://imgs.xkcd.com/comics/manuals.png)
+
+[原址](https://xkcd.com//1343) [下载](https://imgs.xkcd.com/comics/manuals.png)
 
 
 
