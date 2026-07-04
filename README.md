@@ -16,27 +16,27 @@ No.3266
 
 
 ## 随机漫画
-### *@gmail.com
-No.2822
-![图片不见了~~~](https://imgs.xkcd.com/comics/gmail_com.png)
+### Wait Wait
+No.997
+![图片不见了~~~](https://imgs.xkcd.com/comics/wait_wait.png)
 
-[原址](https://xkcd.com//2822) [下载](https://imgs.xkcd.com/comics/gmail_com.png)
-
-
-
-### Cutest-Sounding Scientific Effects
-No.2611
-![图片不见了~~~](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)
-
-[原址](https://xkcd.com//2611) [下载](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)
+[原址](https://xkcd.com//997) [下载](https://imgs.xkcd.com/comics/wait_wait.png)
 
 
 
-### Geologist
-No.1198
-![图片不见了~~~](https://imgs.xkcd.com/comics/geologist.png)
+### Form
+No.608
+![图片不见了~~~](https://imgs.xkcd.com/comics/form.png)
 
-[原址](https://xkcd.com//1198) [下载](https://imgs.xkcd.com/comics/geologist.png)
+[原址](https://xkcd.com//608) [下载](https://imgs.xkcd.com/comics/form.png)
+
+
+
+### Tag Combination
+No.575
+![图片不见了~~~](https://imgs.xkcd.com/comics/tag_combination.png)
+
+[原址](https://xkcd.com//575) [下载](https://imgs.xkcd.com/comics/tag_combination.png)
 
 
 
