@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Holes
-No.3266
-![图片不见了~~~](https://imgs.xkcd.com/comics/holes.png)
+### Offside
+No.3268
+![图片不见了~~~](https://imgs.xkcd.com/comics/offside.png)
 
-[原址](https://xkcd.com//3266) [下载](https://imgs.xkcd.com/comics/holes.png)
+[原址](https://xkcd.com//3268) [下载](https://imgs.xkcd.com/comics/offside.png)
 
 
 
 ## 随机漫画
-### Wait Wait
-No.997
-![图片不见了~~~](https://imgs.xkcd.com/comics/wait_wait.png)
+### Creation
+No.3227
+![图片不见了~~~](https://imgs.xkcd.com/comics/creation.png)
 
-[原址](https://xkcd.com//997) [下载](https://imgs.xkcd.com/comics/wait_wait.png)
-
-
-
-### Form
-No.608
-![图片不见了~~~](https://imgs.xkcd.com/comics/form.png)
-
-[原址](https://xkcd.com//608) [下载](https://imgs.xkcd.com/comics/form.png)
+[原址](https://xkcd.com//3227) [下载](https://imgs.xkcd.com/comics/creation.png)
 
 
 
-### Tag Combination
-No.575
-![图片不见了~~~](https://imgs.xkcd.com/comics/tag_combination.png)
+### Lane Change Highway
+No.2728
+![图片不见了~~~](https://imgs.xkcd.com/comics/lane_change_highway.png)
 
-[原址](https://xkcd.com//575) [下载](https://imgs.xkcd.com/comics/tag_combination.png)
+[原址](https://xkcd.com//2728) [下载](https://imgs.xkcd.com/comics/lane_change_highway.png)
+
+
+
+### Wavefunction Collapse
+No.3134
+![图片不见了~~~](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
+
+[原址](https://xkcd.com//3134) [下载](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
 
 
 
