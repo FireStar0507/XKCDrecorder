@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Offside
-No.3268
-![图片不见了~~~](https://imgs.xkcd.com/comics/offside.png)
+### Airport Meeting
+No.3269
+![图片不见了~~~](https://imgs.xkcd.com/comics/airport_meeting.png)
 
-[原址](https://xkcd.com//3268) [下载](https://imgs.xkcd.com/comics/offside.png)
+[原址](https://xkcd.com//3269) [下载](https://imgs.xkcd.com/comics/airport_meeting.png)
 
 
 
 ## 随机漫画
-### Creation
-No.3227
-![图片不见了~~~](https://imgs.xkcd.com/comics/creation.png)
+### Color Pattern
+No.1814
+![图片不见了~~~](https://imgs.xkcd.com/comics/color_pattern.png)
 
-[原址](https://xkcd.com//3227) [下载](https://imgs.xkcd.com/comics/creation.png)
-
-
-
-### Lane Change Highway
-No.2728
-![图片不见了~~~](https://imgs.xkcd.com/comics/lane_change_highway.png)
-
-[原址](https://xkcd.com//2728) [下载](https://imgs.xkcd.com/comics/lane_change_highway.png)
+[原址](https://xkcd.com//1814) [下载](https://imgs.xkcd.com/comics/color_pattern.png)
 
 
 
-### Wavefunction Collapse
-No.3134
-![图片不见了~~~](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
+### Calendar of Meaningful Dates
+No.1140
+![图片不见了~~~](https://imgs.xkcd.com/comics/calendar_of_meaningful_dates.png)
 
-[原址](https://xkcd.com//3134) [下载](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
+[原址](https://xkcd.com//1140) [下载](https://imgs.xkcd.com/comics/calendar_of_meaningful_dates.png)
+
+
+
+### The Ring
+No.396
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_ring.png)
+
+[原址](https://xkcd.com//396) [下载](https://imgs.xkcd.com/comics/the_ring.png)
 
 
 
