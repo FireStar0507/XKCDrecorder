@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Time Change
-No.3272
-![图片不见了~~~](https://imgs.xkcd.com/comics/time_change.png)
+### Latitude and Longitude
+No.3273
+![图片不见了~~~](https://imgs.xkcd.com/comics/latitude_and_longitude.png)
 
-[原址](https://xkcd.com//3272) [下载](https://imgs.xkcd.com/comics/time_change.png)
+[原址](https://xkcd.com//3273) [下载](https://imgs.xkcd.com/comics/latitude_and_longitude.png)
 
 
 
 ## 随机漫画
-### Light Pollution
-No.2121
-![图片不见了~~~](https://imgs.xkcd.com/comics/light_pollution.png)
+### Adjectives
+No.798
+![图片不见了~~~](https://imgs.xkcd.com/comics/adjectives.png)
 
-[原址](https://xkcd.com//2121) [下载](https://imgs.xkcd.com/comics/light_pollution.png)
-
-
-
-### Fan Theories
-No.2683
-![图片不见了~~~](https://imgs.xkcd.com/comics/fan_theories.png)
-
-[原址](https://xkcd.com//2683) [下载](https://imgs.xkcd.com/comics/fan_theories.png)
+[原址](https://xkcd.com//798) [下载](https://imgs.xkcd.com/comics/adjectives.png)
 
 
 
-### Python Environment
-No.1987
-![图片不见了~~~](https://imgs.xkcd.com/comics/python_environment.png)
+### Wings
+No.620
+![图片不见了~~~](https://imgs.xkcd.com/comics/wings.png)
 
-[原址](https://xkcd.com//1987) [下载](https://imgs.xkcd.com/comics/python_environment.png)
+[原址](https://xkcd.com//620) [下载](https://imgs.xkcd.com/comics/wings.png)
+
+
+
+### Circuit Symbols
+No.2818
+![图片不见了~~~](https://imgs.xkcd.com/comics/circuit_symbols.png)
+
+[原址](https://xkcd.com//2818) [下载](https://imgs.xkcd.com/comics/circuit_symbols.png)
 
 
 
