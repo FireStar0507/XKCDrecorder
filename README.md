@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Latitude and Longitude
-No.3273
-![图片不见了~~~](https://imgs.xkcd.com/comics/latitude_and_longitude.png)
+### Arthurian Connector
+No.3274
+![图片不见了~~~](https://imgs.xkcd.com/comics/arthurian_connector.png)
 
-[原址](https://xkcd.com//3273) [下载](https://imgs.xkcd.com/comics/latitude_and_longitude.png)
+[原址](https://xkcd.com//3274) [下载](https://imgs.xkcd.com/comics/arthurian_connector.png)
 
 
 
 ## 随机漫画
-### Adjectives
-No.798
-![图片不见了~~~](https://imgs.xkcd.com/comics/adjectives.png)
+### Bazookasaurus
+No.3216
+![图片不见了~~~](https://imgs.xkcd.com/comics/bazookasaurus.png)
 
-[原址](https://xkcd.com//798) [下载](https://imgs.xkcd.com/comics/adjectives.png)
-
-
-
-### Wings
-No.620
-![图片不见了~~~](https://imgs.xkcd.com/comics/wings.png)
-
-[原址](https://xkcd.com//620) [下载](https://imgs.xkcd.com/comics/wings.png)
+[原址](https://xkcd.com//3216) [下载](https://imgs.xkcd.com/comics/bazookasaurus.png)
 
 
 
-### Circuit Symbols
-No.2818
-![图片不见了~~~](https://imgs.xkcd.com/comics/circuit_symbols.png)
+### Shake That
+No.1261
+![图片不见了~~~](https://imgs.xkcd.com/comics/shake_that.png)
 
-[原址](https://xkcd.com//2818) [下载](https://imgs.xkcd.com/comics/circuit_symbols.png)
+[原址](https://xkcd.com//1261) [下载](https://imgs.xkcd.com/comics/shake_that.png)
+
+
+
+### Sweet 16
+No.1819
+![图片不见了~~~](https://imgs.xkcd.com/comics/sweet_16.png)
+
+[原址](https://xkcd.com//1819) [下载](https://imgs.xkcd.com/comics/sweet_16.png)
 
 
 
