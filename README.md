@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Arthurian Connector
-No.3274
-![图片不见了~~~](https://imgs.xkcd.com/comics/arthurian_connector.png)
+### Calibration Nobel
+No.3275
+![图片不见了~~~](https://imgs.xkcd.com/comics/calibration_nobel.png)
 
-[原址](https://xkcd.com//3274) [下载](https://imgs.xkcd.com/comics/arthurian_connector.png)
+[原址](https://xkcd.com//3275) [下载](https://imgs.xkcd.com/comics/calibration_nobel.png)
 
 
 
 ## 随机漫画
-### Bazookasaurus
-No.3216
-![图片不见了~~~](https://imgs.xkcd.com/comics/bazookasaurus.png)
+### Pie Charts
+No.2031
+![图片不见了~~~](https://imgs.xkcd.com/comics/pie_charts.png)
 
-[原址](https://xkcd.com//3216) [下载](https://imgs.xkcd.com/comics/bazookasaurus.png)
-
-
-
-### Shake That
-No.1261
-![图片不见了~~~](https://imgs.xkcd.com/comics/shake_that.png)
-
-[原址](https://xkcd.com//1261) [下载](https://imgs.xkcd.com/comics/shake_that.png)
+[原址](https://xkcd.com//2031) [下载](https://imgs.xkcd.com/comics/pie_charts.png)
 
 
 
-### Sweet 16
-No.1819
-![图片不见了~~~](https://imgs.xkcd.com/comics/sweet_16.png)
+### Slides
+No.365
+![图片不见了~~~](https://imgs.xkcd.com/comics/slides.png)
 
-[原址](https://xkcd.com//1819) [下载](https://imgs.xkcd.com/comics/sweet_16.png)
+[原址](https://xkcd.com//365) [下载](https://imgs.xkcd.com/comics/slides.png)
+
+
+
+### Presents for Biologists
+No.2747
+![图片不见了~~~](https://imgs.xkcd.com/comics/presents_for_biologists.png)
+
+[原址](https://xkcd.com//2747) [下载](https://imgs.xkcd.com/comics/presents_for_biologists.png)
 
 
 
