@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Calibration Nobel
-No.3275
-![图片不见了~~~](https://imgs.xkcd.com/comics/calibration_nobel.png)
+### Recursive Trucker's Hitch
+No.3276
+![图片不见了~~~](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)
 
-[原址](https://xkcd.com//3275) [下载](https://imgs.xkcd.com/comics/calibration_nobel.png)
+[原址](https://xkcd.com//3276) [下载](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)
 
 
 
 ## 随机漫画
-### Pie Charts
-No.2031
-![图片不见了~~~](https://imgs.xkcd.com/comics/pie_charts.png)
+### Customer Rewards
+No.2006
+![图片不见了~~~](https://imgs.xkcd.com/comics/customer_rewards.png)
 
-[原址](https://xkcd.com//2031) [下载](https://imgs.xkcd.com/comics/pie_charts.png)
-
-
-
-### Slides
-No.365
-![图片不见了~~~](https://imgs.xkcd.com/comics/slides.png)
-
-[原址](https://xkcd.com//365) [下载](https://imgs.xkcd.com/comics/slides.png)
+[原址](https://xkcd.com//2006) [下载](https://imgs.xkcd.com/comics/customer_rewards.png)
 
 
 
-### Presents for Biologists
-No.2747
-![图片不见了~~~](https://imgs.xkcd.com/comics/presents_for_biologists.png)
+### Conjunction
+No.2401
+![图片不见了~~~](https://imgs.xkcd.com/comics/conjunction.png)
 
-[原址](https://xkcd.com//2747) [下载](https://imgs.xkcd.com/comics/presents_for_biologists.png)
+[原址](https://xkcd.com//2401) [下载](https://imgs.xkcd.com/comics/conjunction.png)
+
+
+
+### Perseverance Microphones
+No.2427
+![图片不见了~~~](https://imgs.xkcd.com/comics/perseverance_microphones.png)
+
+[原址](https://xkcd.com//2427) [下载](https://imgs.xkcd.com/comics/perseverance_microphones.png)
 
 
 
