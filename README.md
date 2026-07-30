@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Forth
-No.3277
-![图片不见了~~~](https://imgs.xkcd.com/comics/forth.png)
+### Vera Rubin Observatory
+No.3278
+![图片不见了~~~](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
 
-[原址](https://xkcd.com//3277) [下载](https://imgs.xkcd.com/comics/forth.png)
+[原址](https://xkcd.com//3278) [下载](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
 
 
 
 ## 随机漫画
-### Iambic Pentameter
-No.79
-![图片不见了~~~](https://imgs.xkcd.com/comics/iambic_pentameter.jpg)
+### Timeline of the Universe
+No.2240
+![图片不见了~~~](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
 
-[原址](https://xkcd.com//79) [下载](https://imgs.xkcd.com/comics/iambic_pentameter.jpg)
-
-
-
-### Christmas GPS
-No.201
-![图片不见了~~~](https://imgs.xkcd.com/comics/christmas_gps.png)
-
-[原址](https://xkcd.com//201) [下载](https://imgs.xkcd.com/comics/christmas_gps.png)
+[原址](https://xkcd.com//2240) [下载](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
 
 
 
-### Rotary Tool
-No.3047
-![图片不见了~~~](https://imgs.xkcd.com/comics/rotary_tool.png)
+### Coronavirus Name
+No.2275
+![图片不见了~~~](https://imgs.xkcd.com/comics/coronavirus_name.png)
 
-[原址](https://xkcd.com//3047) [下载](https://imgs.xkcd.com/comics/rotary_tool.png)
+[原址](https://xkcd.com//2275) [下载](https://imgs.xkcd.com/comics/coronavirus_name.png)
+
+
+
+### Map of the Internet
+No.195
+![图片不见了~~~](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)
+
+[原址](https://xkcd.com//195) [下载](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)
 
 
 
