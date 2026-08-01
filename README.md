@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Vera Rubin Observatory
-No.3278
-![图片不见了~~~](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
+### Main Span
+No.3279
+![图片不见了~~~](https://imgs.xkcd.com/comics/main_span.png)
 
-[原址](https://xkcd.com//3278) [下载](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
+[原址](https://xkcd.com//3279) [下载](https://imgs.xkcd.com/comics/main_span.png)
 
 
 
 ## 随机漫画
-### Timeline of the Universe
-No.2240
-![图片不见了~~~](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
+### Google Maps
+No.461
+![图片不见了~~~](https://imgs.xkcd.com/comics/google_maps.png)
 
-[原址](https://xkcd.com//2240) [下载](https://imgs.xkcd.com/comics/timeline_of_the_universe.png)
-
-
-
-### Coronavirus Name
-No.2275
-![图片不见了~~~](https://imgs.xkcd.com/comics/coronavirus_name.png)
-
-[原址](https://xkcd.com//2275) [下载](https://imgs.xkcd.com/comics/coronavirus_name.png)
+[原址](https://xkcd.com//461) [下载](https://imgs.xkcd.com/comics/google_maps.png)
 
 
 
-### Map of the Internet
-No.195
-![图片不见了~~~](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)
+### Online Communities 2
+No.802
+![图片不见了~~~](https://imgs.xkcd.com/comics/online_communities_2.png)
 
-[原址](https://xkcd.com//195) [下载](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)
+[原址](https://xkcd.com//802) [下载](https://imgs.xkcd.com/comics/online_communities_2.png)
+
+
+
+### High Altitude Cooking Instructions
+No.3187
+![图片不见了~~~](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
+
+[原址](https://xkcd.com//3187) [下载](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
 
 
 
