@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Archery Feat
-No.3288
-![图片不见了~~~](https://imgs.xkcd.com/comics/archery_feat.png)
+### Trade
+No.3290
+![图片不见了~~~](https://imgs.xkcd.com/comics/trade.png)
 
-[原址](https://xkcd.com//3288) [下载](https://imgs.xkcd.com/comics/archery_feat.png)
+[原址](https://xkcd.com//3290) [下载](https://imgs.xkcd.com/comics/trade.png)
 
 
 
 ## 随机漫画
-### The Economic Argument
-No.808
-![图片不见了~~~](https://imgs.xkcd.com/comics/the_economic_argument.png)
+### Techno
+No.411
+![图片不见了~~~](https://imgs.xkcd.com/comics/techno.png)
 
-[原址](https://xkcd.com//808) [下载](https://imgs.xkcd.com/comics/the_economic_argument.png)
-
-
-
-### Pirate Bay
-No.553
-![图片不见了~~~](https://imgs.xkcd.com/comics/pirate_bay.png)
-
-[原址](https://xkcd.com//553) [下载](https://imgs.xkcd.com/comics/pirate_bay.png)
+[原址](https://xkcd.com//411) [下载](https://imgs.xkcd.com/comics/techno.png)
 
 
 
-### Depth
-No.485
-![图片不见了~~~](https://imgs.xkcd.com/comics/depth.png)
+### Flow Charts
+No.518
+![图片不见了~~~](https://imgs.xkcd.com/comics/flow_charts.png)
 
-[原址](https://xkcd.com//485) [下载](https://imgs.xkcd.com/comics/depth.png)
+[原址](https://xkcd.com//518) [下载](https://imgs.xkcd.com/comics/flow_charts.png)
+
+
+
+### Vacuum
+No.1486
+![图片不见了~~~](https://imgs.xkcd.com/comics/vacuum.png)
+
+[原址](https://xkcd.com//1486) [下载](https://imgs.xkcd.com/comics/vacuum.png)
 
 
 
