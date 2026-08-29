@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Trade
-No.3290
-![图片不见了~~~](https://imgs.xkcd.com/comics/trade.png)
+### Launchpad
+No.3291
+![图片不见了~~~](https://imgs.xkcd.com/comics/launchpad.png)
 
-[原址](https://xkcd.com//3290) [下载](https://imgs.xkcd.com/comics/trade.png)
+[原址](https://xkcd.com//3291) [下载](https://imgs.xkcd.com/comics/launchpad.png)
 
 
 
 ## 随机漫画
-### Techno
-No.411
-![图片不见了~~~](https://imgs.xkcd.com/comics/techno.png)
+### Fire Ants
+No.1610
+![图片不见了~~~](https://imgs.xkcd.com/comics/fire_ants.png)
 
-[原址](https://xkcd.com//411) [下载](https://imgs.xkcd.com/comics/techno.png)
-
-
-
-### Flow Charts
-No.518
-![图片不见了~~~](https://imgs.xkcd.com/comics/flow_charts.png)
-
-[原址](https://xkcd.com//518) [下载](https://imgs.xkcd.com/comics/flow_charts.png)
+[原址](https://xkcd.com//1610) [下载](https://imgs.xkcd.com/comics/fire_ants.png)
 
 
 
-### Vacuum
-No.1486
-![图片不见了~~~](https://imgs.xkcd.com/comics/vacuum.png)
+### Family Decals
+No.946
+![图片不见了~~~](https://imgs.xkcd.com/comics/family_decals.png)
 
-[原址](https://xkcd.com//1486) [下载](https://imgs.xkcd.com/comics/vacuum.png)
+[原址](https://xkcd.com//946) [下载](https://imgs.xkcd.com/comics/family_decals.png)
+
+
+
+### Ruling Out
+No.2783
+![图片不见了~~~](https://imgs.xkcd.com/comics/ruling_out.png)
+
+[原址](https://xkcd.com//2783) [下载](https://imgs.xkcd.com/comics/ruling_out.png)
 
 
 
