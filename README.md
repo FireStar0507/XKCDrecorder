@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Launchpad
-No.3291
-![图片不见了~~~](https://imgs.xkcd.com/comics/launchpad.png)
+### Geology Class
+No.3292
+![图片不见了~~~](https://imgs.xkcd.com/comics/geology_class.png)
 
-[原址](https://xkcd.com//3291) [下载](https://imgs.xkcd.com/comics/launchpad.png)
+[原址](https://xkcd.com//3292) [下载](https://imgs.xkcd.com/comics/geology_class.png)
 
 
 
 ## 随机漫画
-### Fire Ants
-No.1610
-![图片不见了~~~](https://imgs.xkcd.com/comics/fire_ants.png)
+### Document Forgery
+No.3160
+![图片不见了~~~](https://imgs.xkcd.com/comics/document_forgery.png)
 
-[原址](https://xkcd.com//1610) [下载](https://imgs.xkcd.com/comics/fire_ants.png)
-
-
-
-### Family Decals
-No.946
-![图片不见了~~~](https://imgs.xkcd.com/comics/family_decals.png)
-
-[原址](https://xkcd.com//946) [下载](https://imgs.xkcd.com/comics/family_decals.png)
+[原址](https://xkcd.com//3160) [下载](https://imgs.xkcd.com/comics/document_forgery.png)
 
 
 
-### Ruling Out
-No.2783
-![图片不见了~~~](https://imgs.xkcd.com/comics/ruling_out.png)
+### Orion Nebula
+No.1020
+![图片不见了~~~](https://imgs.xkcd.com/comics/orion_nebula.png)
 
-[原址](https://xkcd.com//2783) [下载](https://imgs.xkcd.com/comics/ruling_out.png)
+[原址](https://xkcd.com//1020) [下载](https://imgs.xkcd.com/comics/orion_nebula.png)
+
+
+
+### Virtual Assistant
+No.1931
+![图片不见了~~~](https://imgs.xkcd.com/comics/virtual_assistant.png)
+
+[原址](https://xkcd.com//1931) [下载](https://imgs.xkcd.com/comics/virtual_assistant.png)
 
 
 
