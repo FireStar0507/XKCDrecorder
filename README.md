@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Geology Class
-No.3292
-![图片不见了~~~](https://imgs.xkcd.com/comics/geology_class.png)
+### Handedness
+No.3293
+![图片不见了~~~](https://imgs.xkcd.com/comics/handedness.png)
 
-[原址](https://xkcd.com//3292) [下载](https://imgs.xkcd.com/comics/geology_class.png)
+[原址](https://xkcd.com//3293) [下载](https://imgs.xkcd.com/comics/handedness.png)
 
 
 
 ## 随机漫画
-### Document Forgery
-No.3160
-![图片不见了~~~](https://imgs.xkcd.com/comics/document_forgery.png)
+### Making Hash Browns
+No.421
+![图片不见了~~~](https://imgs.xkcd.com/comics/making_hash_browns.png)
 
-[原址](https://xkcd.com//3160) [下载](https://imgs.xkcd.com/comics/document_forgery.png)
-
-
-
-### Orion Nebula
-No.1020
-![图片不见了~~~](https://imgs.xkcd.com/comics/orion_nebula.png)
-
-[原址](https://xkcd.com//1020) [下载](https://imgs.xkcd.com/comics/orion_nebula.png)
+[原址](https://xkcd.com//421) [下载](https://imgs.xkcd.com/comics/making_hash_browns.png)
 
 
 
-### Virtual Assistant
-No.1931
-![图片不见了~~~](https://imgs.xkcd.com/comics/virtual_assistant.png)
+### Genetic Algorithms
+No.534
+![图片不见了~~~](https://imgs.xkcd.com/comics/genetic_algorithms.png)
 
-[原址](https://xkcd.com//1931) [下载](https://imgs.xkcd.com/comics/virtual_assistant.png)
+[原址](https://xkcd.com//534) [下载](https://imgs.xkcd.com/comics/genetic_algorithms.png)
+
+
+
+### Message Boards
+No.2363
+![图片不见了~~~](https://imgs.xkcd.com/comics/message_boards.png)
+
+[原址](https://xkcd.com//2363) [下载](https://imgs.xkcd.com/comics/message_boards.png)
 
 
 
