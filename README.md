@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Handedness
-No.3293
-![图片不见了~~~](https://imgs.xkcd.com/comics/handedness.png)
+### Asteroid Mission
+No.3294
+![图片不见了~~~](https://imgs.xkcd.com/comics/asteroid_mission.png)
 
-[原址](https://xkcd.com//3293) [下载](https://imgs.xkcd.com/comics/handedness.png)
+[原址](https://xkcd.com//3294) [下载](https://imgs.xkcd.com/comics/asteroid_mission.png)
 
 
 
 ## 随机漫画
-### Making Hash Browns
-No.421
-![图片不见了~~~](https://imgs.xkcd.com/comics/making_hash_browns.png)
+### Lego
+No.659
+![图片不见了~~~](https://imgs.xkcd.com/comics/lego.png)
 
-[原址](https://xkcd.com//421) [下载](https://imgs.xkcd.com/comics/making_hash_browns.png)
-
-
-
-### Genetic Algorithms
-No.534
-![图片不见了~~~](https://imgs.xkcd.com/comics/genetic_algorithms.png)
-
-[原址](https://xkcd.com//534) [下载](https://imgs.xkcd.com/comics/genetic_algorithms.png)
+[原址](https://xkcd.com//659) [下载](https://imgs.xkcd.com/comics/lego.png)
 
 
 
-### Message Boards
-No.2363
-![图片不见了~~~](https://imgs.xkcd.com/comics/message_boards.png)
+### Universal Dreams
+No.1943
+![图片不见了~~~](https://imgs.xkcd.com/comics/universal_dreams.png)
 
-[原址](https://xkcd.com//2363) [下载](https://imgs.xkcd.com/comics/message_boards.png)
+[原址](https://xkcd.com//1943) [下载](https://imgs.xkcd.com/comics/universal_dreams.png)
+
+
+
+### Weather Radar
+No.831
+![图片不见了~~~](https://imgs.xkcd.com/comics/weather_radar.png)
+
+[原址](https://xkcd.com//831) [下载](https://imgs.xkcd.com/comics/weather_radar.png)
 
 
 
