@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Asteroid Mission
-No.3294
-![图片不见了~~~](https://imgs.xkcd.com/comics/asteroid_mission.png)
+### Semaphore
+No.3295
+![图片不见了~~~](https://imgs.xkcd.com/comics/semaphore.png)
 
-[原址](https://xkcd.com//3294) [下载](https://imgs.xkcd.com/comics/asteroid_mission.png)
+[原址](https://xkcd.com//3295) [下载](https://imgs.xkcd.com/comics/semaphore.png)
 
 
 
 ## 随机漫画
-### Lego
-No.659
-![图片不见了~~~](https://imgs.xkcd.com/comics/lego.png)
+### Progeny
+No.894
+![图片不见了~~~](https://imgs.xkcd.com/comics/progeny.png)
 
-[原址](https://xkcd.com//659) [下载](https://imgs.xkcd.com/comics/lego.png)
-
-
-
-### Universal Dreams
-No.1943
-![图片不见了~~~](https://imgs.xkcd.com/comics/universal_dreams.png)
-
-[原址](https://xkcd.com//1943) [下载](https://imgs.xkcd.com/comics/universal_dreams.png)
+[原址](https://xkcd.com//894) [下载](https://imgs.xkcd.com/comics/progeny.png)
 
 
 
-### Weather Radar
-No.831
-![图片不见了~~~](https://imgs.xkcd.com/comics/weather_radar.png)
+### Bun
+No.1682
+![图片不见了~~~](https://imgs.xkcd.com/comics/bun.png)
 
-[原址](https://xkcd.com//831) [下载](https://imgs.xkcd.com/comics/weather_radar.png)
+[原址](https://xkcd.com//1682) [下载](https://imgs.xkcd.com/comics/bun.png)
+
+
+
+### Reduce Your Payments
+No.1426
+![图片不见了~~~](https://imgs.xkcd.com/comics/reduce_your_payments.png)
+
+[原址](https://xkcd.com//1426) [下载](https://imgs.xkcd.com/comics/reduce_your_payments.png)
 
 
 
