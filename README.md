@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Semaphore
-No.3295
-![图片不见了~~~](https://imgs.xkcd.com/comics/semaphore.png)
+### Fault Taunting
+No.3296
+![图片不见了~~~](https://imgs.xkcd.com/comics/fault_taunting.png)
 
-[原址](https://xkcd.com//3295) [下载](https://imgs.xkcd.com/comics/semaphore.png)
+[原址](https://xkcd.com//3296) [下载](https://imgs.xkcd.com/comics/fault_taunting.png)
 
 
 
 ## 随机漫画
-### Progeny
-No.894
-![图片不见了~~~](https://imgs.xkcd.com/comics/progeny.png)
+### Standard Model Changes
+No.2351
+![图片不见了~~~](https://imgs.xkcd.com/comics/standard_model_changes.png)
 
-[原址](https://xkcd.com//894) [下载](https://imgs.xkcd.com/comics/progeny.png)
-
-
-
-### Bun
-No.1682
-![图片不见了~~~](https://imgs.xkcd.com/comics/bun.png)
-
-[原址](https://xkcd.com//1682) [下载](https://imgs.xkcd.com/comics/bun.png)
+[原址](https://xkcd.com//2351) [下载](https://imgs.xkcd.com/comics/standard_model_changes.png)
 
 
 
-### Reduce Your Payments
-No.1426
-![图片不见了~~~](https://imgs.xkcd.com/comics/reduce_your_payments.png)
+### Nightmare Code
+No.2485
+![图片不见了~~~](https://imgs.xkcd.com/comics/nightmare_code.png)
 
-[原址](https://xkcd.com//1426) [下载](https://imgs.xkcd.com/comics/reduce_your_payments.png)
+[原址](https://xkcd.com//2485) [下载](https://imgs.xkcd.com/comics/nightmare_code.png)
+
+
+
+### Frustration
+No.457
+![图片不见了~~~](https://imgs.xkcd.com/comics/frustration.png)
+
+[原址](https://xkcd.com//457) [下载](https://imgs.xkcd.com/comics/frustration.png)
 
 
 
