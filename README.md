@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Fault Taunting
-No.3296
-![图片不见了~~~](https://imgs.xkcd.com/comics/fault_taunting.png)
+### OH Scale
+No.3297
+![图片不见了~~~](https://imgs.xkcd.com/comics/oh_scale.png)
 
-[原址](https://xkcd.com//3296) [下载](https://imgs.xkcd.com/comics/fault_taunting.png)
+[原址](https://xkcd.com//3297) [下载](https://imgs.xkcd.com/comics/oh_scale.png)
 
 
 
 ## 随机漫画
-### Standard Model Changes
-No.2351
-![图片不见了~~~](https://imgs.xkcd.com/comics/standard_model_changes.png)
+### Fixing Problems
+No.1739
+![图片不见了~~~](https://imgs.xkcd.com/comics/fixing_problems.png)
 
-[原址](https://xkcd.com//2351) [下载](https://imgs.xkcd.com/comics/standard_model_changes.png)
-
-
-
-### Nightmare Code
-No.2485
-![图片不见了~~~](https://imgs.xkcd.com/comics/nightmare_code.png)
-
-[原址](https://xkcd.com//2485) [下载](https://imgs.xkcd.com/comics/nightmare_code.png)
+[原址](https://xkcd.com//1739) [下载](https://imgs.xkcd.com/comics/fixing_problems.png)
 
 
 
-### Frustration
-No.457
-![图片不见了~~~](https://imgs.xkcd.com/comics/frustration.png)
+### Computer Problems
+No.722
+![图片不见了~~~](https://imgs.xkcd.com/comics/computer_problems.png)
 
-[原址](https://xkcd.com//457) [下载](https://imgs.xkcd.com/comics/frustration.png)
+[原址](https://xkcd.com//722) [下载](https://imgs.xkcd.com/comics/computer_problems.png)
+
+
+
+### Flash Gatsby
+No.2405
+![图片不见了~~~](https://imgs.xkcd.com/comics/flash_gatsby.png)
+
+[原址](https://xkcd.com//2405) [下载](https://imgs.xkcd.com/comics/flash_gatsby.png)
 
 
 
