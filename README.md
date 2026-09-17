@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Aerospace Flowchart
-No.3298
-![图片不见了~~~](https://imgs.xkcd.com/comics/aerospace_flowchart.png)
+### Summer
+No.3299
+![图片不见了~~~](https://imgs.xkcd.com/comics/summer.png)
 
-[原址](https://xkcd.com//3298) [下载](https://imgs.xkcd.com/comics/aerospace_flowchart.png)
+[原址](https://xkcd.com//3299) [下载](https://imgs.xkcd.com/comics/summer.png)
 
 
 
 ## 随机漫画
-### Laser Scope
-No.101
-![图片不见了~~~](https://imgs.xkcd.com/comics/laser_scope.jpg)
+### Boyfriend
+No.539
+![图片不见了~~~](https://imgs.xkcd.com/comics/boyfriend.png)
 
-[原址](https://xkcd.com//101) [下载](https://imgs.xkcd.com/comics/laser_scope.jpg)
-
-
-
-### Desert Island
-No.731
-![图片不见了~~~](https://imgs.xkcd.com/comics/desert_island.png)
-
-[原址](https://xkcd.com//731) [下载](https://imgs.xkcd.com/comics/desert_island.png)
+[原址](https://xkcd.com//539) [下载](https://imgs.xkcd.com/comics/boyfriend.png)
 
 
 
-### President Venn Diagram
-No.2962
-![图片不见了~~~](https://imgs.xkcd.com/comics/president_venn_diagram.png)
+### Scantron
+No.499
+![图片不见了~~~](https://imgs.xkcd.com/comics/scantron.png)
 
-[原址](https://xkcd.com//2962) [下载](https://imgs.xkcd.com/comics/president_venn_diagram.png)
+[原址](https://xkcd.com//499) [下载](https://imgs.xkcd.com/comics/scantron.png)
+
+
+
+### Captain Picard Tea Order
+No.2570
+![图片不见了~~~](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
+
+[原址](https://xkcd.com//2570) [下载](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
 
 
 
