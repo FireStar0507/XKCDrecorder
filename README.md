@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Summer
-No.3299
-![图片不见了~~~](https://imgs.xkcd.com/comics/summer.png)
+### Tyrannosaurus
+No.3300
+![图片不见了~~~](https://imgs.xkcd.com/comics/tyrannosaurus.png)
 
-[原址](https://xkcd.com//3299) [下载](https://imgs.xkcd.com/comics/summer.png)
+[原址](https://xkcd.com//3300) [下载](https://imgs.xkcd.com/comics/tyrannosaurus.png)
 
 
 
 ## 随机漫画
-### Boyfriend
-No.539
-![图片不见了~~~](https://imgs.xkcd.com/comics/boyfriend.png)
+### Parody Week: A Softer World
+No.144
+![图片不见了~~~](https://imgs.xkcd.com/comics/a_softer_robot.jpg)
 
-[原址](https://xkcd.com//539) [下载](https://imgs.xkcd.com/comics/boyfriend.png)
-
-
-
-### Scantron
-No.499
-![图片不见了~~~](https://imgs.xkcd.com/comics/scantron.png)
-
-[原址](https://xkcd.com//499) [下载](https://imgs.xkcd.com/comics/scantron.png)
+[原址](https://xkcd.com//144) [下载](https://imgs.xkcd.com/comics/a_softer_robot.jpg)
 
 
 
-### Captain Picard Tea Order
-No.2570
-![图片不见了~~~](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
+### Building a Fire
+No.3114
+![图片不见了~~~](https://imgs.xkcd.com/comics/building_a_fire.png)
 
-[原址](https://xkcd.com//2570) [下载](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)
+[原址](https://xkcd.com//3114) [下载](https://imgs.xkcd.com/comics/building_a_fire.png)
+
+
+
+### Significant
+No.882
+![图片不见了~~~](https://imgs.xkcd.com/comics/significant.png)
+
+[原址](https://xkcd.com//882) [下载](https://imgs.xkcd.com/comics/significant.png)
 
 
 
