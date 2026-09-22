@@ -16,27 +16,27 @@ No.3300
 
 
 ## 随机漫画
-### Parody Week: A Softer World
-No.144
-![图片不见了~~~](https://imgs.xkcd.com/comics/a_softer_robot.jpg)
+### Goldbach Conjectures
+No.1310
+![图片不见了~~~](https://imgs.xkcd.com/comics/goldbach_conjectures.png)
 
-[原址](https://xkcd.com//144) [下载](https://imgs.xkcd.com/comics/a_softer_robot.jpg)
-
-
-
-### Building a Fire
-No.3114
-![图片不见了~~~](https://imgs.xkcd.com/comics/building_a_fire.png)
-
-[原址](https://xkcd.com//3114) [下载](https://imgs.xkcd.com/comics/building_a_fire.png)
+[原址](https://xkcd.com//1310) [下载](https://imgs.xkcd.com/comics/goldbach_conjectures.png)
 
 
 
-### Significant
-No.882
-![图片不见了~~~](https://imgs.xkcd.com/comics/significant.png)
+### Orogeny
+No.3070
+![图片不见了~~~](https://imgs.xkcd.com/comics/orogeny.png)
 
-[原址](https://xkcd.com//882) [下载](https://imgs.xkcd.com/comics/significant.png)
+[原址](https://xkcd.com//3070) [下载](https://imgs.xkcd.com/comics/orogeny.png)
+
+
+
+### Fever
+No.2877
+![图片不见了~~~](https://imgs.xkcd.com/comics/fever.png)
+
+[原址](https://xkcd.com//2877) [下载](https://imgs.xkcd.com/comics/fever.png)
 
 
 
