@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Tyrannosaurus
-No.3300
-![图片不见了~~~](https://imgs.xkcd.com/comics/tyrannosaurus.png)
+### Voyager Instruments
+No.3302
+![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_instruments.png)
 
-[原址](https://xkcd.com//3300) [下载](https://imgs.xkcd.com/comics/tyrannosaurus.png)
+[原址](https://xkcd.com//3302) [下载](https://imgs.xkcd.com/comics/voyager_instruments.png)
 
 
 
 ## 随机漫画
-### Goldbach Conjectures
-No.1310
-![图片不见了~~~](https://imgs.xkcd.com/comics/goldbach_conjectures.png)
+### Congress
+No.1127
+![图片不见了~~~](https://imgs.xkcd.com/comics/congress.png)
 
-[原址](https://xkcd.com//1310) [下载](https://imgs.xkcd.com/comics/goldbach_conjectures.png)
-
-
-
-### Orogeny
-No.3070
-![图片不见了~~~](https://imgs.xkcd.com/comics/orogeny.png)
-
-[原址](https://xkcd.com//3070) [下载](https://imgs.xkcd.com/comics/orogeny.png)
+[原址](https://xkcd.com//1127) [下载](https://imgs.xkcd.com/comics/congress.png)
 
 
 
-### Fever
-No.2877
-![图片不见了~~~](https://imgs.xkcd.com/comics/fever.png)
+### Window Screen
+No.3151
+![图片不见了~~~](https://imgs.xkcd.com/comics/window_screen.png)
 
-[原址](https://xkcd.com//2877) [下载](https://imgs.xkcd.com/comics/fever.png)
+[原址](https://xkcd.com//3151) [下载](https://imgs.xkcd.com/comics/window_screen.png)
+
+
+
+### Push Notifications
+No.3074
+![图片不见了~~~](https://imgs.xkcd.com/comics/push_notifications.png)
+
+[原址](https://xkcd.com//3074) [下载](https://imgs.xkcd.com/comics/push_notifications.png)
 
 
 
