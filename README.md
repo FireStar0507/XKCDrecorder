@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Voyager Instruments
-No.3302
-![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_instruments.png)
+### Slab Graveyard
+No.3303
+![图片不见了~~~](https://imgs.xkcd.com/comics/slab_graveyard.png)
 
-[原址](https://xkcd.com//3302) [下载](https://imgs.xkcd.com/comics/voyager_instruments.png)
+[原址](https://xkcd.com//3303) [下载](https://imgs.xkcd.com/comics/slab_graveyard.png)
 
 
 
 ## 随机漫画
-### Congress
-No.1127
-![图片不见了~~~](https://imgs.xkcd.com/comics/congress.png)
+### Moon Armor Index
+No.2908
+![图片不见了~~~](https://imgs.xkcd.com/comics/moon_armor_index.png)
 
-[原址](https://xkcd.com//1127) [下载](https://imgs.xkcd.com/comics/congress.png)
-
-
-
-### Window Screen
-No.3151
-![图片不见了~~~](https://imgs.xkcd.com/comics/window_screen.png)
-
-[原址](https://xkcd.com//3151) [下载](https://imgs.xkcd.com/comics/window_screen.png)
+[原址](https://xkcd.com//2908) [下载](https://imgs.xkcd.com/comics/moon_armor_index.png)
 
 
 
-### Push Notifications
-No.3074
-![图片不见了~~~](https://imgs.xkcd.com/comics/push_notifications.png)
+### Tradition
+No.988
+![图片不见了~~~](https://imgs.xkcd.com/comics/tradition.png)
 
-[原址](https://xkcd.com//3074) [下载](https://imgs.xkcd.com/comics/push_notifications.png)
+[原址](https://xkcd.com//988) [下载](https://imgs.xkcd.com/comics/tradition.png)
+
+
+
+### Nerd Girls
+No.67
+![图片不见了~~~](https://imgs.xkcd.com/comics/nerd_girls.jpg)
+
+[原址](https://xkcd.com//67) [下载](https://imgs.xkcd.com/comics/nerd_girls.jpg)
 
 
 
