@@ -16,27 +16,27 @@ No.3303
 
 
 ## 随机漫画
-### Moon Armor Index
-No.2908
-![图片不见了~~~](https://imgs.xkcd.com/comics/moon_armor_index.png)
+### Turnabout
+No.1441
+![图片不见了~~~](https://imgs.xkcd.com/comics/turnabout.png)
 
-[原址](https://xkcd.com//2908) [下载](https://imgs.xkcd.com/comics/moon_armor_index.png)
-
-
-
-### Tradition
-No.988
-![图片不见了~~~](https://imgs.xkcd.com/comics/tradition.png)
-
-[原址](https://xkcd.com//988) [下载](https://imgs.xkcd.com/comics/tradition.png)
+[原址](https://xkcd.com//1441) [下载](https://imgs.xkcd.com/comics/turnabout.png)
 
 
 
-### Nerd Girls
-No.67
-![图片不见了~~~](https://imgs.xkcd.com/comics/nerd_girls.jpg)
+### Effect an Effect
+No.326
+![图片不见了~~~](https://imgs.xkcd.com/comics/effect_an_effect.png)
 
-[原址](https://xkcd.com//67) [下载](https://imgs.xkcd.com/comics/nerd_girls.jpg)
+[原址](https://xkcd.com//326) [下载](https://imgs.xkcd.com/comics/effect_an_effect.png)
+
+
+
+### Salt Dome
+No.2752
+![图片不见了~~~](https://imgs.xkcd.com/comics/salt_dome.png)
+
+[原址](https://xkcd.com//2752) [下载](https://imgs.xkcd.com/comics/salt_dome.png)
 
 
 
