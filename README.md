@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Slab Graveyard
-No.3303
-![图片不见了~~~](https://imgs.xkcd.com/comics/slab_graveyard.png)
+### Jupiter Icy Moons Explorer
+No.3304
+![图片不见了~~~](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
 
-[原址](https://xkcd.com//3303) [下载](https://imgs.xkcd.com/comics/slab_graveyard.png)
+[原址](https://xkcd.com//3304) [下载](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
 
 
 
 ## 随机漫画
-### Turnabout
-No.1441
-![图片不见了~~~](https://imgs.xkcd.com/comics/turnabout.png)
+### Giants
+No.3055
+![图片不见了~~~](https://imgs.xkcd.com/comics/giants.png)
 
-[原址](https://xkcd.com//1441) [下载](https://imgs.xkcd.com/comics/turnabout.png)
-
-
-
-### Effect an Effect
-No.326
-![图片不见了~~~](https://imgs.xkcd.com/comics/effect_an_effect.png)
-
-[原址](https://xkcd.com//326) [下载](https://imgs.xkcd.com/comics/effect_an_effect.png)
+[原址](https://xkcd.com//3055) [下载](https://imgs.xkcd.com/comics/giants.png)
 
 
 
-### Salt Dome
-No.2752
-![图片不见了~~~](https://imgs.xkcd.com/comics/salt_dome.png)
+### 50 ccs
+No.1713
+![图片不见了~~~](https://imgs.xkcd.com/comics/50_ccs.png)
 
-[原址](https://xkcd.com//2752) [下载](https://imgs.xkcd.com/comics/salt_dome.png)
+[原址](https://xkcd.com//1713) [下载](https://imgs.xkcd.com/comics/50_ccs.png)
+
+
+
+### Siphon
+No.2775
+![图片不见了~~~](https://imgs.xkcd.com/comics/siphon.png)
+
+[原址](https://xkcd.com//2775) [下载](https://imgs.xkcd.com/comics/siphon.png)
 
 
 
