@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Jupiter Icy Moons Explorer
-No.3304
-![图片不见了~~~](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
+### Accelerator Energies
+No.3306
+![图片不见了~~~](https://imgs.xkcd.com/comics/accelerator_energies.png)
 
-[原址](https://xkcd.com//3304) [下载](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
+[原址](https://xkcd.com//3306) [下载](https://imgs.xkcd.com/comics/accelerator_energies.png)
 
 
 
 ## 随机漫画
-### Giants
-No.3055
-![图片不见了~~~](https://imgs.xkcd.com/comics/giants.png)
+### Laundry
+No.1066
+![图片不见了~~~](https://imgs.xkcd.com/comics/laundry.png)
 
-[原址](https://xkcd.com//3055) [下载](https://imgs.xkcd.com/comics/giants.png)
-
-
-
-### 50 ccs
-No.1713
-![图片不见了~~~](https://imgs.xkcd.com/comics/50_ccs.png)
-
-[原址](https://xkcd.com//1713) [下载](https://imgs.xkcd.com/comics/50_ccs.png)
+[原址](https://xkcd.com//1066) [下载](https://imgs.xkcd.com/comics/laundry.png)
 
 
 
-### Siphon
-No.2775
-![图片不见了~~~](https://imgs.xkcd.com/comics/siphon.png)
+### Endorheic Basin
+No.2325
+![图片不见了~~~](https://imgs.xkcd.com/comics/endorheic_basin.png)
 
-[原址](https://xkcd.com//2775) [下载](https://imgs.xkcd.com/comics/siphon.png)
+[原址](https://xkcd.com//2325) [下载](https://imgs.xkcd.com/comics/endorheic_basin.png)
+
+
+
+### Percentage Points
+No.985
+![图片不见了~~~](https://imgs.xkcd.com/comics/percentage_points.png)
+
+[原址](https://xkcd.com//985) [下载](https://imgs.xkcd.com/comics/percentage_points.png)
 
 
 
