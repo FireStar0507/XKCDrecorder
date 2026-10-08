@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Spectrum Allocation
-No.3307
-![图片不见了~~~](https://imgs.xkcd.com/comics/spectrum_allocation.png)
+### Juice
+No.3308
+![图片不见了~~~](https://imgs.xkcd.com/comics/juice.png)
 
-[原址](https://xkcd.com//3307) [下载](https://imgs.xkcd.com/comics/spectrum_allocation.png)
+[原址](https://xkcd.com//3308) [下载](https://imgs.xkcd.com/comics/juice.png)
 
 
 
 ## 随机漫画
-### Old-Timers
-No.1058
-![图片不见了~~~](https://imgs.xkcd.com/comics/old_timers.png)
+### Journal
+No.374
+![图片不见了~~~](https://imgs.xkcd.com/comics/journal.png)
 
-[原址](https://xkcd.com//1058) [下载](https://imgs.xkcd.com/comics/old_timers.png)
-
-
-
-### Husband and Wife
-No.3237
-![图片不见了~~~](https://imgs.xkcd.com/comics/husband_and_wife.png)
-
-[原址](https://xkcd.com//3237) [下载](https://imgs.xkcd.com/comics/husband_and_wife.png)
+[原址](https://xkcd.com//374) [下载](https://imgs.xkcd.com/comics/journal.png)
 
 
 
-### Brain Worms
-No.719
-![图片不见了~~~](https://imgs.xkcd.com/comics/brain_worms.png)
+### Excel Lambda
+No.2453
+![图片不见了~~~](https://imgs.xkcd.com/comics/excel_lambda.png)
 
-[原址](https://xkcd.com//719) [下载](https://imgs.xkcd.com/comics/brain_worms.png)
+[原址](https://xkcd.com//2453) [下载](https://imgs.xkcd.com/comics/excel_lambda.png)
+
+
+
+### Houston
+No.1438
+![图片不见了~~~](https://imgs.xkcd.com/comics/houston.png)
+
+[原址](https://xkcd.com//1438) [下载](https://imgs.xkcd.com/comics/houston.png)
 
 
 
