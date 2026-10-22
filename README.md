@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Fusion Device
-No.3313
-![图片不见了~~~](https://imgs.xkcd.com/comics/fusion_device.png)
+### Vulnerability
+No.3314
+![图片不见了~~~](https://imgs.xkcd.com/comics/vulnerability.png)
 
-[原址](https://xkcd.com//3313) [下载](https://imgs.xkcd.com/comics/fusion_device.png)
+[原址](https://xkcd.com//3314) [下载](https://imgs.xkcd.com/comics/vulnerability.png)
 
 
 
 ## 随机漫画
-### Second Stage
-No.3018
-![图片不见了~~~](https://imgs.xkcd.com/comics/second_stage.png)
+### Those Not Present
+No.1176
+![图片不见了~~~](https://imgs.xkcd.com/comics/those_not_present.png)
 
-[原址](https://xkcd.com//3018) [下载](https://imgs.xkcd.com/comics/second_stage.png)
-
-
-
-### National Language
-No.84
-![图片不见了~~~](https://imgs.xkcd.com/comics/national_language.jpg)
-
-[原址](https://xkcd.com//84) [下载](https://imgs.xkcd.com/comics/national_language.jpg)
+[原址](https://xkcd.com//1176) [下载](https://imgs.xkcd.com/comics/those_not_present.png)
 
 
 
-### Infrastructures
-No.743
-![图片不见了~~~](https://imgs.xkcd.com/comics/infrastructures.png)
+### Cold Air
+No.3016
+![图片不见了~~~](https://imgs.xkcd.com/comics/cold_air.png)
 
-[原址](https://xkcd.com//743) [下载](https://imgs.xkcd.com/comics/infrastructures.png)
+[原址](https://xkcd.com//3016) [下载](https://imgs.xkcd.com/comics/cold_air.png)
+
+
+
+### Nostalgia Content
+No.3256
+![图片不见了~~~](https://imgs.xkcd.com/comics/nostalgia_content.png)
+
+[原址](https://xkcd.com//3256) [下载](https://imgs.xkcd.com/comics/nostalgia_content.png)
 
 
 
