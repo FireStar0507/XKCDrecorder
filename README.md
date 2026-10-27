@@ -16,27 +16,27 @@ No.3315
 
 
 ## 随机漫画
-### 1996
-No.768
-![图片不见了~~~](https://imgs.xkcd.com/comics/1996.png)
+### Good and Bad Ideas
+No.2929
+![图片不见了~~~](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
 
-[原址](https://xkcd.com//768) [下载](https://imgs.xkcd.com/comics/1996.png)
-
-
-
-### Amperage
-No.3211
-![图片不见了~~~](https://imgs.xkcd.com/comics/amperage.png)
-
-[原址](https://xkcd.com//3211) [下载](https://imgs.xkcd.com/comics/amperage.png)
+[原址](https://xkcd.com//2929) [下载](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
 
 
 
-### Periodic Table Changes
-No.2639
-![图片不见了~~~](https://imgs.xkcd.com/comics/periodic_table_changes.png)
+### Interoperability
+No.3105
+![图片不见了~~~](https://imgs.xkcd.com/comics/interoperability.png)
 
-[原址](https://xkcd.com//2639) [下载](https://imgs.xkcd.com/comics/periodic_table_changes.png)
+[原址](https://xkcd.com//3105) [下载](https://imgs.xkcd.com/comics/interoperability.png)
+
+
+
+### Towed Message
+No.2757
+![图片不见了~~~](https://imgs.xkcd.com/comics/towed_message.png)
+
+[原址](https://xkcd.com//2757) [下载](https://imgs.xkcd.com/comics/towed_message.png)
 
 
 
