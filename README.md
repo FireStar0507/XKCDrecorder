@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Forms of Water
-No.3315
-![图片不见了~~~](https://imgs.xkcd.com/comics/forms_of_water.png)
+### Gravitational Square Wave
+No.3317
+![图片不见了~~~](https://imgs.xkcd.com/comics/gravitational_square_wave.png)
 
-[原址](https://xkcd.com//3315) [下载](https://imgs.xkcd.com/comics/forms_of_water.png)
+[原址](https://xkcd.com//3317) [下载](https://imgs.xkcd.com/comics/gravitational_square_wave.png)
 
 
 
 ## 随机漫画
-### Good and Bad Ideas
-No.2929
-![图片不见了~~~](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
+### Flashlights
+No.1603
+![图片不见了~~~](https://imgs.xkcd.com/comics/flashlights.png)
 
-[原址](https://xkcd.com//2929) [下载](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)
-
-
-
-### Interoperability
-No.3105
-![图片不见了~~~](https://imgs.xkcd.com/comics/interoperability.png)
-
-[原址](https://xkcd.com//3105) [下载](https://imgs.xkcd.com/comics/interoperability.png)
+[原址](https://xkcd.com//1603) [下载](https://imgs.xkcd.com/comics/flashlights.png)
 
 
 
-### Towed Message
-No.2757
-![图片不见了~~~](https://imgs.xkcd.com/comics/towed_message.png)
+### Coronavirus Name
+No.2275
+![图片不见了~~~](https://imgs.xkcd.com/comics/coronavirus_name.png)
 
-[原址](https://xkcd.com//2757) [下载](https://imgs.xkcd.com/comics/towed_message.png)
+[原址](https://xkcd.com//2275) [下载](https://imgs.xkcd.com/comics/coronavirus_name.png)
+
+
+
+### Log Alignment
+No.2884
+![图片不见了~~~](https://imgs.xkcd.com/comics/log_alignment.png)
+
+[原址](https://xkcd.com//2884) [下载](https://imgs.xkcd.com/comics/log_alignment.png)
 
 
 
