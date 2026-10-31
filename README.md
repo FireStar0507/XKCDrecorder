@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Gravitational Square Wave
-No.3317
-![图片不见了~~~](https://imgs.xkcd.com/comics/gravitational_square_wave.png)
+### Earth Sized Planets
+No.3318
+![图片不见了~~~](https://imgs.xkcd.com/comics/earth_sized_planets.png)
 
-[原址](https://xkcd.com//3317) [下载](https://imgs.xkcd.com/comics/gravitational_square_wave.png)
+[原址](https://xkcd.com//3318) [下载](https://imgs.xkcd.com/comics/earth_sized_planets.png)
 
 
 
 ## 随机漫画
-### Flashlights
-No.1603
-![图片不见了~~~](https://imgs.xkcd.com/comics/flashlights.png)
+### Time Capsule Instructions
+No.3031
+![图片不见了~~~](https://imgs.xkcd.com/comics/time_capsule_instructions.png)
 
-[原址](https://xkcd.com//1603) [下载](https://imgs.xkcd.com/comics/flashlights.png)
-
-
-
-### Coronavirus Name
-No.2275
-![图片不见了~~~](https://imgs.xkcd.com/comics/coronavirus_name.png)
-
-[原址](https://xkcd.com//2275) [下载](https://imgs.xkcd.com/comics/coronavirus_name.png)
+[原址](https://xkcd.com//3031) [下载](https://imgs.xkcd.com/comics/time_capsule_instructions.png)
 
 
 
-### Log Alignment
-No.2884
-![图片不见了~~~](https://imgs.xkcd.com/comics/log_alignment.png)
+### Occulting Telescope
+No.975
+![图片不见了~~~](https://imgs.xkcd.com/comics/occulting_telescope.png)
 
-[原址](https://xkcd.com//2884) [下载](https://imgs.xkcd.com/comics/log_alignment.png)
+[原址](https://xkcd.com//975) [下载](https://imgs.xkcd.com/comics/occulting_telescope.png)
+
+
+
+### dPain over dt
+No.128
+![图片不见了~~~](https://imgs.xkcd.com/comics/dPain_over_dt.png)
+
+[原址](https://xkcd.com//128) [下载](https://imgs.xkcd.com/comics/dPain_over_dt.png)
 
 
 
