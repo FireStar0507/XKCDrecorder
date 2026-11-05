@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Elevators
-No.3319
-![图片不见了~~~](https://imgs.xkcd.com/comics/elevators.png)
+### House Majority
+No.3320
+![图片不见了~~~](https://imgs.xkcd.com/comics/house_majority.png)
 
-[原址](https://xkcd.com//3319) [下载](https://imgs.xkcd.com/comics/elevators.png)
+[原址](https://xkcd.com//3320) [下载](https://imgs.xkcd.com/comics/house_majority.png)
 
 
 
 ## 随机漫画
-### 4th of July
-No.1858
-![图片不见了~~~](https://imgs.xkcd.com/comics/4th_of_july.png)
+### 100% All Achievements
+No.3148
+![图片不见了~~~](https://imgs.xkcd.com/comics/100_all_achievements.png)
 
-[原址](https://xkcd.com//1858) [下载](https://imgs.xkcd.com/comics/4th_of_july.png)
-
-
-
-### Hurricane Hunters
-No.2353
-![图片不见了~~~](https://imgs.xkcd.com/comics/hurricane_hunters.png)
-
-[原址](https://xkcd.com//2353) [下载](https://imgs.xkcd.com/comics/hurricane_hunters.png)
+[原址](https://xkcd.com//3148) [下载](https://imgs.xkcd.com/comics/100_all_achievements.png)
 
 
 
-### Woosh
-No.1627
-![图片不见了~~~](https://imgs.xkcd.com/comics/woosh.png)
+### Doppler Effect
+No.2926
+![图片不见了~~~](https://imgs.xkcd.com/comics/doppler_effect.png)
 
-[原址](https://xkcd.com//1627) [下载](https://imgs.xkcd.com/comics/woosh.png)
+[原址](https://xkcd.com//2926) [下载](https://imgs.xkcd.com/comics/doppler_effect.png)
+
+
+
+### Screws
+No.1474
+![图片不见了~~~](https://imgs.xkcd.com/comics/screws.png)
+
+[原址](https://xkcd.com//1474) [下载](https://imgs.xkcd.com/comics/screws.png)
 
 
 
