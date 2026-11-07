@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### House Majority
-No.3320
-![图片不见了~~~](https://imgs.xkcd.com/comics/house_majority.png)
+### Simulation
+No.3321
+![图片不见了~~~](https://imgs.xkcd.com/comics/simulation.png)
 
-[原址](https://xkcd.com//3320) [下载](https://imgs.xkcd.com/comics/house_majority.png)
+[原址](https://xkcd.com//3321) [下载](https://imgs.xkcd.com/comics/simulation.png)
 
 
 
 ## 随机漫画
-### 100% All Achievements
-No.3148
-![图片不见了~~~](https://imgs.xkcd.com/comics/100_all_achievements.png)
+### Aeris Dies
+No.299
+![图片不见了~~~](https://imgs.xkcd.com/comics/aeris_dies.png)
 
-[原址](https://xkcd.com//3148) [下载](https://imgs.xkcd.com/comics/100_all_achievements.png)
-
-
-
-### Doppler Effect
-No.2926
-![图片不见了~~~](https://imgs.xkcd.com/comics/doppler_effect.png)
-
-[原址](https://xkcd.com//2926) [下载](https://imgs.xkcd.com/comics/doppler_effect.png)
+[原址](https://xkcd.com//299) [下载](https://imgs.xkcd.com/comics/aeris_dies.png)
 
 
 
-### Screws
-No.1474
-![图片不见了~~~](https://imgs.xkcd.com/comics/screws.png)
+### Hydrogen Isotopes
+No.2719
+![图片不见了~~~](https://imgs.xkcd.com/comics/hydrogen_isotopes.png)
 
-[原址](https://xkcd.com//1474) [下载](https://imgs.xkcd.com/comics/screws.png)
+[原址](https://xkcd.com//2719) [下载](https://imgs.xkcd.com/comics/hydrogen_isotopes.png)
+
+
+
+### Pascal's Wager Triangle
+No.2947
+![图片不见了~~~](https://imgs.xkcd.com/comics/pascals_wager_triangle.png)
+
+[原址](https://xkcd.com//2947) [下载](https://imgs.xkcd.com/comics/pascals_wager_triangle.png)
 
 
 
