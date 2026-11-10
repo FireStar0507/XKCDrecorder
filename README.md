@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Simulation
-No.3321
-![图片不见了~~~](https://imgs.xkcd.com/comics/simulation.png)
+### Dragonfly
+No.3322
+![图片不见了~~~](https://imgs.xkcd.com/comics/dragonfly.png)
 
-[原址](https://xkcd.com//3321) [下载](https://imgs.xkcd.com/comics/simulation.png)
+[原址](https://xkcd.com//3322) [下载](https://imgs.xkcd.com/comics/dragonfly.png)
 
 
 
 ## 随机漫画
-### Aeris Dies
-No.299
-![图片不见了~~~](https://imgs.xkcd.com/comics/aeris_dies.png)
+### Sex Dice
+No.708
+![图片不见了~~~](https://imgs.xkcd.com/comics/sex_dice.png)
 
-[原址](https://xkcd.com//299) [下载](https://imgs.xkcd.com/comics/aeris_dies.png)
-
-
-
-### Hydrogen Isotopes
-No.2719
-![图片不见了~~~](https://imgs.xkcd.com/comics/hydrogen_isotopes.png)
-
-[原址](https://xkcd.com//2719) [下载](https://imgs.xkcd.com/comics/hydrogen_isotopes.png)
+[原址](https://xkcd.com//708) [下载](https://imgs.xkcd.com/comics/sex_dice.png)
 
 
 
-### Pascal's Wager Triangle
-No.2947
-![图片不见了~~~](https://imgs.xkcd.com/comics/pascals_wager_triangle.png)
+### Urgent Mission
+No.567
+![图片不见了~~~](https://imgs.xkcd.com/comics/urgent_mission.png)
 
-[原址](https://xkcd.com//2947) [下载](https://imgs.xkcd.com/comics/pascals_wager_triangle.png)
+[原址](https://xkcd.com//567) [下载](https://imgs.xkcd.com/comics/urgent_mission.png)
+
+
+
+### Jeremy Irons
+No.93
+![图片不见了~~~](https://imgs.xkcd.com/comics/jeremy_irons.jpg)
+
+[原址](https://xkcd.com//93) [下载](https://imgs.xkcd.com/comics/jeremy_irons.jpg)
 
 
 
