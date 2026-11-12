@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Dragonfly
-No.3322
-![图片不见了~~~](https://imgs.xkcd.com/comics/dragonfly.png)
+### Meteor Fear
+No.3323
+![图片不见了~~~](https://imgs.xkcd.com/comics/meteor_fear.png)
 
-[原址](https://xkcd.com//3322) [下载](https://imgs.xkcd.com/comics/dragonfly.png)
+[原址](https://xkcd.com//3323) [下载](https://imgs.xkcd.com/comics/meteor_fear.png)
 
 
 
 ## 随机漫画
-### Sex Dice
-No.708
-![图片不见了~~~](https://imgs.xkcd.com/comics/sex_dice.png)
+### Board Game
+No.1566
+![图片不见了~~~](https://imgs.xkcd.com/comics/board_game.png)
 
-[原址](https://xkcd.com//708) [下载](https://imgs.xkcd.com/comics/sex_dice.png)
-
-
-
-### Urgent Mission
-No.567
-![图片不见了~~~](https://imgs.xkcd.com/comics/urgent_mission.png)
-
-[原址](https://xkcd.com//567) [下载](https://imgs.xkcd.com/comics/urgent_mission.png)
+[原址](https://xkcd.com//1566) [下载](https://imgs.xkcd.com/comics/board_game.png)
 
 
 
-### Jeremy Irons
-No.93
-![图片不见了~~~](https://imgs.xkcd.com/comics/jeremy_irons.jpg)
+### Effect Size
+No.2755
+![图片不见了~~~](https://imgs.xkcd.com/comics/effect_size.png)
 
-[原址](https://xkcd.com//93) [下载](https://imgs.xkcd.com/comics/jeremy_irons.jpg)
+[原址](https://xkcd.com//2755) [下载](https://imgs.xkcd.com/comics/effect_size.png)
+
+
+
+### Eclipse Birds
+No.1879
+![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_birds.png)
+
+[原址](https://xkcd.com//1879) [下载](https://imgs.xkcd.com/comics/eclipse_birds.png)
 
 
 
