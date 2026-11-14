@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Meteor Fear
-No.3323
-![图片不见了~~~](https://imgs.xkcd.com/comics/meteor_fear.png)
+### Ultimate Movie Series
+No.3324
+![图片不见了~~~](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
 
-[原址](https://xkcd.com//3323) [下载](https://imgs.xkcd.com/comics/meteor_fear.png)
+[原址](https://xkcd.com//3324) [下载](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
 
 
 
 ## 随机漫画
-### Board Game
-No.1566
-![图片不见了~~~](https://imgs.xkcd.com/comics/board_game.png)
+### Airspeed
+No.3161
+![图片不见了~~~](https://imgs.xkcd.com/comics/airspeed.png)
 
-[原址](https://xkcd.com//1566) [下载](https://imgs.xkcd.com/comics/board_game.png)
-
-
-
-### Effect Size
-No.2755
-![图片不见了~~~](https://imgs.xkcd.com/comics/effect_size.png)
-
-[原址](https://xkcd.com//2755) [下载](https://imgs.xkcd.com/comics/effect_size.png)
+[原址](https://xkcd.com//3161) [下载](https://imgs.xkcd.com/comics/airspeed.png)
 
 
 
-### Eclipse Birds
-No.1879
-![图片不见了~~~](https://imgs.xkcd.com/comics/eclipse_birds.png)
+### Log Alignment
+No.2884
+![图片不见了~~~](https://imgs.xkcd.com/comics/log_alignment.png)
 
-[原址](https://xkcd.com//1879) [下载](https://imgs.xkcd.com/comics/eclipse_birds.png)
+[原址](https://xkcd.com//2884) [下载](https://imgs.xkcd.com/comics/log_alignment.png)
+
+
+
+### Bun
+No.1682
+![图片不见了~~~](https://imgs.xkcd.com/comics/bun.png)
+
+[原址](https://xkcd.com//1682) [下载](https://imgs.xkcd.com/comics/bun.png)
 
 
 
