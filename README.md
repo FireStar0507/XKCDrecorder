@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Ultimate Movie Series
-No.3324
-![图片不见了~~~](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
+### Light-Day
+No.3325
+![图片不见了~~~](https://imgs.xkcd.com/comics/light_day.png)
 
-[原址](https://xkcd.com//3324) [下载](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
+[原址](https://xkcd.com//3325) [下载](https://imgs.xkcd.com/comics/light_day.png)
 
 
 
 ## 随机漫画
-### Airspeed
-No.3161
-![图片不见了~~~](https://imgs.xkcd.com/comics/airspeed.png)
+### Record Scratch
+No.1745
+![图片不见了~~~](https://imgs.xkcd.com/comics/record_scratch.png)
 
-[原址](https://xkcd.com//3161) [下载](https://imgs.xkcd.com/comics/airspeed.png)
-
-
-
-### Log Alignment
-No.2884
-![图片不见了~~~](https://imgs.xkcd.com/comics/log_alignment.png)
-
-[原址](https://xkcd.com//2884) [下载](https://imgs.xkcd.com/comics/log_alignment.png)
+[原址](https://xkcd.com//1745) [下载](https://imgs.xkcd.com/comics/record_scratch.png)
 
 
 
-### Bun
-No.1682
-![图片不见了~~~](https://imgs.xkcd.com/comics/bun.png)
+### Laptop Hell
+No.533
+![图片不见了~~~](https://imgs.xkcd.com/comics/laptop_hell.png)
 
-[原址](https://xkcd.com//1682) [下载](https://imgs.xkcd.com/comics/bun.png)
+[原址](https://xkcd.com//533) [下载](https://imgs.xkcd.com/comics/laptop_hell.png)
+
+
+
+### Action Movies
+No.311
+![图片不见了~~~](https://imgs.xkcd.com/comics/action_movies.png)
+
+[原址](https://xkcd.com//311) [下载](https://imgs.xkcd.com/comics/action_movies.png)
 
 
 
