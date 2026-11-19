@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Light-Day
-No.3325
-![图片不见了~~~](https://imgs.xkcd.com/comics/light_day.png)
+### Voyager Crash
+No.3326
+![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_crash.png)
 
-[原址](https://xkcd.com//3325) [下载](https://imgs.xkcd.com/comics/light_day.png)
+[原址](https://xkcd.com//3326) [下载](https://imgs.xkcd.com/comics/voyager_crash.png)
 
 
 
 ## 随机漫画
-### Record Scratch
-No.1745
-![图片不见了~~~](https://imgs.xkcd.com/comics/record_scratch.png)
+### Ringtone Timeline
+No.2272
+![图片不见了~~~](https://imgs.xkcd.com/comics/ringtone_timeline.png)
 
-[原址](https://xkcd.com//1745) [下载](https://imgs.xkcd.com/comics/record_scratch.png)
-
-
-
-### Laptop Hell
-No.533
-![图片不见了~~~](https://imgs.xkcd.com/comics/laptop_hell.png)
-
-[原址](https://xkcd.com//533) [下载](https://imgs.xkcd.com/comics/laptop_hell.png)
+[原址](https://xkcd.com//2272) [下载](https://imgs.xkcd.com/comics/ringtone_timeline.png)
 
 
 
-### Action Movies
-No.311
-![图片不见了~~~](https://imgs.xkcd.com/comics/action_movies.png)
+### Pipelines
+No.1649
+![图片不见了~~~](https://imgs.xkcd.com/comics/pipelines.png)
 
-[原址](https://xkcd.com//311) [下载](https://imgs.xkcd.com/comics/action_movies.png)
+[原址](https://xkcd.com//1649) [下载](https://imgs.xkcd.com/comics/pipelines.png)
+
+
+
+### Backpack Decisions
+No.1952
+![图片不见了~~~](https://imgs.xkcd.com/comics/backpack_decisions.png)
+
+[原址](https://xkcd.com//1952) [下载](https://imgs.xkcd.com/comics/backpack_decisions.png)
 
 
 
