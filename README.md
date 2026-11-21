@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Voyager Crash
-No.3326
-![图片不见了~~~](https://imgs.xkcd.com/comics/voyager_crash.png)
+### Plate Maintenance
+No.3327
+![图片不见了~~~](https://imgs.xkcd.com/comics/plate_maintenance.png)
 
-[原址](https://xkcd.com//3326) [下载](https://imgs.xkcd.com/comics/voyager_crash.png)
+[原址](https://xkcd.com//3327) [下载](https://imgs.xkcd.com/comics/plate_maintenance.png)
 
 
 
 ## 随机漫画
-### Ringtone Timeline
-No.2272
-![图片不见了~~~](https://imgs.xkcd.com/comics/ringtone_timeline.png)
+### Geology Murder
+No.3112
+![图片不见了~~~](https://imgs.xkcd.com/comics/geology_murder.png)
 
-[原址](https://xkcd.com//2272) [下载](https://imgs.xkcd.com/comics/ringtone_timeline.png)
-
-
-
-### Pipelines
-No.1649
-![图片不见了~~~](https://imgs.xkcd.com/comics/pipelines.png)
-
-[原址](https://xkcd.com//1649) [下载](https://imgs.xkcd.com/comics/pipelines.png)
+[原址](https://xkcd.com//3112) [下载](https://imgs.xkcd.com/comics/geology_murder.png)
 
 
 
-### Backpack Decisions
-No.1952
-![图片不见了~~~](https://imgs.xkcd.com/comics/backpack_decisions.png)
+### Normal Distribution
+No.2118
+![图片不见了~~~](https://imgs.xkcd.com/comics/normal_distribution.png)
 
-[原址](https://xkcd.com//1952) [下载](https://imgs.xkcd.com/comics/backpack_decisions.png)
+[原址](https://xkcd.com//2118) [下载](https://imgs.xkcd.com/comics/normal_distribution.png)
+
+
+
+### Endorheic Basin
+No.2325
+![图片不见了~~~](https://imgs.xkcd.com/comics/endorheic_basin.png)
+
+[原址](https://xkcd.com//2325) [下载](https://imgs.xkcd.com/comics/endorheic_basin.png)
 
 
 
