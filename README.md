@@ -7,36 +7,36 @@
 
 
 ## 最新漫画
-### Plate Maintenance
-No.3327
-![图片不见了~~~](https://imgs.xkcd.com/comics/plate_maintenance.png)
+### Ivory Tower Elites
+No.3328
+![图片不见了~~~](https://imgs.xkcd.com/comics/ivory_tower_elites.png)
 
-[原址](https://xkcd.com//3327) [下载](https://imgs.xkcd.com/comics/plate_maintenance.png)
+[原址](https://xkcd.com//3328) [下载](https://imgs.xkcd.com/comics/ivory_tower_elites.png)
 
 
 
 ## 随机漫画
-### Geology Murder
-No.3112
-![图片不见了~~~](https://imgs.xkcd.com/comics/geology_murder.png)
+### Cursed mRNA Cocktail
+No.2673
+![图片不见了~~~](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
 
-[原址](https://xkcd.com//3112) [下载](https://imgs.xkcd.com/comics/geology_murder.png)
-
-
-
-### Normal Distribution
-No.2118
-![图片不见了~~~](https://imgs.xkcd.com/comics/normal_distribution.png)
-
-[原址](https://xkcd.com//2118) [下载](https://imgs.xkcd.com/comics/normal_distribution.png)
+[原址](https://xkcd.com//2673) [下载](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
 
 
 
-### Endorheic Basin
-No.2325
-![图片不见了~~~](https://imgs.xkcd.com/comics/endorheic_basin.png)
+### Precision vs Accuracy
+No.2696
+![图片不见了~~~](https://imgs.xkcd.com/comics/precision_vs_accuracy.png)
 
-[原址](https://xkcd.com//2325) [下载](https://imgs.xkcd.com/comics/endorheic_basin.png)
+[原址](https://xkcd.com//2696) [下载](https://imgs.xkcd.com/comics/precision_vs_accuracy.png)
+
+
+
+### The Wreck of the Edmund Fitzgerald
+No.2910
+![图片不见了~~~](https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png)
+
+[原址](https://xkcd.com//2910) [下载](https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png)
 
 
 
